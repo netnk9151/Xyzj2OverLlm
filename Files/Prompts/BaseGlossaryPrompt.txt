@@ -2,7 +2,7 @@
 Prioritise and use the translation when an exact match with the original text is found.
 
 
-1. 剑과 刀를 구분하세요.
+1. 剑과 刀를 구분해서 한국어로 번역하세요.
 
 2. 枪에 대한 올바른 번역어는 "창"입니다. "총"이 아닙니다.
 
