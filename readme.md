@@ -1,19 +1,19 @@
-# Journey to Jianghu 2 English Patch
+# 하일참강호 2 한국어 패치
 
 Install guide:
-1. Extract the [Pre-requesites](https://github.com/joshfreitas1984/Xyzj2OverLlm/releases/download/2025.03.01.16.41.zip/Install-Prerequisites-Into-Game-Folder.zip) into your `<Game Folder>`
-2. Extract the [Latest Release](https://github.com/joshfreitas1984/Xyzj2OverLlm/releases) into your `<Game Folder>` folder
+1.  `<게임 폴더>`에 [요구 파일](https://github.com/joshfreitas1984/Xyzj2OverLlm/releases/download/2025.03.01.16.41.zip/Install-Prerequisites-Into-Game-Folder.zip) 의 압축을 풀어주세요.
+2. `<게임 폴더>`에 [최신 릴리즈](https://github.com/joshfreitas1984/Xyzj2OverLlm/releases) 의 압축을 풀어주세요.
 
-# Contacting us
+# 문의
 
-You can join us here: [Discord](https://discord.gg/sqXd5ceBWT)
+다음 디스코드에서 도움을 받았습니다: [Discord](https://discord.gg/sqXd5ceBWT)
 
-## Pre-requesites
-The pre-reqs contains:
+## 요구사항
+다음의 요구사항들이 포함됩니다:
   - BepInEx
   - Unstripped Game DLLs
   - Configuration for BepinEx
-  - XUnity.AutoTranslator (with no configuration!!) - used only for text resizer
-    - Recommend you set the translator to pass through if the resizer does not work. You can use a translator to fill the gaps in stuff not patched but not recommended.
+  - XUnity.AutoTranslator (설정 되어있지 않음!!) - resizer 사용 전용
+    - resizer가 작동하지 않는 경우 번역기를 passthrough로 설정해주세요. 직접 번역을 할 수도 있지만 추천하진 않습니다.
   - Resizer configuration to make text fit on screen.
   
