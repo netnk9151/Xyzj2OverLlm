@@ -1,4 +1,4 @@
-# 하일참강호 2 한국어 패치
+# 하일참강호 2 한국어 패치 (작업 중)
 
 Install guide:
 1.  `<게임 폴더>`에 [요구 파일](https://github.com/joshfreitas1984/Xyzj2OverLlm/releases/download/2025.03.01.16.41.zip/Install-Prerequisites-Into-Game-Folder.zip) 의 압축을 풀어주세요.
