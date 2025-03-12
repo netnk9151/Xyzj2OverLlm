@@ -1,1 +1,1 @@
-﻿- **Chinese Calendar days**: Translate Chinese calendar days into their numerical equivalents. For example, convert "初五" to "5th." 
+﻿- **Chinese Calendar days**: Translate Chinese calendar days into their numerical equivalents. For example, convert "初五" to "초오" .
