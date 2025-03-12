@@ -1,4 +1,5 @@
-﻿Transliterate all chinese text I give you to their Pinyin equivalent.
+모든 중국식 이름을 한국식 한자 독음에 맞게 음차하세요.
+
 
 **Verification:**
 - Confirm the accuracy and only return the final result.
