@@ -1,2 +1,12 @@
 ﻿#### Glossary for Consistent Translations
 Prioritise and use the translation when an exact match with the original text is found.
+
+
+1. 剑과 刀를 구분하세요.
+
+2. 枪에 대한 올바른 번역어는 "창"입니다. "총"이 아닙니다.
+
+3. 降龙十八掌은 "항룡십팔장" 이라고 번역하세요. "강룡십팔장"이 아닙니다.
+
+4. 마찬가지로 降龙, 혹은 亢龙은 "항룡"이라고 번역해야 합니다.
+
