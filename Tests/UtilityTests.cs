@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using SharedAssembly.DynamicStrings;
 using System.Text.RegularExpressions;
-using System.Threading.Tasks;
-using Translate.Support;
 using Translate.Utility;
 
 namespace Translate.Tests;
@@ -187,5 +182,21 @@ public class UtilityTests
         // Check if the input matches the pattern and assert the result
         var result = regex.IsMatch(input);
         Assert.Equal(expectedResult, result);
+    }
+
+    [Theory]
+    [InlineData("前往乘风渡劫杀{E}（{IsCanFinish:0:1}/1)", "asffsdf（{IsCanFinish:0:1}/1)", false)]
+    [InlineData("前往乘风渡劫杀{E}（{IsCanFinish:0:1}/1)", "asffsdf {E}（{IsCanFinish:0:1}/1)", true)]
+    [InlineData("前往乘风渡劫杀{E}（{IsCanFinish:0:1}/1)", "asffsdf {E}（{IsCan Finish:0:1}/1)", false)]
+    [InlineData("前往乘风渡劫杀{E}（{IsCanFinish:0:1}/1)", "asffsdf {E}（0/1)", false)]
+    public void CheckTransalationSuccessfulTest(string raw, string result, bool valid)
+    {
+        var config = Configuration.GetConfiguration(workingDirectory);
+        
+        // Act
+        var  validationResult = LineValidation.CheckTransalationSuccessful(config, raw, result, new TextFileToSplit());
+
+        // Assert
+        Assert.Equal(valid, validationResult.Valid);
     }
 }

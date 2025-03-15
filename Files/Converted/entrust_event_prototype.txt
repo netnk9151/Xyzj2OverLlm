@@ -18398,7 +18398,7 @@
     translated: "Pure Jade Gate Bounty"
   - split: 24
     text: "清玉门独有的玄门之法本是记录在{I}中，却遭贼人所窃，今查明是{E}所为，特求人追回{I}。"
-    translated: "The esoteric methods unique to Pure Jade Gate, recorded in {I}, have been stolen by thieves. Upon investigation, it has been found that {E} is responsible. We seek assistance in recovering {I}."
+    translated: "The unique Xuanmen techniques of the Pure Jade Gate were originally recorded in {I}, but they have been stolen by thieves. It has now been discovered that it was done by {E}, and we are seeking assistance to recover them from {I}."
   - split: 34
     text: "夺回{E}身上的{I}（{IsCanFinish:0:1}/1)"
     translated: "Reclaim {E}'s {I} ({IsCanFinish:0:1}/1)"
@@ -18983,7 +18983,7 @@
     translated: "Crafting Instruments"
   - split: 24
     text: "前些日子研习机杼经典，发现了不少新式农具的研制方法，但{I}这个材料还差二十个，望能有门人或侠士填补这些。"
-    translated: "A few days ago, while studying the classic texts of agricultural tools, I discovered several new methods for crafting modern farming implements. However, I am short by twenty units of {I} material and hope that one of my disciples or a fellow martial artist can help fill this gap."
+    translated: "Recently, while studying the Weaving Loom Sutra, I discovered several new methods for crafting agricultural tools. However, {I}, this material is still lacking twenty more units, and I hope some of my disciples or knights-errant can help fill these gaps."
   - split: 34
     text: "获得{I}（{NeedItemInfoCount}/{N})"
     translated: "Acquired {I} ({NeedItemInfoCount}/{N})"
@@ -23279,7 +23279,7 @@
   splits:
   - split: 1
     text: "玄门：羽士之道"
-    translated: "Mysterious Gate: The Way of the Immortal"
+    translated: "Xuanmen: The Way of the Immortal Hermit"
   - split: 34
     text: "获得{I}（{HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})"
     translated: "Obtained {I} ({HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})"
@@ -23288,7 +23288,7 @@
     translated: "Give {I} to {A}"
   - split: 37
     text: "玄门：羽士之道"
-    translated: "Mysterious Gate: The Way of the Immortal"
+    translated: "Xuanmen: The Way of the Immortal Hermit"
 - lineNum: 600001
   raw: "600001#菩提：行走之道#0#0#0#956401#956397#956398######0#7001|2&7246|1&7228|1&7312|1#0##0#0#25#0|1|33006#0##0##0##0#0#0##0#0#0#获得{I}（{HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})#将{I}交给{A}#1#菩提：行走之道#0###0#0#"
   splits:
@@ -23714,7 +23714,7 @@
   splits:
   - split: 1
     text: "玄门：隐士之道"
-    translated: "Mysterious Gate: The Way of the Recluse"
+    translated: "Xuanmen: Way of the Recluse"
   - split: 34
     text: "获得{I}（{HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})"
     translated: "Obtained {I} ({HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})"
@@ -23723,7 +23723,7 @@
     translated: "Give {I} to {A}"
   - split: 37
     text: "玄门：隐士之道"
-    translated: "Mysterious Gate: The Way of the Recluse"
+    translated: "Xuanmen: Way of the Recluse"
 - lineNum: 600030
   raw: "600030#菩提：信士之道#0#0#0#956148#956144#956145#####0&1|956397|1;15|1|43|100|>=#0#7001|2&7006|1&7312|1#0##0#0#25#0|1|33007#0##0##0##0#0#0##0#0#0#获得{I}（{HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})#将{I}交给{A}#1#菩提：信士之道#0###0#0#"
   splits:
@@ -24839,7 +24839,7 @@
   splits:
   - split: 1
     text: "玄门：高人逸士之道"
-    translated: "The Way of Darkness: The Way of the Elevated Sage or Master of the Refined Path"
+    translated: "Xuanmen: The Way of the Exalted Individual or The Path of the Recluse Sage"
   - split: 34
     text: "获得{I}（{HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})"
     translated: "Obtained {I} ({HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})"
@@ -24848,7 +24848,7 @@
     translated: "Give {I} to {A}"
   - split: 37
     text: "玄门：高人逸士之道"
-    translated: "The Way of Darkness: The Way of the Elevated Sage or Master of the Refined Path"
+    translated: "Xuanmen: The Way of the Exalted Individual or The Path of the Recluse Sage"
 - lineNum: 600105
   raw: "600105#菩提：比丘之道#0#0#0#955646#955642#955643#####0&1|956397|1;1|956144|1;1|955994|1;1|955792|1;15|1|43|700|>=#0#7001|2&7006|1&7312|1#0##0#0#25#0|1|33010#0##0##0##0#0#0##0#0#0#获得{I}（{HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})#将{I}交给{A}#1#菩提：比丘之道#0###0#0#"
   splits:
@@ -25214,7 +25214,7 @@
   splits:
   - split: 1
     text: "玄门：隐居求志之道"
-    translated: "Mysterious Gate: The path of retreating to seek one's aspirations."
+    translated: "Xuanmen: The path of seclusion in pursuit of one's aspirations."
   - split: 34
     text: "获得{I}（{HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})"
     translated: "Obtained {I} ({HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})"
@@ -25223,7 +25223,7 @@
     translated: "Give {I} to {A}"
   - split: 37
     text: "玄门：隐居求志之道"
-    translated: "Mysterious Gate: The path of retreating to seek one's aspirations."
+    translated: "Xuanmen: The path of seclusion in pursuit of one's aspirations."
 - lineNum: 600130
   raw: "600130#菩提：离尘之道#0#0#0#955501#955497#955498#####0&1|956397|1;1|956144|1;1|955994|1;1|955792|1;1|955642|1;15|1|43|1000|>=#0#7001|2&7006|1&7312|1#0##0#0#25#0|1|33141#0##0##0##0#0#0##0#0#0#获得{I}（{HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})#将{I}交给{A}#1#菩提：离尘之道#0###0#0#"
   splits:
@@ -25514,7 +25514,7 @@
   splits:
   - split: 1
     text: "捕快：神捕之道"
-    translated: "Constable: The Way of Divine Capture"
+    translated: "Constable: The Way of the Divine Detective"
   - split: 34
     text: "与{E}切磋并获胜（{WaitEntrustTargetNpcId:0:1}/1)"
     translated: "Sparring with {E} and emerging victorious ({WaitEntrustTargetNpcId:0:1}/1)"
@@ -25523,7 +25523,7 @@
     translated: "Report to {A}"
   - split: 37
     text: "捕快：神捕之道"
-    translated: "Constable: The Way of Divine Capture"
+    translated: "Constable: The Way of the Divine Detective"
 - lineNum: 600150
   raw: "600150#云鹤村锻造秘术#0#0#0#955206#955202#955203#####0&10|2004|2004001|1#0#7001|2&7006|1&7201|1#0##0#0#25#0|1|45057#0##0##0##0#0#0##0#0#0#获得{I}（{HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})#将{I}交给{A}#0#秘术：百炼成钢#0###0#0#"
   splits:
@@ -25643,7 +25643,7 @@
     translated: "Report to {A}"
   - split: 37
     text: "秘法：乌金玄汤卷"
-    translated: "Secret technique: Black Gold Mysterious Soup Scroll"
+    translated: "Secret Technique: Black Gold Secret Elixir"
 - lineNum: 600160
   raw: "600160#云鹤村炼丹秘法#0#0#0#955146#955142#955143#####0&10|32028|32028001|1#0#7001|2&7006|1&7211|1#0##0#0#25#0|1|60049#0##0##0##0#0#0##0#0#0#获得{I}（{HaveWaitEntrustTargetItemCount}/{WaitEntrustTargetItemCount})#将{I}交给{A}#0#秘法：无相御风#0###0#0#"
   splits:

@@ -2277,7 +2277,7 @@
   splits:
   - split: 10
     text: "秘法：乌金玄汤卷"
-    translated: "Secret technique: Black Gold Mysterious Soup Scroll"
+    translated: "Secret Technique: Black Gold Secret Elixir"
 - lineNum: 2027007
   raw: "2027007#2027#2#28#0#0#0#0#0#0##0#0###0#0#0#0#0#"
   splits: []
@@ -3951,7 +3951,7 @@
   splits:
   - split: 10
     text: "书院卷、玄门法、菩提经我已领悟"
-    translated: "I have understood the Scholar's Scroll, the Mysterious Pathway Technique, and the Bodhi Sutra"
+    translated: "Shuyuan Scroll, Xuanmen Method, Bodhi Sutra—I have comprehended it."
 - lineNum: 20454003
   raw: "20454003#20454#1#9#0#0#0#0#0&27|20454|1#1&24|953767|1;24|953763|1#答应镜无双#0#953767###0#0#0#0#0#"
   splits:
@@ -4680,13 +4680,13 @@
   splits:
   - split: 10
     text: "询问琉璃石的事情"
-    translated: "Asking about the matter of jade"
+    translated: "Asking about the matter of the Luminous Jade Stone."
 - lineNum: 30070002
   raw: "30070002#30070#1#9#0#0#0#0#0&30|972560|1;3|37050|1#0&24|977763|1#可是这块琉璃石？#0#977763#3906|0|5;0|90110|1#0|37050|1#0#0#0#0#0#"
   splits:
   - split: 10
     text: "可是这块琉璃石？"
-    translated: "But what about this piece of lapis lazuli?"
+    translated: "But what about this piece of Luminous Jade Stone?"
 - lineNum: 30072001
   raw: "30072001#30072#1#9#0#0#0#0#0&30|972492|1#1&24|972514|1;24|972516|1#我想瞧瞧二黄，它现在在哪？#0#957645###0#0#0#0#0#"
   splits:
@@ -6453,7 +6453,7 @@
   splits:
   - split: 10
     text: "讨要玄门法"
-    translated: "Claiming the Mystery School Technique"
+    translated: "Demanding the teachings of Xuanmen"
 - lineNum: 31029004
   raw: "31029004#31029#1#9#0#0#0#0#0&27|31029|1#0&24|969060|1#可否将玄门法交给我了？#3922#0#0|37167|1##0#0#0#0#0#"
   splits:
@@ -10289,7 +10289,7 @@
   raw: "45268001#45268#1#21#350162#0#10000#0#0#0##0#0###0#0#0#0#0#"
   splits: []
 - lineNum: 45269001
-  raw: "45269001#45269#1#21#350163#0#10000#0#0#0##0#0###0#0#0#0#0#"
+  raw: "45269001#45269#1#21#350163#0#10000#·#0#0##0#0###0#0#0#0#0#"
   splits: []
 - lineNum: 45270001
   raw: "45270001#45270#1#21#350164#0#10000#0#0#0##0#0###0#0#0#0#0#"
@@ -13809,7 +13809,7 @@
   splits:
   - split: 10
     text: "晋升神捕"
-    translated: "Ascend to Celestial Detective"
+    translated: "Promoted to Divine Detective"
   - split: 19
     text: "完成更多不夜京悬赏解锁"
     translated: "Complete more missions in the Evernight Capital to unlock rewards."
@@ -18825,7 +18825,7 @@
   splits:
   - split: 10
     text: "玲珑匣"
-    translated: "A finely crafted, intricately designed box"
+    translated: "Intricate Casket"
 - lineNum: 150371001
   raw: "150371001#150371#1#9#0#0#0##0&3|71302|1;24|929950|1#1&24|929938|1#唐门-晋升亲传#15092#0###0#0##0##"
   splits:
@@ -20371,6 +20371,36 @@
   - split: 10
     text: "晋升总镖头"
     translated: "Promoted to Chief Escort Commander"
+- lineNum: 165335001
+  raw: "165335001#165335#3#7#0#0#0#0##0##0#0###0#0#0#0#0#"
+  splits: []
+- lineNum: 165337001
+  raw: "165337001#165337#3#7#0#0#0#0##0##0#0###0#0#0#0#0#"
+  splits: []
+- lineNum: 165339001
+  raw: "165339001#165339#3#7#0#0#0#0##0##0#0###0#0#0#0#0#"
+  splits: []
+- lineNum: 165341001
+  raw: "165341001#165341#3#7#0#0#0#0##0##0#0###0#0#0#0#0#"
+  splits: []
+- lineNum: 165343001
+  raw: "165343001#165343#3#7#0#0#0#0##0##0#0###0#0#0#0#0#"
+  splits: []
+- lineNum: 165345001
+  raw: "165345001#165345#3#7#0#0#0#0##0##0#0###0#0#0#0#0#"
+  splits: []
+- lineNum: 165347001
+  raw: "165347001#165347#3#7#0#0#0#0##0##0#0###0#0#0#0#0#"
+  splits: []
+- lineNum: 165349001
+  raw: "165349001#165349#3#7#0#0#0#0##0##0#0###0#0#0#0#0#"
+  splits: []
+- lineNum: 165351001
+  raw: "165351001#165351#1#9#0#0#0#0##0&24|899161|1#流云问道#40275#0###0#0#0#0#0#"
+  splits:
+  - split: 10
+    text: "流云问道"
+    translated: "Liu Yun asks"
 - lineNum: 170128001
   raw: "170128001#170128#1#9#0#0#0#0#0&89|8301|1;18|1|35|200|>=#0&24|924557|1#身份晋升：刺客一#9107#0###0#0#0#0#0#"
   splits:
@@ -20648,11 +20678,23 @@
     text: "晋升军衔·游骑校尉"
     translated: "Promotion to Cavalry Captain Ranks · Cavalry Officer Cadet"
 - lineNum: 180103008
-  raw: "180103008#180103#2#23#0#0#0#0#0&24|899410|1#0#楚军悬赏#0#0###0#0#0#0#0#"
+  raw: "180103008#180103#2#23#0#0#0##0&24|899410|1#0#楚军悬赏#0#0###0#0#0#0#0#"
   splits:
   - split: 10
     text: "楚军悬赏"
     translated: "The Chu army has issued a bounty"
+- lineNum: 180157001
+  raw: "180157001#180157#1#9#0#0#0#0#0#0&24|899328|1#拜访老友#50490#0###0#0#0#0#0#"
+  splits:
+  - split: 10
+    text: "拜访老友"
+    translated: "Visit old friends"
+- lineNum: 180158001
+  raw: "180158001#180158#1#9#0#0#0#0#0&24|899185|1#0&24|898943|1#探寻真相#50631#0###0#0#0#0#0#"
+  splits:
+  - split: 10
+    text: "探寻真相"
+    translated: "Seeking the truth"
 - lineNum: 205020001
   raw: "205020001#205020#1#9#0#0#0##0&18|1|34|49|>;72|205020|20502001|1#1&1|1101002|1;1|1101002|2#流云相邀#50540#0###0#0#0#0#0#"
   splits:

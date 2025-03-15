@@ -1,0 +1,37 @@
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MailView/RightPanel/center/OSA/Viewport/Content/OSA_CellGroupPrefab(Clone)/Item(Clone)/Views/item/leftPart/layout/desc/bg/text"
+  sampleText: "Shen Yan Gong., I will be traveling in a few days and have heard that fennel can mask one's scent to avoid wild animal disturbances. As you are knowledgeable, could you possibly procure some fennel for me?"
+  idealFontSize: 28
+  alignment: "Left"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MailView/RightPanel/center/text"
+  sampleText: "Cheng YuxinLetter you sent"
+  idealFontSize: 30
+  alignment: "Midline"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MailView/RightPanel/center/OSA/Viewport/Content/OSA_CellGroupPrefab(Clone)/Item(Clone)/Views/item/leftPart/btnReply/title"
+  sampleText: "Accept"
+  idealFontSize: 24
+  alignment: "Midline"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MailView/LeftPanel/OSA/Viewport/Content/OSA_CellGroupPrefab(Clone)/Item(Clone)/Views/item/relation_haogan"
+  sampleText: "A stranger on unfamiliar roads"
+  idealFontSize: 20
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+  adjustX: -40
+  adjustY: 20
+  adjustWidth: -20
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MailView/LeftPanel/OSA/Viewport/Content/OSA_CellGroupPrefab*/Item*/Views/item/relation_type"
+  sampleText: "Nothing"
+  idealFontSize: 20
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MailView/LeftPanel/OSA/Viewport/Content/OSA_CellGroupPrefab*/Item*/Views/item/name"
+  sampleText: "Jack of all trades"
+  idealFontSize: 24
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MainViewOld/Root/UI_PlayerQinggong/QingGong/Image (1)/Text (TMP)"
+  sampleText: "Hovering on the grass"
+  idealFontSize: 26
+  allowWordWrap: true
+  adjustX: 40
+  adjustWidth: 100

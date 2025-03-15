@@ -1,5 +1,5 @@
-﻿using EnglishPatch.Contracts;
-using HarmonyLib;
+﻿using HarmonyLib;
+using SharedAssembly.DynamicStrings;
 using System.Collections.Generic;
 using System.Reflection;
 using System.Reflection.Emit;

@@ -80,7 +80,7 @@ public class DefaultExcludingTypeInspector : TypeInspectorSkeleton
         {
             // If we have a default instance, check if the property value is different
             var defaultValue = property.Read(defaultInstance);
-            var currentValue = property.Read(container);
+            var currentValue = property.Read(container!);
 
             // Only include properties with values different from default
             if (!Equals(currentValue.Value, defaultValue.Value))

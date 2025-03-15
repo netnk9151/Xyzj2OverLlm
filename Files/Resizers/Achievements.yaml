@@ -1,0 +1,85 @@
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/AchievementView/root/twoRoot/toggle/*/Label"
+  sampleText: "  Martial arts"
+  idealFontSize: 20
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "Midline"
+  allowWordWrap: true
+  allowAutoSizing: false
+  allowLeftTrimText: true
+  adjustWidth: -20
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/AchievementView/root/twoRoot/Scroll View (1)/Viewport/Content/Item*/Button/Text (TMP)"
+  sampleText: "Ming Kong Dashi"
+  idealFontSize: 24
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "Center"
+  allowWordWrap: true
+  allowAutoSizing: false
+  allowLeftTrimText: true
+  adjustX: 40
+  adjustWidth: 100
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/AchievementView/root/twoRoot/Scroll View/Viewport/Content/Item/DesRoot/title"
+  sampleText: "A force that commands the world"
+  idealFontSize: 24
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "TopLeft"
+  allowWordWrap: true
+  allowAutoSizing: false
+  adjustY: -20
+  adjustWidth: 80
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/AchievementView/root/twoRoot/Scroll View/Viewport/Content/Item/DesRoot/Scroll View/Viewport/Content/jieduanPrefab*/title/name"
+  sampleText: "Invincible in a hundred battles"
+  idealFontSize: 24
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "Center"
+  allowWordWrap: false
+  allowAutoSizing: false
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/AchievementView/root/twoRoot/Scroll View/Viewport/Content/Item/DesRoot/Scroll View/Viewport/Content/jieduanPrefab*/condition/des"
+  sampleText: "Accumulated defeats of one hundred people"
+  idealFontSize: 20
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "TopLeft"
+  allowWordWrap: true
+  allowAutoSizing: false
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/AchievementView/root/twoRoot/Scroll View/Viewport/Content/Item/DesRoot/Scroll View/Viewport/Content/jieduanPrefab*/award/title"
+  sampleText: "  Achievement Reward"
+  idealFontSize: 24
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "Center"
+  allowWordWrap: true
+  allowAutoSizing: false
+  allowLeftTrimText: true
+  adjustY: 10
+  adjustWidth: 100
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/AchievementView/root/twoRoot/Scroll View/Viewport/Content/Item/DesRoot/Scroll View/Viewport/Content/jieduanPrefab*/condition/value"
+  sampleText: "200"
+  idealFontSize: 20
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "TopRight"
+  allowWordWrap: false
+  allowAutoSizing: false
+  adjustY: -6
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/AchievementView/root/twoRoot/Scroll View/Viewport/Content/Item/DesRoot/Scroll View/Viewport/Content/jieduanPrefab*/condition/youli"
+  sampleText: "  Gained reputation"
+  idealFontSize: 20
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "Left"
+  allowWordWrap: false
+  allowAutoSizing: false
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/AchievementView/root/twoRoot/Scroll View/Viewport/Content/Item/DesRoot/Scroll View/Viewport/Content/jieduanPrefab*/title/des"
+  sampleText: "In the field of a hundred battles, he stood firm and undefeated. His presence was as steady as an old pine tree, with sword energy slicing through the clouds."
+  idealFontSize: 20
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "TopLeft"
+  allowWordWrap: true
+  allowAutoSizing: false
+  adjustY: 10

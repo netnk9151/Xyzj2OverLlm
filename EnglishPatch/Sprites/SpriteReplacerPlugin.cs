@@ -22,18 +22,12 @@ namespace EnglishPatch.Sprites
         private List<string> _cachedSpriteNames = [];
         private string _spritesPath;
 
-        private ConfigEntry<string> _logWhenAssetContains;
         private ConfigEntry<bool> _onlyUseSpriteName;
 
         private void Awake()
         {
             Logger = base.Logger;
             _spritesPath = Path.Combine(Paths.BepInExRootPath, "sprites");
-
-            _logWhenAssetContains = Config.Bind("General",
-                "LogWhenAssetContains",
-                "loginviewnew",
-                "Log in the console when any part of the assetname or path includes the value provided");
 
             _onlyUseSpriteName = Config.Bind("General",
                 "OnlyUseSpriteName",
@@ -87,10 +81,6 @@ namespace EnglishPatch.Sprites
                     // Remove file extension for easier matching
                     var keyName = FilePathToKey(relativePath);
                     _cachedReplacements.Add(keyName, fileData);
-
-                    if (keyName.Contains(_logWhenAssetContains.Value))
-                        Logger.LogInfo($"Cached replacement sprite: {keyName}");
-
                 }
                 catch (Exception ex)
                 {
@@ -152,8 +142,8 @@ namespace EnglishPatch.Sprites
                 var allChildren = prefab.GetComponentsInChildren<UnityEngine.UI.Image>();
 
                 // Log game objects to make it easier to find
-                if (allChildren.Length > 0)
-                    Logger.LogInfo($"Loaded Game Object: {parentAssetName} Path: {assetPath} Type: {type} LoadType: {loadType}");
+                //if (allChildren.Length > 0)
+                //    Logger.LogInfo($"Loaded Game Object: {parentAssetName} Path: {assetPath} Type: {type} LoadType: {loadType}");
 
                 foreach (var child in allChildren)
                 {
@@ -168,11 +158,10 @@ namespace EnglishPatch.Sprites
 
         private void ReplaceSpriteInAsset(string parentAssetName, UnityEngine.UI.Image child)
         {
-            var shouldMatch = _cachedSpriteNames.Contains(child.name) || _cachedSpriteNames.Contains(child.sprite?.name);
+            var shouldMatch = _cachedSpriteNames.Contains(child?.name) || _cachedSpriteNames.Contains(child.sprite?.name);
+            var spritePath = child.GetObjectPath();
 
-            var spritePath = child.GetPath();
-
-            if (child.sprite != null)
+            if (child.sprite != null && child.sprite.name != null)
             {
                 //Logger.LogInfo($"Sprite found: {spritePath}");
 
@@ -181,12 +170,9 @@ namespace EnglishPatch.Sprites
                 if (_cachedReplacements.TryGetValue(spriteKey, out var replacementTexture))
                 {
                     child.sprite.texture.LoadImage(replacementTexture, false);
-
-                    if (spriteKey.Contains(_logWhenAssetContains.Value))
-                        Logger.LogWarning($"Replaced sprite: {spriteKey}");
                 }
-                else if (shouldMatch)
-                    Logger.LogError($"Did not match SpriteKey: {spriteKey}");
+                //else if (shouldMatch)
+                //    Logger.LogError($"Did not match SpriteKey: {spriteKey}");
             }
             //else
             //Logger.LogInfo($"No Sprite: {spritePath}");

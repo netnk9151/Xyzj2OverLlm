@@ -1,0 +1,61 @@
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/SettingViewNew/rightpanel/anjianshezhi/Scroll View/Viewport/Content/anjianprefab(Clone)/text"
+  sampleText: "Myriad Skills Attack"
+  idealFontSize: 24
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+  allowAutoSizing: false
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/SettingViewNew/rightpanel/yingyueshezhi/GameObject/*prefab/title (*)"
+  sampleText: "0"
+  idealFontSize: 30
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "MidlineRight"
+  allowWordWrap: true
+  allowAutoSizing: false
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/SettingViewNew/rightpanel/yingyueshezhi/GameObject/*prefab/title"
+  sampleText: "  Music"
+  idealFontSize: 24
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+  allowAutoSizing: false
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/SettingViewNew/rightpanel/chaozuoshezhi/Scroll View/Viewport/GameObject/*/title (1)"
+  sampleText: "1"
+  idealFontSize: 30
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "MidlineRight"
+  allowWordWrap: true
+  allowAutoSizing: false
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/SettingViewNew/rightpanel/chaozuoshezhi/Scroll View/Viewport/GameObject/*/title"
+  sampleText: "  Automatic dialogue"
+  idealFontSize: 24
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+  allowAutoSizing: false
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/SettingViewNew/rightpanel/jiaoxuexiangqing/Panel/Txt_Des"
+  sampleText: "After obtaining the relevant formulas and interacting with the forge, the forging interface opens. Once the required equipment is selected, if the materials needed and the character's energy meet the refinement requirements, the equipment can be refined. It is also possible to make additional investments"
+  idealFontSize: 32
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "Center"
+  allowWordWrap: true
+  allowAutoSizing: false
+  adjustY: -30
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/SettingViewNew/rightpanel/huamianshezhi/Scroll View/Viewport/Content/*/title"
+  sampleText: "  Resolution"
+  idealFontSize: 24
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+  allowAutoSizing: false
+  allowLeftTrimText: true

@@ -1,0 +1,25 @@
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MainViewOld/Root/questpart/Scroll View/Viewport/Content/TagPrefab*/Toggle/Text (TMP)"
+  sampleText: "  Main storyline"
+  idealFontSize: 26
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "TopLeft"
+  allowWordWrap: true
+  allowAutoSizing: false
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MainViewOld/Root/questpart/Scroll View/Viewport/Content/TagPrefab*/Content/MainQuestProfeb(Clone)/Image/QuestNameText"
+  sampleText: "Retreat to the mountains for quiet meditation"
+  idealFontSize: 20
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+  allowAutoSizing: false
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MainViewOld/Root/questpart/Scroll View/Viewport/Content/TagPrefab*/Content/MainQuestProfeb(Clone)/condition/item(Clone)/Text"
+  sampleText: "Head to the hill outside the village"
+  idealFontSize: 22
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+  allowAutoSizing: false

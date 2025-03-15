@@ -1,0 +1,106 @@
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/FileView/imag/ButtonGroup/*/select/text"
+  sampleText: "  Local save file"
+  idealFontSize: 20
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "Center"
+  allowWordWrap: true
+  allowAutoSizing: false
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/FileView/imag/ButtonGroup/*/text"
+  sampleText: "  Cloud Storage"
+  idealFontSize: 20
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "Center"
+  allowWordWrap: true
+  allowAutoSizing: false
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/FileView/imag/fileRoot/FilelistScrollView/Viewport/Content1/*/gbhave/maintaskname/title"
+  sampleText: "  Main storyline"
+  idealFontSize: 18
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+  allowAutoSizing: false
+  allowLeftTrimText: true
+  adjustX: -45
+  adjustWidth: -50
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/FileView/imag/fileRoot/FilelistScrollView/Viewport/Content1/*/gbhave/maintaskname/text"
+  sampleText: "Retreat to the mountains for quiet meditation"
+  idealFontSize: 24
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+  allowAutoSizing: false
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/FileView/imag/fileRoot/FilelistScrollView/Viewport/Content1/*/gbhave/name/text"
+  sampleText: "Shen Yan Gong."
+  idealFontSize: 30
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+  allowAutoSizing: false
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/FileView/imag/fileRoot/FilelistScrollView/Viewport/Content1/fixedItem/gbhave/nandu/text"
+  sampleText: "Wushu Grandmaster"
+  idealFontSize: 20
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+  allowAutoSizing: false
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/FileView/imag/fileRoot/FilelistScrollView/Viewport/Content1/*/gbhave/index/text"
+  sampleText: "1"
+  idealFontSize: 30
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "Midline"
+  allowWordWrap: true
+  allowAutoSizing: false
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/FileView/imag/fileRoot/FilelistScrollView/Viewport/Content1/*/gbhave/mapname/title"
+  sampleText: "Coordinates:"
+  idealFontSize: 20
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "MidlineRight"
+  allowWordWrap: true
+  allowAutoSizing: false
+  adjustX: -20
+  adjustWidth: 40
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/FileView/imag/fileRoot/FilelistScrollView/Viewport/Content1/*/gbhave/mapname/text"
+  sampleText: "(1050, 1611)"
+  idealFontSize: 20
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+  allowAutoSizing: false
+  adjustX: 6
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/FileView/imag/fileRoot/FilelistScrollView/Viewport/Content1/*/gbhave/*/text"
+  sampleText: "Wushu Grandmaster"
+  idealFontSize: 20
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+  allowAutoSizing: false
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/FileView/imag/fileRoot/FilelistScrollView/Viewport/Content1/*/gbhave/*/title"
+  sampleText: "  Duration:"
+  idealFontSize: 20
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "MidlineRight"
+  allowWordWrap: true
+  allowAutoSizing: false
+  allowLeftTrimText: true
+  adjustX: -40
+  adjustWidth: 40
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/FileView/imag/fileRoot/FilelistScrollView/Viewport/Content1/item/gbhave/maintaskname/text"
+  sampleText: "Escaping from certain death."
+  idealFontSize: 24
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+  allowAutoSizing: false

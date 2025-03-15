@@ -1,0 +1,42 @@
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/JieMiQuestViewNew/Mask/QuestListPanel/*/Checkmark/Text (TMP)"
+  sampleText: "  Cracked"
+  idealFontSize: 20
+  alignment: "Midline"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/JieMiQuestViewNew/Mask/QuestListPanel/Scroll View/Viewport/Content/ItemPrefab(Clone)/Title"
+  sampleText: "The Enigmatic Shadows of Wai Village"
+  idealFontSize: 20
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/JieMiQuestViewNew/Mask/TuiLiPanel/YanZhengTuiLi/Text (TMP)"
+  sampleText: "  Verify reasoning"
+  idealFontSize: 20
+  alignment: "Midline"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/JieMiQuestViewNew/Mask/QuestListPanel/YiPoJiePart/JinRuTuiLiBtn/Text (TMP)"
+  sampleText: "  Review the reasoning"
+  idealFontSize: 20
+  alignment: "Midline"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/JieMiQuestViewNew/Mask/QuestListPanel/*/Background/Text (TMP)"
+  sampleText: "  Cracked"
+  idealFontSize: 20
+  alignment: "Midline"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/JieMiQuestViewNew/Mask/TuiLiPanel/*/zhengju/*"
+  sampleText: "San'er's Testimony"
+  idealFontSize: 20
+  alignment: "Midline"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/JieMiQuestViewNew/Mask/TuiLiPanel/TL1/Des"
+  sampleText: "It seems this person is looking for something in the village."
+  idealFontSize: 20
+  alignment: "Midline"
+  allowWordWrap: false
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/JieMiQuestViewNew/Mask/TuiLiPanel/TL1/WenHaoText"
+  sampleText: "Concluding Remarks on Suspicious Points"
+  idealFontSize: 20
+  alignment: "Midline"
+  allowWordWrap: true

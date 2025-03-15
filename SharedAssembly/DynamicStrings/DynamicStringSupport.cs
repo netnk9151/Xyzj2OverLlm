@@ -1,9 +1,8 @@
 ﻿using System.Text.RegularExpressions;
 using System.Text;
-using EnglishPatch.Contracts;
 using System.Linq;
 
-namespace Translate.Support;
+namespace SharedAssembly.DynamicStrings;
 
 public class DynamicStringSupport
 {
@@ -69,7 +68,7 @@ public class DynamicStringSupport
             //Valid but needs to be debugged:
             //"RelationShipManager",
         ];
-        
+
         string[] skipMethods = [
             "CheckTapAnti",
             "CheckDBVersionAndDownloadFromServer",
@@ -103,7 +102,7 @@ public class DynamicStringSupport
             //SweetPotato.Spell.do_effect <-- it adds effect param but it could be going to a sprite thats not showing - need to find out
 
             //Unknown
-            "SweetPotato.YunBiao.BiaoBasicInfo.GetInfo", 
+            "SweetPotato.YunBiao.BiaoBasicInfo.GetInfo",
             "ItemPrototype.InitRandomItems",
             "LootItem.Init",
 

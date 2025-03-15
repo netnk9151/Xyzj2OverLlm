@@ -1,0 +1,105 @@
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/PlayerRelationPart/Role Information/name/des"
+  sampleText: "Shen Yan Gong."
+  idealFontSize: 30
+  alignment: "Capline"
+  allowWordWrap: true
+  adjustX: -30
+  adjustY: -10
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/PlayerRelationPart/Role Information/desbg/des"
+  sampleText: "After a noble general fell from grace due to an unfortunate accident and found himself living among the Jianghu, he emerged as a young wanderer with great potential. With a heart set on saving the world, he unfortunately made enemies among many influential figures and faced numerous dangers. At a point where his life hung by a thread, Yuan Jun acknowledged that possessing such pure intentions in chaotic times was rare. Thus, Ling Chun was appointed to assist him, extending his lifespan so he could continue living. Unfortunately, most of his past experiences were now hazy memories."
+  idealFontSize: 22
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/PlayerRelationPart/MenPaiRelation/itemRoot/item(Clone)/bg/name"
+  sampleText: "Songshi Mountain"
+  idealFontSize: 24
+  alignment: "TopLeft"
+  allowWordWrap: true
+  adjustX: -40
+  adjustY: 10
+  adjustWidth: -10
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/PlayerRelationPart/MenPaiRelation/ToggleGroup/Toggle*/Label"
+  sampleText: "  Qi Kingdom"
+  idealFontSize: 22
+  alignment: "Capline"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/PlayerRelationPart/MenPaiRelation/itemRoot/item(Clone)/bg/haogan"
+  sampleText: "  Affection level:"
+  idealFontSize: 24
+  alignment: "TopLeft"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/HintUILayer/CommonTipView/PopInfoTip/menpaiRoot/name"
+  sampleText: "Ten Tombs Pavilion"
+  idealFontSize: 30
+  alignment: "Capline"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/HintUILayer/CommonTipView/PopInfoTip/menpaiRoot/haoganTitle"
+  sampleText: "  Affection level:"
+  idealFontSize: 22
+  alignment: "CaplineLeft"
+  allowWordWrap: true
+  allowLeftTrimText: true
+  adjustX: 25
+  adjustWidth: 50
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/HintUILayer/CommonTipView/PopInfoTip/menpaiRoot/menpaiTitle"
+  sampleText: "Sect Background:"
+  idealFontSize: 24
+  alignment: "CaplineLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/HintUILayer/CommonTipView/PopInfoTip/menpaiRoot/*Title"
+  sampleText: "  Sect skillfully wields weapons:"
+  idealFontSize: 22
+  alignment: "CaplineLeft"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/HintUILayer/CommonTipView/PopInfoTip/menpaiRoot/menpaiDes"
+  sampleText: "The organization founded by Lady Xia of the Cloudy Breeze Mountain Villa. Zhao Siying, who married into the Cloudy Breeze Mountain Villa many years ago and managed numerous enterprises for her husband Wen Yi, attracted envy from several people within the villa due to her success. Understanding that her holdings could be reclaimed at any moment, Zhao Siying established the Ten Tombs Pavilion as a contingency plan for herself."
+  idealFontSize: 22
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/HintUILayer/CommonTipView/PopInfoTip/menpaiRoot/weapon"
+  sampleText: "Sword"
+  idealFontSize: 24
+  alignment: "CaplineLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/HintUILayer/CommonTipView/PopInfoTip/menpaiRoot/weaponTitle"
+  sampleText: "Sect skillfully wields weapons:"
+  idealFontSize: 22
+  alignment: "CaplineLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/PlayerRelationPart/RelationMapNew/root/iconRoot/haoyou1/NpcUI(Clone)/title/des"
+  sampleText: "Friend"
+  idealFontSize: 20
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+  adjustWidth: 50
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/PlayerRelationPart/RelationMapNew/root/NpcUI/ImagePortraitBG/ImageName/TextName"
+  sampleText: "Shen Yan Gong."
+  idealFontSize: 24
+  alignment: "Midline"
+  allowWordWrap: false
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/PlayerRelationPart/RelationMapNew/root/iconRoot/haoyou1/NpcUI(Clone)/ImagePortraitBG/ImageName/TextName"
+  sampleText: "Head of the Village"
+  idealFontSize: 24
+  alignment: "Midline"
+  allowWordWrap: false
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/HintUILayer/CommonTipView/PopInfoTip/npcRoot/Name/Text"
+  sampleText: "Head of the Village"
+  idealFontSize: 30
+  alignment: "TopLeft"
+  allowWordWrap: true
+  adjustY: -20
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/HintUILayer/CommonTipView/PopInfoTip/npcRoot/JingJie"
+  sampleText: "  This person's strength:"
+  idealFontSize: 20
+  alignment: "TopLeft"
+  allowWordWrap: true
+  adjustX: 10
+  adjustWidth: -250
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/HintUILayer/CommonTipView/PopInfoTip/npcRoot/*"
+  sampleText: "<color=#b8b8b8>Force: </color>Yan Kingdom"
+  idealFontSize: 20
+  alignment: "TopLeft"
+  allowWordWrap: true

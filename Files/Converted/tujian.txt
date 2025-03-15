@@ -33,7 +33,7 @@
   splits:
   - split: 2
     text: "玄门"
-    translated: "School of Mystery"
+    translated: "Xuanmen"
 - lineNum: 300
   raw: "300#3#民#########0##0#0###"
   splits:
@@ -63,7 +63,7 @@
   splits:
   - split: 2
     text: "君"
-    translated: "You, my lord"
+    translated: "Lord"
 - lineNum: 305
   raw: "305#3#商#########0##0#0###"
   splits:
@@ -192,13 +192,13 @@
     translated: "Primordial Sword Sect"
   - split: 5
     text: "太初剑宗创派人张司过曾为玄门仙师白闻清的弟子，在白闻清离世后，创立太初剑宗。因其庇护了不少受战争影响的百姓，所以在燕国之内开始有了不少弟子，成为了燕国最早出现的宗派之一，也见证了七国之间的兼并，以及齐、燕、楚的鼎盛。而后来随着嘉和帝对玄门的尊崇，不少太初剑宗弟子得以奔走于权皇贵胄之间，甚至能参与到一些士族的争斗当中。同样的也有不少世家将家中学子送入太初剑宗修行，使得太初剑宗逐步成为了玄门之首的宗派。"
-    translated: "The founder of the Primordial Sword Sect, Zhang Siguo, was once a disciple of the Daoist master Bai Wenqing. After Bai Wenqing's passing, Zhang Siguo established the Primordial Sword Sect. Due to its protection of many common people affected by war, it gained several disciples within the Yan Kingdom and became one of the earliest sects to emerge there. It witnessed the unifications among the seven states as well as the zeniths of Qi, Yan, and Chu. Later, with Emperor Jiahe's reverence for Daoism, many disciples from the Primordial Sword Sect had the opportunity to travel amongst nobles and even participate in some aristocratic struggles. Similarly, numerous noble families sent their children to study at the Primordial Sword Sect, enabling it to gradually become a leading sect within Daoism."
+    translated: "The founder of the Primordial Sword School, Zhang Siguo, was once a disciple of the Xuanmen immortal master Bai Wenching. After Bai Wenching's passing, Zhang Siguo established the Primordial Sword School. Due to his protection of many civilians affected by war, he gained numerous disciples within the Yan Kingdom, making it one of the earliest schools to emerge there. He witnessed the unification among the seven states and the prosperity of Qi, Yan, and Chu. Later, as Emperor Jiahe revered Xuanmen, many disciples from the Primordial Sword School were able to navigate among nobles and aristocrats, even participating in some noble conflicts. Similarly, numerous families sent their children to the Primordial Sword School for training, gradually establishing it as the foremost school within Xuanmen."
   - split: 7
     text: "后来段承君认为人人沉迷玄门，无人生产将会带来灭国之灾，遂决定对进行改革，不少玄门宗派在此时受到重创，而其中丹鼎一脉宗派影响最为严重。但太初剑宗因自身根基深厚，又更重剑法和心法的修行，在及时调整了宗派的管理方式之后，便迅速适应了改革，使其辉煌得以延续。"
     translated: "Later, Duan Chengjun believed that if everyone were obsessed with the Xuanmen and no one produced goods, it would lead to national calamity. He decided on a reform, which heavily impacted many Xuanmen sects; among them, the Danding lineage suffered greatly. However, the Primordial Sword Sect, due to its deep roots and greater emphasis on sword art and mind cultivation, quickly adjusted their management approach in response to the reforms, allowing their splendor to continue unabated."
   - split: 9
     text: "如此三百年后，在章武帝策划叛乱失败被囚，燕国藩王之间陷入混战。太初剑宗审时度势后，选择扶持梁王，使梁王势力更盛得以获取皇室话语权。而同时梁王对太初剑宗也颇为重视，使得太初剑宗在历经千百年之后，依旧为玄门之首。"
-    translated: "Three hundred years later, after the plot to rebel was orchestrated by Emperor Zhan Wu failed and he was imprisoned, the vassal kings of the Yan Kingdom fell into chaos. After assessing the situation, the Primordial Sword Sect decided to support Prince Liang, which strengthened his faction's influence and enabled him to secure a voice within the imperial court. At the same time, Prince Liang held the Primordial Sword Sect in high regard, allowing it to maintain its position as the foremost among the Celestial Gate sects for another thousand years."
+    translated: "Three hundred years later, after Chapter Wu Emperor's plot to rebel failed and he was imprisoned, the vassal kings of Yan Kingdom were plunged into chaos. After assessing the situation, the Primordial Sword Sect chose to support King Liang, enabling his power to grow stronger and secure a voice within the imperial court. Meanwhile, King Liang held great regard for the Primordial Sword Sect, allowing it to remain as the leader among the Xuanmen after surviving through countless generations."
   - split: 12
     text: "势"
     translated: "Advantage"

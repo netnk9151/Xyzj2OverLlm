@@ -5,23 +5,27 @@ using UnityEngine;
 namespace EnglishPatch.Support;
 public static class ObjectHelper
 {
-    public static string GetPath(this object obj)
+    public static string GetObjectPath(this object obj)
     {
         if (obj is not GameObject && obj is not Component)
-        {
             throw new ArgumentException("Expected object to be a GameObject or component.", "obj");
-        }
 
         var asset = obj is GameObject gameObject ? gameObject : ((Component)obj).gameObject;
-        StringBuilder path = new StringBuilder();
+        return GetGameObjectPath(asset);
+    }
 
-        //Recurse through parents
-        while (asset != null)
+    // Helper method to get the full path of a GameObject in the hierarchy
+    public static string GetGameObjectPath(GameObject obj)
+    {
+        string path = obj.name;
+        Transform parent = obj.transform.parent;
+
+        while (parent != null)
         {
-            path.Insert(0, "/" + asset.name);
-            asset = asset.transform.parent?.gameObject;
+            path = parent.name + "/" + path;
+            parent = parent.parent;
         }
 
-        return path.ToString();
+        return path;
     }
 }

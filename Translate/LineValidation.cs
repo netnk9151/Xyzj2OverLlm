@@ -1,15 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Drawing;
+﻿using Microsoft.VisualBasic;
 using System.Globalization;
-using System.IO.Pipelines;
-using System.Linq;
+using System.Numerics;
 using System.Text;
 using System.Text.RegularExpressions;
-using System.Threading.Tasks;
-using System.Xml;
 using Translate.Utility;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Translate;
 
@@ -159,6 +154,12 @@ public static partial class LineValidation
             "provide the text", 
             "Certainly! Please provide the Chinese",
             "Certainly! Please provide the specific Chinese",
+            "It seems like your input might be incomplete or missing some context",
+            "Please provide the Chinese string you would like to be translated into English",
+            "please provide the Chinese string",
+            "please provide the specific Chinese strings",
+            "Chinese text",
+            "Chinese sentence",
             "translates to",
             //"also known as" //Causes issues
             "'''",
@@ -190,10 +191,16 @@ public static partial class LineValidation
         //}
 
         // Small source with ';' is ususually an alternative
-        if (result.Contains(';') && !raw.Contains(';') && raw.Length < 3)
+        if (result.Contains(';') && !raw.Contains(';') && raw.Length < 4)
         {
             response = false;
             correctionPrompts.AddPromptWithValues(config, "CorrectAlternativesPrompt", ";");
+        }
+
+        if (result.Contains(',') && !raw.Contains(',') && !raw.Contains("，") && !raw.Contains("、") && raw.Length < 4)
+        {
+            response = false;
+            correctionPrompts.AddPromptWithValues(config, "CorrectAlternativesPrompt", ",");
         }
 
         // Added literal
@@ -210,7 +217,6 @@ public static partial class LineValidation
             correctionPrompts.AddPromptWithValues(config, "CorrectColonSegementPrompt");
         }
 
-        // TODO: This aint working
         //Place holders - incase the model ditched them
         var matches = PlaceholderPatternRegex().Matches(raw);
         foreach (Match match in matches)

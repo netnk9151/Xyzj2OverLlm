@@ -1968,7 +1968,7 @@
     translated: "Long Standard Army"
   - split: 6
     text: "燕国将门世家，祖辈段承君曾协助年幼的燕国皇帝镇压藩王，稳定局势，并且封存了嘉和帝的秘藏并设定了一系列玄门发展的规则，才使得燕国没有走上人人沉迷修行，无人生产的衰景，段家儿女恪守家规，侍奉主君，不敢僭越。"
-    translated: "The Yan Kingdom's illustrious military family, whose ancestor Duan Chengjun assisted the young emperor in suppressing rebel princes and stabilizing the realm. Additionally, he safeguarded the secrets of Emperor Jiahe and established rules for esoteric development, preventing the Yan Kingdom from descending into a decline marked by universal obsession with cultivation at the expense of productivity. The children of the Duan family strictly adhere to family regulations, serve their lord dutifully, and dare not overstep their bounds."
+    translated: "The Yan Kingdom's noble family of generals, ancestral ancestor Duan Chengjun once assisted the young emperor of the Yan Kingdom in suppressing feudal lords and stabilizing the situation. He also sealed away the hidden treasures of Emperor Jiahe and established a series of rules for Xuanmen development, preventing the Yan Kingdom from falling into the bleak scenario where everyone was obsessed with cultivation to the point that no one produced anything. The descendants of the Duan family faithfully adhere to family rules, serve their sovereign, and dare not overstep."
 - lineNum: 220
   raw: "220#21#1#685.162,0.100,1220.483#长旌军#0#燕国将门世家，祖辈段承君曾协助年幼的燕国皇帝镇压藩王，稳定局势，并且封存了嘉和帝的秘藏并设定了一系列玄门发展的规则，才使得燕国没有走上人人沉迷修行，无人生产的衰景，段家儿女恪守家规，侍奉主君，不敢僭越。#0#0#bgm_changjing_junying#"
   splits:
@@ -1977,7 +1977,7 @@
     translated: "Long Standard Army"
   - split: 6
     text: "燕国将门世家，祖辈段承君曾协助年幼的燕国皇帝镇压藩王，稳定局势，并且封存了嘉和帝的秘藏并设定了一系列玄门发展的规则，才使得燕国没有走上人人沉迷修行，无人生产的衰景，段家儿女恪守家规，侍奉主君，不敢僭越。"
-    translated: "The Yan Kingdom's illustrious military family, whose ancestor Duan Chengjun assisted the young emperor in suppressing rebel princes and stabilizing the realm. Additionally, he safeguarded the secrets of Emperor Jiahe and established rules for esoteric development, preventing the Yan Kingdom from descending into a decline marked by universal obsession with cultivation at the expense of productivity. The children of the Duan family strictly adhere to family regulations, serve their lord dutifully, and dare not overstep their bounds."
+    translated: "The Yan Kingdom's noble family of generals, ancestral ancestor Duan Chengjun once assisted the young emperor of the Yan Kingdom in suppressing feudal lords and stabilizing the situation. He also sealed away the hidden treasures of Emperor Jiahe and established a series of rules for Xuanmen development, preventing the Yan Kingdom from falling into the bleak scenario where everyone was obsessed with cultivation to the point that no one produced anything. The descendants of the Duan family faithfully adhere to family rules, serve their sovereign, and dare not overstep."
 - lineNum: 221
   raw: "221#21#1#738.906,0.100,1138.888#长旌军#0#燕国将门世家，祖辈段承君曾协助年幼的燕国皇帝镇压藩王，稳定局势，并且封存了嘉和帝的秘藏并设定了一系列玄门发展的规则，才使得燕国没有走上人人沉迷修行，无人生产的衰景，段家儿女恪守家规，侍奉主君，不敢僭越。#0#0#bgm_changjing_junying#"
   splits:
@@ -1986,7 +1986,7 @@
     translated: "Long Standard Army"
   - split: 6
     text: "燕国将门世家，祖辈段承君曾协助年幼的燕国皇帝镇压藩王，稳定局势，并且封存了嘉和帝的秘藏并设定了一系列玄门发展的规则，才使得燕国没有走上人人沉迷修行，无人生产的衰景，段家儿女恪守家规，侍奉主君，不敢僭越。"
-    translated: "The Yan Kingdom's illustrious military family, whose ancestor Duan Chengjun assisted the young emperor in suppressing rebel princes and stabilizing the realm. Additionally, he safeguarded the secrets of Emperor Jiahe and established rules for esoteric development, preventing the Yan Kingdom from descending into a decline marked by universal obsession with cultivation at the expense of productivity. The children of the Duan family strictly adhere to family regulations, serve their lord dutifully, and dare not overstep their bounds."
+    translated: "The Yan Kingdom's noble family of generals, ancestral ancestor Duan Chengjun once assisted the young emperor of the Yan Kingdom in suppressing feudal lords and stabilizing the situation. He also sealed away the hidden treasures of Emperor Jiahe and established a series of rules for Xuanmen development, preventing the Yan Kingdom from falling into the bleak scenario where everyone was obsessed with cultivation to the point that no one produced anything. The descendants of the Duan family faithfully adhere to family rules, serve their sovereign, and dare not overstep."
 - lineNum: 222
   raw: "222#21#1#737.562,0.100,1060.083#长旌军#0#燕国将门世家，祖辈段承君曾协助年幼的燕国皇帝镇压藩王，稳定局势，并且封存了嘉和帝的秘藏并设定了一系列玄门发展的规则，才使得燕国没有走上人人沉迷修行，无人生产的衰景，段家儿女恪守家规，侍奉主君，不敢僭越。#0#0#bgm_changjing_junying#"
   splits:
@@ -1995,7 +1995,7 @@
     translated: "Long Standard Army"
   - split: 6
     text: "燕国将门世家，祖辈段承君曾协助年幼的燕国皇帝镇压藩王，稳定局势，并且封存了嘉和帝的秘藏并设定了一系列玄门发展的规则，才使得燕国没有走上人人沉迷修行，无人生产的衰景，段家儿女恪守家规，侍奉主君，不敢僭越。"
-    translated: "The Yan Kingdom's illustrious military family, whose ancestor Duan Chengjun assisted the young emperor in suppressing rebel princes and stabilizing the realm. Additionally, he safeguarded the secrets of Emperor Jiahe and established rules for esoteric development, preventing the Yan Kingdom from descending into a decline marked by universal obsession with cultivation at the expense of productivity. The children of the Duan family strictly adhere to family regulations, serve their lord dutifully, and dare not overstep their bounds."
+    translated: "The Yan Kingdom's noble family of generals, ancestral ancestor Duan Chengjun once assisted the young emperor of the Yan Kingdom in suppressing feudal lords and stabilizing the situation. He also sealed away the hidden treasures of Emperor Jiahe and established a series of rules for Xuanmen development, preventing the Yan Kingdom from falling into the bleak scenario where everyone was obsessed with cultivation to the point that no one produced anything. The descendants of the Duan family faithfully adhere to family rules, serve their sovereign, and dare not overstep."
 - lineNum: 223
   raw: "223#21#1#606.313,0.100,1068.316#长旌军#0#燕国将门世家，祖辈段承君曾协助年幼的燕国皇帝镇压藩王，稳定局势，并且封存了嘉和帝的秘藏并设定了一系列玄门发展的规则，才使得燕国没有走上人人沉迷修行，无人生产的衰景，段家儿女恪守家规，侍奉主君，不敢僭越。#0#0#bgm_changjing_junying#"
   splits:
@@ -2004,7 +2004,7 @@
     translated: "Long Standard Army"
   - split: 6
     text: "燕国将门世家，祖辈段承君曾协助年幼的燕国皇帝镇压藩王，稳定局势，并且封存了嘉和帝的秘藏并设定了一系列玄门发展的规则，才使得燕国没有走上人人沉迷修行，无人生产的衰景，段家儿女恪守家规，侍奉主君，不敢僭越。"
-    translated: "The Yan Kingdom's illustrious military family, whose ancestor Duan Chengjun assisted the young emperor in suppressing rebel princes and stabilizing the realm. Additionally, he safeguarded the secrets of Emperor Jiahe and established rules for esoteric development, preventing the Yan Kingdom from descending into a decline marked by universal obsession with cultivation at the expense of productivity. The children of the Duan family strictly adhere to family regulations, serve their lord dutifully, and dare not overstep their bounds."
+    translated: "The Yan Kingdom's noble family of generals, ancestral ancestor Duan Chengjun once assisted the young emperor of the Yan Kingdom in suppressing feudal lords and stabilizing the situation. He also sealed away the hidden treasures of Emperor Jiahe and established a series of rules for Xuanmen development, preventing the Yan Kingdom from falling into the bleak scenario where everyone was obsessed with cultivation to the point that no one produced anything. The descendants of the Duan family faithfully adhere to family rules, serve their sovereign, and dare not overstep."
 - lineNum: 224
   raw: "224#21#1#732.435,0.100,1193.577#长旌军#0#燕国将门世家，祖辈段承君曾协助年幼的燕国皇帝镇压藩王，稳定局势，并且封存了嘉和帝的秘藏并设定了一系列玄门发展的规则，才使得燕国没有走上人人沉迷修行，无人生产的衰景，段家儿女恪守家规，侍奉主君，不敢僭越。#0#0#bgm_changjing_junying#"
   splits:
@@ -2013,7 +2013,7 @@
     translated: "Long Standard Army"
   - split: 6
     text: "燕国将门世家，祖辈段承君曾协助年幼的燕国皇帝镇压藩王，稳定局势，并且封存了嘉和帝的秘藏并设定了一系列玄门发展的规则，才使得燕国没有走上人人沉迷修行，无人生产的衰景，段家儿女恪守家规，侍奉主君，不敢僭越。"
-    translated: "The Yan Kingdom's illustrious military family, whose ancestor Duan Chengjun assisted the young emperor in suppressing rebel princes and stabilizing the realm. Additionally, he safeguarded the secrets of Emperor Jiahe and established rules for esoteric development, preventing the Yan Kingdom from descending into a decline marked by universal obsession with cultivation at the expense of productivity. The children of the Duan family strictly adhere to family regulations, serve their lord dutifully, and dare not overstep their bounds."
+    translated: "The Yan Kingdom's noble family of generals, ancestral ancestor Duan Chengjun once assisted the young emperor of the Yan Kingdom in suppressing feudal lords and stabilizing the situation. He also sealed away the hidden treasures of Emperor Jiahe and established a series of rules for Xuanmen development, preventing the Yan Kingdom from falling into the bleak scenario where everyone was obsessed with cultivation to the point that no one produced anything. The descendants of the Duan family faithfully adhere to family rules, serve their sovereign, and dare not overstep."
 - lineNum: 225
   raw: "225#21#1#678.345,0.100,1040.966#长旌军#0#燕国将门世家，祖辈段承君曾协助年幼的燕国皇帝镇压藩王，稳定局势，并且封存了嘉和帝的秘藏并设定了一系列玄门发展的规则，才使得燕国没有走上人人沉迷修行，无人生产的衰景，段家儿女恪守家规，侍奉主君，不敢僭越。#0#0#bgm_changjing_junying#"
   splits:
@@ -2022,7 +2022,7 @@
     translated: "Long Standard Army"
   - split: 6
     text: "燕国将门世家，祖辈段承君曾协助年幼的燕国皇帝镇压藩王，稳定局势，并且封存了嘉和帝的秘藏并设定了一系列玄门发展的规则，才使得燕国没有走上人人沉迷修行，无人生产的衰景，段家儿女恪守家规，侍奉主君，不敢僭越。"
-    translated: "The Yan Kingdom's illustrious military family, whose ancestor Duan Chengjun assisted the young emperor in suppressing rebel princes and stabilizing the realm. Additionally, he safeguarded the secrets of Emperor Jiahe and established rules for esoteric development, preventing the Yan Kingdom from descending into a decline marked by universal obsession with cultivation at the expense of productivity. The children of the Duan family strictly adhere to family regulations, serve their lord dutifully, and dare not overstep their bounds."
+    translated: "The Yan Kingdom's noble family of generals, ancestral ancestor Duan Chengjun once assisted the young emperor of the Yan Kingdom in suppressing feudal lords and stabilizing the situation. He also sealed away the hidden treasures of Emperor Jiahe and established a series of rules for Xuanmen development, preventing the Yan Kingdom from falling into the bleak scenario where everyone was obsessed with cultivation to the point that no one produced anything. The descendants of the Duan family faithfully adhere to family rules, serve their sovereign, and dare not overstep."
 - lineNum: 226
   raw: "226#23#1#470.256,0.100,1289.564#御虚门#0#在七国最为混乱时期所建，御虚门在修行上倡导去除世俗杂念，清心静修，且在丹鼎一脉之上颇有成就。后来段承君经改革一事，不少御虚门弟子以及当时的御虚门掌门都以祸国欺君之罪被打入牢狱，大量所著和整理的典籍被封存，御虚门损失惨重，再无从前盛景。#0#0#bgm_changjing_xuanmen#"
   splits:
@@ -3966,7 +3966,7 @@
     translated: "Old Sage Mountain"
   - split: 6
     text: "云岭一万重，秋来此间清。扑面迎翠色，回转别泉声。金顶倾紫气，石林逸仙风。深涧皆静寂，蛱蝶不知名。被称之世间无双圣境，天下第一仙山，是玄门始祖归隐清修之地，玄门祖庭所在。"
-    translated: "Mount Yunling, with its ten thousand layers, is clear upon the arrival of autumn. The vivid green greets you as it swirls around, and echoes from the spring fade away. Purple mists cascade over the golden peaks, while pine forests in the stone groves exhale immortal winds. Deep ravines lie silent, where even butterflies are unknown by name. It is known as a peerless sacred realm within this world, the topmost divine mountain of all lands—a place where the founder of Xuanyuan secluded himself for pure cultivation. This is the ancestral temple of the Xuanyuan Sect"
+    translated: "Cloudy Peaks rise ten thousandfold, growing clearer with the autumn air. Crimson foliage greets you at every turn, while the echo of distant springs drifts by. A golden peak tilts in a purple haze, and amidst stone forests flows immortal breeze. Deep ravines embrace silence, where butterflies wander unknowing. Known as the peerless sacred landscape, it is acclaimed as the finest mountain for immortals throughout the world. This is where Xuanmen's founding ancestor secluded himself to pursue spiritual cultivation, marking the location of Xuanmen's ancestral temple."
 - lineNum: 442
   raw: "442#62#1#508.852,0.100,1503.982#老君山#0#云岭一万重，秋来此间清。扑面迎翠色，回转别泉声。金顶倾紫气，石林逸仙风。深涧皆静寂，蛱蝶不知名。被称之世间无双圣境，天下第一仙山，是玄门始祖归隐清修之地，玄门祖庭所在。#0#0#bgm_changjing_chongtianmen#"
   splits:
@@ -3975,7 +3975,7 @@
     translated: "Old Sage Mountain"
   - split: 6
     text: "云岭一万重，秋来此间清。扑面迎翠色，回转别泉声。金顶倾紫气，石林逸仙风。深涧皆静寂，蛱蝶不知名。被称之世间无双圣境，天下第一仙山，是玄门始祖归隐清修之地，玄门祖庭所在。"
-    translated: "Mount Yunling, with its ten thousand layers, is clear upon the arrival of autumn. The vivid green greets you as it swirls around, and echoes from the spring fade away. Purple mists cascade over the golden peaks, while pine forests in the stone groves exhale immortal winds. Deep ravines lie silent, where even butterflies are unknown by name. It is known as a peerless sacred realm within this world, the topmost divine mountain of all lands—a place where the founder of Xuanyuan secluded himself for pure cultivation. This is the ancestral temple of the Xuanyuan Sect"
+    translated: "Cloudy Peaks rise ten thousandfold, growing clearer with the autumn air. Crimson foliage greets you at every turn, while the echo of distant springs drifts by. A golden peak tilts in a purple haze, and amidst stone forests flows immortal breeze. Deep ravines embrace silence, where butterflies wander unknowing. Known as the peerless sacred landscape, it is acclaimed as the finest mountain for immortals throughout the world. This is where Xuanmen's founding ancestor secluded himself to pursue spiritual cultivation, marking the location of Xuanmen's ancestral temple."
 - lineNum: 443
   raw: "443#62#1#606.589,0.100,1470.687#老君山#0#云岭一万重，秋来此间清。扑面迎翠色，回转别泉声。金顶倾紫气，石林逸仙风。深涧皆静寂，蛱蝶不知名。被称之世间无双圣境，天下第一仙山，是玄门始祖归隐清修之地，玄门祖庭所在。#0#0#bgm_changjing_chongtianmen#"
   splits:
@@ -3984,7 +3984,7 @@
     translated: "Old Sage Mountain"
   - split: 6
     text: "云岭一万重，秋来此间清。扑面迎翠色，回转别泉声。金顶倾紫气，石林逸仙风。深涧皆静寂，蛱蝶不知名。被称之世间无双圣境，天下第一仙山，是玄门始祖归隐清修之地，玄门祖庭所在。"
-    translated: "Mount Yunling, with its ten thousand layers, is clear upon the arrival of autumn. The vivid green greets you as it swirls around, and echoes from the spring fade away. Purple mists cascade over the golden peaks, while pine forests in the stone groves exhale immortal winds. Deep ravines lie silent, where even butterflies are unknown by name. It is known as a peerless sacred realm within this world, the topmost divine mountain of all lands—a place where the founder of Xuanyuan secluded himself for pure cultivation. This is the ancestral temple of the Xuanyuan Sect"
+    translated: "Cloudy Peaks rise ten thousandfold, growing clearer with the autumn air. Crimson foliage greets you at every turn, while the echo of distant springs drifts by. A golden peak tilts in a purple haze, and amidst stone forests flows immortal breeze. Deep ravines embrace silence, where butterflies wander unknowing. Known as the peerless sacred landscape, it is acclaimed as the finest mountain for immortals throughout the world. This is where Xuanmen's founding ancestor secluded himself to pursue spiritual cultivation, marking the location of Xuanmen's ancestral temple."
 - lineNum: 444
   raw: "444#62#1#582.726,0.100,1334.968#老君山#0#云岭一万重，秋来此间清。扑面迎翠色，回转别泉声。金顶倾紫气，石林逸仙风。深涧皆静寂，蛱蝶不知名。被称之世间无双圣境，天下第一仙山，是玄门始祖归隐清修之地，玄门祖庭所在。#0#0#bgm_changjing_chongtianmen#"
   splits:
@@ -3993,7 +3993,7 @@
     translated: "Old Sage Mountain"
   - split: 6
     text: "云岭一万重，秋来此间清。扑面迎翠色，回转别泉声。金顶倾紫气，石林逸仙风。深涧皆静寂，蛱蝶不知名。被称之世间无双圣境，天下第一仙山，是玄门始祖归隐清修之地，玄门祖庭所在。"
-    translated: "Mount Yunling, with its ten thousand layers, is clear upon the arrival of autumn. The vivid green greets you as it swirls around, and echoes from the spring fade away. Purple mists cascade over the golden peaks, while pine forests in the stone groves exhale immortal winds. Deep ravines lie silent, where even butterflies are unknown by name. It is known as a peerless sacred realm within this world, the topmost divine mountain of all lands—a place where the founder of Xuanyuan secluded himself for pure cultivation. This is the ancestral temple of the Xuanyuan Sect"
+    translated: "Cloudy Peaks rise ten thousandfold, growing clearer with the autumn air. Crimson foliage greets you at every turn, while the echo of distant springs drifts by. A golden peak tilts in a purple haze, and amidst stone forests flows immortal breeze. Deep ravines embrace silence, where butterflies wander unknowing. Known as the peerless sacred landscape, it is acclaimed as the finest mountain for immortals throughout the world. This is where Xuanmen's founding ancestor secluded himself to pursue spiritual cultivation, marking the location of Xuanmen's ancestral temple."
 - lineNum: 445
   raw: "445#62#1#306.378,0.100,1255.848#老君山#0#云岭一万重，秋来此间清。扑面迎翠色，回转别泉声。金顶倾紫气，石林逸仙风。深涧皆静寂，蛱蝶不知名。被称之世间无双圣境，天下第一仙山，是玄门始祖归隐清修之地，玄门祖庭所在。#0#0#bgm_changjing_chongtianmen#"
   splits:
@@ -4002,7 +4002,7 @@
     translated: "Old Sage Mountain"
   - split: 6
     text: "云岭一万重，秋来此间清。扑面迎翠色，回转别泉声。金顶倾紫气，石林逸仙风。深涧皆静寂，蛱蝶不知名。被称之世间无双圣境，天下第一仙山，是玄门始祖归隐清修之地，玄门祖庭所在。"
-    translated: "Mount Yunling, with its ten thousand layers, is clear upon the arrival of autumn. The vivid green greets you as it swirls around, and echoes from the spring fade away. Purple mists cascade over the golden peaks, while pine forests in the stone groves exhale immortal winds. Deep ravines lie silent, where even butterflies are unknown by name. It is known as a peerless sacred realm within this world, the topmost divine mountain of all lands—a place where the founder of Xuanyuan secluded himself for pure cultivation. This is the ancestral temple of the Xuanyuan Sect"
+    translated: "Cloudy Peaks rise ten thousandfold, growing clearer with the autumn air. Crimson foliage greets you at every turn, while the echo of distant springs drifts by. A golden peak tilts in a purple haze, and amidst stone forests flows immortal breeze. Deep ravines embrace silence, where butterflies wander unknowing. Known as the peerless sacred landscape, it is acclaimed as the finest mountain for immortals throughout the world. This is where Xuanmen's founding ancestor secluded himself to pursue spiritual cultivation, marking the location of Xuanmen's ancestral temple."
 - lineNum: 446
   raw: "446#62#1#335.363,0.100,1423.320#老君山#0#云岭一万重，秋来此间清。扑面迎翠色，回转别泉声。金顶倾紫气，石林逸仙风。深涧皆静寂，蛱蝶不知名。被称之世间无双圣境，天下第一仙山，是玄门始祖归隐清修之地，玄门祖庭所在。#0#0#bgm_changjing_chongtianmen#"
   splits:
@@ -4011,7 +4011,7 @@
     translated: "Old Sage Mountain"
   - split: 6
     text: "云岭一万重，秋来此间清。扑面迎翠色，回转别泉声。金顶倾紫气，石林逸仙风。深涧皆静寂，蛱蝶不知名。被称之世间无双圣境，天下第一仙山，是玄门始祖归隐清修之地，玄门祖庭所在。"
-    translated: "Mount Yunling, with its ten thousand layers, is clear upon the arrival of autumn. The vivid green greets you as it swirls around, and echoes from the spring fade away. Purple mists cascade over the golden peaks, while pine forests in the stone groves exhale immortal winds. Deep ravines lie silent, where even butterflies are unknown by name. It is known as a peerless sacred realm within this world, the topmost divine mountain of all lands—a place where the founder of Xuanyuan secluded himself for pure cultivation. This is the ancestral temple of the Xuanyuan Sect"
+    translated: "Cloudy Peaks rise ten thousandfold, growing clearer with the autumn air. Crimson foliage greets you at every turn, while the echo of distant springs drifts by. A golden peak tilts in a purple haze, and amidst stone forests flows immortal breeze. Deep ravines embrace silence, where butterflies wander unknowing. Known as the peerless sacred landscape, it is acclaimed as the finest mountain for immortals throughout the world. This is where Xuanmen's founding ancestor secluded himself to pursue spiritual cultivation, marking the location of Xuanmen's ancestral temple."
 - lineNum: 447
   raw: "447#62#1#295.106,0.100,1373.400#老君山#0#云岭一万重，秋来此间清。扑面迎翠色，回转别泉声。金顶倾紫气，石林逸仙风。深涧皆静寂，蛱蝶不知名。被称之世间无双圣境，天下第一仙山，是玄门始祖归隐清修之地，玄门祖庭所在。#0#0#bgm_changjing_chongtianmen#"
   splits:
@@ -4020,7 +4020,7 @@
     translated: "Old Sage Mountain"
   - split: 6
     text: "云岭一万重，秋来此间清。扑面迎翠色，回转别泉声。金顶倾紫气，石林逸仙风。深涧皆静寂，蛱蝶不知名。被称之世间无双圣境，天下第一仙山，是玄门始祖归隐清修之地，玄门祖庭所在。"
-    translated: "Mount Yunling, with its ten thousand layers, is clear upon the arrival of autumn. The vivid green greets you as it swirls around, and echoes from the spring fade away. Purple mists cascade over the golden peaks, while pine forests in the stone groves exhale immortal winds. Deep ravines lie silent, where even butterflies are unknown by name. It is known as a peerless sacred realm within this world, the topmost divine mountain of all lands—a place where the founder of Xuanyuan secluded himself for pure cultivation. This is the ancestral temple of the Xuanyuan Sect"
+    translated: "Cloudy Peaks rise ten thousandfold, growing clearer with the autumn air. Crimson foliage greets you at every turn, while the echo of distant springs drifts by. A golden peak tilts in a purple haze, and amidst stone forests flows immortal breeze. Deep ravines embrace silence, where butterflies wander unknowing. Known as the peerless sacred landscape, it is acclaimed as the finest mountain for immortals throughout the world. This is where Xuanmen's founding ancestor secluded himself to pursue spiritual cultivation, marking the location of Xuanmen's ancestral temple."
 - lineNum: 448
   raw: "448#63#1#532.003,0.100,2220.490#祈灵川#0#群山之中，蜿蜒清川，川水碧绿，四季不冻，繁花似锦，草木葱郁，相传，每当月圆之夜，川面会出现神灵的倒影，光影斑驳似是能够遥寄人们的愿望，故而得名“祈灵川”。祈灵川周围云雾氤氲，仿佛隔绝了尘世的喧嚣，只有心怀诚意的人才能找到它的真正入口。#0#0#bgm_changjing_daxueshan#"
   splits:

@@ -342,7 +342,7 @@
     translated: "Let the white deer roam between the green cliffs, created by Xuanmen Immortal Bai Wenqing. It aims to distill the myriad insights from its path on the Xuanmen Dao into droplets of water to propel future generations forward.\\nEffectiveness: After equipping, increase the True Qi cap based on the proportion of attribute points relative to their maximum values."
   - split: 12
     text: "线索：寻天下玄门之道达到隐士之上的羽士。据闻于(858,955)处有此等高人前辈。"
-    translated: "Clue: A seeker of the Dao of Xiantian among mortals, aspiring to reach the heights of a recluse Immortal. It is said that such eminent Seniors reside at (858,955)."
+    translated: "Clue: A seeker of the path of Xuanmen from across the lands, aiming to surpass even the recluses in mastery. It is said that such a senior and eminent figure can be found at (858,955)."
 - lineNum: 4202
   raw: "4202#天地悉归#0#人能常清静，天地悉皆归。太初剑宗清舆道人，以清净之心入道，将天地之理，大道运行融入自己的本心，创此法时，已然触到了众妙之门。\\n效果：装备后提升福气#0#42#0##2#xueshi/daoxue11#18|1|42|250|>=#人能常清静，天地悉皆归。太初剑宗清舆道人，以清净之心入道，天地之理大道运行融入本心，已然触到了众妙之门。\\n效果：装备后根据对应属性点数占最大值比例，提升福气#线索：寻天下玄门之道达到闲云之上的羽士。据闻于(1503,456)处有此等高人前辈。#xueshi/daoxue12#3#42|12##0#100#0#1000#0&15|1|0|1|>=#0#"
   splits:
@@ -372,7 +372,7 @@
     translated: "Departing from form and intellect to attain great emptiness is akin to the teachings of Pure Jade Gate, established by the ancestors of the sect. This person, upon reaching middle age, left society for seclusion and vanished into the unknown after suspending their coffin in anticipation of spiritual transcendence.\\nEffectiveness: After equipping, increase vitality based on the percentage of corresponding attribute points relative to their maximum value."
   - split: 12
     text: "线索：寻天下玄门之道达到野鹤之上的羽士。据闻于(221,634)处有此等高人前辈。"
-    translated: "Clue: A master adept in seeking the Way of the Mysteries, aiming to surpass wild cranes. It is said that such a senior sage resides at (221,634)."
+    translated: "Clue: A martial artist who has mastered the way of Xuanmen to surpass wild cranes, seeking a senior master renowned for such prowess. It is said that there is someone like this in (221,634)."
 - lineNum: 4204
   raw: "4204#上善若水#0#上善若水，厚德载物。此技乃无名羽士所创，由来已久，是从如水心境中破发生机的秘技。\\n效果：装备后提升内攻#0#42#0##4#xueshi/daoxue11#18|1|42|700|>=#上善若水，厚德载物。此技乃无名羽士所创，由来已久，是从如水心境中破发生机的秘技。\\n效果：装备后根据对应属性点数占最大值比例，提升内攻#线索：寻天下玄门之道达到高人逸士之上的羽士。据闻于(1102,1000)处有此等高人前辈。#xueshi/daoxue12#3#42|21##0#100#0#1000#0&15|1|0|1|>=#0#"
   splits:
@@ -387,7 +387,7 @@
     translated: "The highest good is like water, which nourishes all things without contention. This technique was created by the anonymous Immortal of the Feathers; it has been passed down for generations as a secret method to break through and understand the mechanics from a state of tranquility akin to water.\\nEffectiveness: After equipping, based on the percentage of attribute points relative to their maximum values, enhance internal attack."
   - split: 12
     text: "线索：寻天下玄门之道达到高人逸士之上的羽士。据闻于(1102,1000)处有此等高人前辈。"
-    translated: "Clue: A fengshui master seeking the path of the mysterious Tao to surpass eminent and reclusive sages. It is said that such esteemed seniors can be found in (1102,1000)."
+    translated: "Clue: A seeker of the Dao of Xuanmen, aspiring to surpass high people and recluses. It is said that such eminent seniors can be found at (1102,1000)."
 - lineNum: 4205
   raw: "4205#太虚心渊#0#其境澄明，莹然内观，我心无心，湛然外鉴。一道人遇稚子问道，稚子纯然，道人仰天大笑，留此十六字和一卷特技翩然而去，后有人猜测此人或为青年时的玉阳真人。\\n效果：装备后掉落时得到高等级物品的概率增加,概率受到道学熟练度影响#0#42#0##5#xueshi/daoxue11#18|1|42|900|>=#其境澄明，莹然内观，我心无心，湛然外鉴。一道人遇稚子问道，留此十六字和一卷特技翩然而去，后有人猜测此人或为玉阳真人。\\n效果：装备后根据对应属性点数占最大值比例，掉落时得到高等级物品的概率增加#线索：寻天下玄门之道达到隐居求志的羽士。据闻于(871,1397)处有此等高人前辈。#xueshi/daoxue12#2###318#100#0#1000#0&15|1|0|1|>=#0#"
   splits:
@@ -402,7 +402,7 @@
     translated: "The environment was clear and serene, with an inner clarity as if observing within. My mind was without thought, calmly reflecting the outside world. A Daoist met a young child who asked about the way; leaving behind these sixteen words and a scroll of special techniques, he departed gracefully. Later, people speculated that this man might have been the Real Man of Jade Yang.\\nEffectiveness: After equipping, the probability of obtaining high-level items increases according to the proportion of attribute points relative to their maximum value."
   - split: 12
     text: "线索：寻天下玄门之道达到隐居求志的羽士。据闻于(871,1397)处有此等高人前辈。"
-    translated: "Clue: Seeking the Tao of the Hidden Realms to achieve reclusion and pursue one's aspirations as a master of esoteric arts. It is said that such esteemed seniors are found at (871,1397)."
+    translated: "Clue: Seeking the path of Xuanmen to achieve reclusion and pursuit of one's aspirations as a roving immortal. It is said that such esteemed elders are located at (871,1397)."
 - lineNum: 4300
   raw: "4300#行走#0##0#43#0##0#xueshi/foxue11####xueshi/foxue12#0###0#0#0#1000#0&15|1|0|1|>=#0#"
   splits:
@@ -3237,7 +3237,7 @@
   splits:
   - split: 1
     text: "捕快·神捕"
-    translated: "Criminal Investigator · Divine Inspector"
+    translated: "Detective · Divine Detective"
   - split: 3
     text: "神捕一动苍生定，鬼神无踪破案中。\\n效果：解锁不夜京悬赏悬红助战"
     translated: "The divine detective's move determines the fate of the masses, while in solving cases, his presence leaves no trace among spirits and gods.\\nEffectiveness: Unlock the bounty for assisting in Evernight Capital."

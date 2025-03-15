@@ -123,15 +123,20 @@ public class TranslationWorkflowTests
         File.Copy($"{workingDirectory}/Mod/Formatted/dumpedPrefabText.txt", $"{releaseFolder}/BepInEx/resources/dumpedPrefabText.txt", true);
         File.Copy($"{gameFolder}/BepInEx/Plugins/FanslationStudio.EnglishPatch.dll", $"{releaseFolder}/BepInEx/Plugins/FanslationStudio.EnglishPatch.dll", true);
         File.Copy($"{gameFolder}/BepInEx/Plugins/FanslationStudio.SharedAssembly.dll", $"{releaseFolder}/BepInEx/Plugins/FanslationStudio.SharedAssembly.dll", true);
-        File.Copy($"{gameFolder}/BepInEx/Translation/en/Text/resizer.txt", $"{releaseFolder}/BepInEx/Translation/en/Text/resizer.txt", true);
+        //File.Copy($"{gameFolder}/BepInEx/Translation/en/Text/resizer.txt", $"{releaseFolder}/BepInEx/Translation/en/Text/resizer.txt", true);
 
         foreach (var file in TranslationService.GetTextFilesToSplit().Where(t => t.TextFileType != TextFileType.RegularDb))
             File.Copy($"{workingDirectory}/Mod/Formatted/{file.Path}", $"{releaseFolder}/BepInEx/resources/{file.Path}", true);
 
-        var spritesDirectory = $"{releaseFolder}/BepInEx/sprites";
-        if (Directory.Exists(spritesDirectory))
-            Directory.Delete(spritesDirectory, true);
-        TranslationService.CopyDirectory($"{gameFolder}/BepInEx/sprites", spritesDirectory);
+        List<string> copyDirs = ["sprites", "resizers"];
+        foreach (var copyDir in copyDirs)
+        {
+            var newDirectory = $"{releaseFolder}/BepInEx/{copyDir}";
+            if (Directory.Exists(newDirectory))
+                Directory.Delete(newDirectory, true);
+
+            TranslationService.CopyDirectory($"{gameFolder}/BepInEx/{copyDir}", newDirectory);
+        }
 
         ZipFile.CreateFromDirectory($"{releaseFolder}", $"{releaseFolder}/../EnglishPatch-{version}.zip");
 
@@ -542,7 +547,7 @@ public class TranslationWorkflowTests
             "nom", "esto", "tem", "mais", "com", "ver", "nos", "sobre", "vermos",
             "dar", "nam", "J'ai", "je", "veux", "pas", "ele", "una", "keqi", "shiwu",
             "fuck", "ich", "ein", "der", "ganzes", "Leben", "dort",
-            "knight", "thay", "tien", "div", "html", "tiantu",
+            "knight", "thay", "tien", "div", "html", "tiantu", "ngoc", "truong", "Phong"
         ];
 
         string pattern = $@"\b({string.Join("|", words)})\b";

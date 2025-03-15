@@ -1,0 +1,40 @@
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MainViewOld/Root/mapPart/PosName/mapName"
+  sampleText: "Flying Alchemical Falls"
+  idealFontSize: 20
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "Midline"
+  allowWordWrap: true
+  allowAutoSizing: false
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MainViewOld/Root/mapPart/PosName/playerPos"
+  sampleText: "1028,1616"
+  idealFontSize: 20
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "Midline"
+  allowWordWrap: true
+  allowAutoSizing: false
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MainViewOld/Root/mapPart/UI_Map/Text (TMP)*"
+  sampleText: "Shen"
+  idealFontSize: 20
+  minFontSize: 0
+  maxFontSize: 0
+  allowWordWrap: true
+  allowAutoSizing: false
+  adjustWidth: 100
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MainViewOld/Root/mapPart/DateAndTime/DateMask/Date"
+  sampleText: "Jing Yan40Year"
+  idealFontSize: 16
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "Right"
+  allowWordWrap: true
+  allowAutoSizing: false
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MainViewOld/Root/mapPart/DateAndTime/TimeMask/Time"
+  sampleText: "8Month20DayChildTime"
+  idealFontSize: 16
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "Right"
+  allowWordWrap: true
+  allowAutoSizing: false

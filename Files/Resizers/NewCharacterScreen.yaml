@@ -1,0 +1,226 @@
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/InstantiateViewNewNewNew/mask/Panel1/heichangdi/title1"
+  sampleText: "  [Battle Tendencies]"
+  idealFontSize: 34
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/InstantiateViewNewNewNew/mask/Panel1/heichangdi/Text (TMP)"
+  sampleText: "  <color=#f0f0f0>Usable points: </color></color>"
+  idealFontSize: 38
+  adjustX: -100
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/InstantiateViewNewNewNew/mask/Panel1/heichangdi/8shuxingdi/image/Viewport/Content/shuxingitem*/name"
+  sampleText: "<color=#dcdcdc>Potential</color>"
+  idealFontSize: 22
+  alignment: "Center"
+  adjustX: -10
+  adjustWidth: 30
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/InstantiateViewNewNewNew/mask/Panel1/heichangdi/gudingtianfuslot/tianfunametext"
+  sampleText: "Esteemed noble family"
+  idealFontSize: 24
+  alignment: "Midline"
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/InstantiateViewNewNewNew/mask/Panel1/heichangdi/gudingtianfuslot/tianfudes"
+  sampleText: "Wealth and honor, the ultimate in prestige, encompass lords and ministers. Gaining money, improving skills, and enhancing understanding increases by <color=#e0834c>20%</color>; damage dealt is increased by <color=#e0854c>5%</color>, while received damage is reduced by <color=#e0834c>5%</color>."
+  idealFontSize: 24
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/InstantiateViewNewNewNew/mask/Panel1/heichangdi/Text (TMP) (1)"
+  sampleText: "  Allocable points:"
+  idealFontSize: 30
+  adjustX: -20
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/InstantiateViewNewNewNew/mask/Panel1/heichangdi/title1 (2)"
+  sampleText: "[Self-selected Talent]"
+  idealFontSize: 30
+  adjustX: -35
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/InstantiateViewNewNewNew/mask/Panel1/heichangdi/title1 (1)"
+  sampleText: "[Innate Status]"
+  idealFontSize: 40
+  adjustX: -15
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/InstantiateViewNewNewNew/mask/Panel1/heichangdi/ZhanKaiTianFuBtn/text"
+  sampleText: "  Configure Talents"
+  idealFontSize: 18
+  alignment: "Center"
+  allowLeftTrimText: true
+  adjustX: 10
+  adjustWidth: 100
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/InstantiateViewNewNewNew/mask/Panel1/heichangdi/TianfuScrollView/Viewport/Content/tianfuslotprefab(Clone)/di/tianfunametext"
+  sampleText: "Hard work can make up for a lack of talent"
+  idealFontSize: 18
+  adjustX: -10
+  adjustY: 10
+  adjustWidth: -10
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/InstantiateViewNewNewNew/mask/Panel1/heichangdi/TianfuScrollView/Viewport/Content/tianfuslotprefab(Clone)/di/costpointtext"
+  sampleText: "-20"
+  idealFontSize: 18
+  adjustY: 10
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/InstantiateViewNewNewNew/mask/Panel1/heichangdi/TianfuScrollView/Viewport/Content/tianfuslotprefab(Clone)/di/tianfudes"
+  sampleText: "Feeling cold and lonely with brittle bones, enduring hardship without a day of joy. With an inherent deficiency, harm reduction by <color=#9e9e9e>10%</color>, increased injury susceptibility by <color=#9e9e9e>10%</color>, and a decrease in the acquisition of skill, insight, and money by <color=#9e9e9e>10%</color>."
+  idealFontSize: 18
+  minFontSize: 0
+  maxFontSize: 0
+  adjustY: -10
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/InstantiateViewNewNewNew/mask/AttriDetailPanel/kuang/text"
+  sampleText: "  Attribute value:"
+  idealFontSize: 30
+  allowLeftTrimText: true
+  adjustX: -10
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/InstantiateViewNewNewNew/mask/AttriDetailPanel/kuang/pianxiangshuxingtext"
+  sampleText: "9"
+  idealFontSize: 30
+  adjustX: 20
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/InstantiateViewNewNewNew/mask/Panel1/text"
+  sampleText: "  Attribute value:"
+  idealFontSize: 30
+  allowLeftTrimText: true
+  adjustX: -10
+  adjustY: -4
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/InstantiateViewNewNewNew/mask/Panel1/pianxiangshuxingtext"
+  sampleText: "5"
+  idealFontSize: 30
+  adjustX: 25
+  adjustY: -4
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/InstantiateViewNewNewNew/mask/NextButton/Text (TMP)"
+  sampleText: "  Next step"
+  idealFontSize: 50
+  allowLeftTrimText: true
+  adjustX: -20
+  adjustY: -4
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/InstantiateViewNewNewNew/mask/LastButton/Text (TMP) (1)"
+  sampleText: "  Return"
+  idealFontSize: 50
+  allowLeftTrimText: true
+  adjustX: -20
+  adjustY: -4
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/InstantiateViewNewNewNew/mask/TianFuSelectPanel/selectButton/Text (TMP)"
+  sampleText: "  Confirmed"
+  idealFontSize: 50
+  minFontSize: 0
+  maxFontSize: 0
+  allowWordWrap: true
+  allowLeftTrimText: true
+  adjustX: -50
+  adjustY: -4
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/InstantiateViewNewNewNew/mask/TianFuSelectPanel/Text (TMP) (1)"
+  sampleText: "  Allocatable points:"
+  idealFontSize: 30
+  allowLeftTrimText: true
+  adjustY: 10
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/InstantiateViewNewNewNew/mask/TianFuSelectPanel/title1 (3)"
+  sampleText: "  [Self-selected Talent]"
+  idealFontSize: 30
+  allowLeftTrimText: true
+  adjustX: -36
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/InstantiateViewNewNewNew/mask/TianFuSelectPanel/talent"
+  sampleText: "In misfortune lies good fortune"
+  idealFontSize: 30
+  adjustX: 30
+  adjustWidth: 120
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/InstantiateViewNewNewNew/mask/TianFuSelectPanel/talentDes"
+  sampleText: "Feeling cold and lonely with brittle bones, enduring hardship without a day of joy. With an inherent deficiency, harm reduction by <color=#9e9e9e>10%</color>, increased injury susceptibility by <color=#9e9e9e>10%</color>, and a decrease in the acquisition of skill, insight, and money by <color=#9e9e9e>10%</color>."
+  idealFontSize: 28
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/InstantiateViewNewNewNew/mask/TianFuSelectPanel/Scroll View/Viewport/Content/*/tianfunametext"
+  sampleText: "Diligence overcomes nature"
+  idealFontSize: 20
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "Midline"
+  allowWordWrap: true
+  adjustX: -20
+  adjustY: -6
+  adjustWidth: -20
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/InstantiateViewNewNewNew/mask/TianFuSelectPanel/Scroll View/Viewport/Content/*/costpointtext"
+  sampleText: "-20"
+  idealFontSize: 20
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/InstantiateViewNewNewNew/mask/TianFuSelectPanel/TianfuScrollView/Viewport/Content/*/di/tianfunametext"
+  sampleText: "Good fortune that comes without seeking"
+  idealFontSize: 20
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "Midline"
+  allowWordWrap: true
+  adjustX: -20
+  adjustY: -6
+  adjustWidth: -20
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/InstantiateViewNewNewNew/mask/TianFuSelectPanel/TianfuScrollView/Viewport/Content/*/di/costpointtext"
+  sampleText: "-15"
+  idealFontSize: 20
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/InstantiateViewNewNewNew/mask/TianFuSelectPanel/TianfuScrollView/Viewport/Content/*/di/tianfudes"
+  sampleText: "Throughout life, sustenance naturally comes with one's livelihood, and together, fortune and reputation flourish alongside long life. With both fortune and happiness in abundance, True Qi increases by <color=#e0834c>50</color>, while Potential increases by <color=#e0834c>10</color>."
+  idealFontSize: 20
+  minFontSize: 0
+  maxFontSize: 0
+  allowWordWrap: true
+  adjustY: -10
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/InstantiateViewNewNewNew/mask/Panel2/desRoot/txt_des (1)"
+  sampleText: "After a noble general fell from grace due to an unfortunate accident and found himself living among the Jianghu, he emerged as a young wanderer with great potential. With a heart set on saving the world, he unfortunately made enemies among many influential figures and faced numerous dangers. At a point where his life hung by a thread, Yuan Jun acknowledged that possessing such pure intentions in chaotic times was rare. Thus, Ling Chun was appointed to assist him, extending his lifespan so he could continue living. Unfortunately, most of his past experiences were now hazy memories."
+  idealFontSize: 20
+  minFontSize: 0
+  maxFontSize: 0
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/InstantiateViewNewNewNew/mask/Panel2/*/content/itemprefab*/title"
+  sampleText: "Luck"
+  idealFontSize: 18
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "Center"
+  allowWordWrap: true
+  adjustX: -10
+  adjustWidth: 40
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/InstantiateViewNewNewNew/mask/Panel2/*/content/itemprefab*/value"
+  sampleText: "18"
+  idealFontSize: 18
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "Center"
+  allowWordWrap: true
+  adjustX: 10
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/NanDuView/*/detailpart/subgrid/*/detail"
+  sampleText: "The enemy's attributes are common; difficulty is normal and easy to pick up."
+  idealFontSize: 20
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "Left"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/NanDuView/*/detailpart/desc"
+  sampleText: "In the Jianghu, there may be some turbulence, but there is still ample space for you to showcase your martial prowess and wisdom."
+  idealFontSize: 20
+  minFontSize: 0
+  maxFontSize: 0
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/NanDuView/bg/desc"
+  sampleText: "<color=#f3f3f3>Authentic Jianghu: </color>Under this difficulty level, the growth curves for various attributes are relatively realistic. Improvements through equipment and martial arts are more pronounced. The young hero will have more adventures in the Jianghu and experience greater satisfaction from treasure hunting."
+  idealFontSize: 20
+  minFontSize: 0
+  maxFontSize: 0
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/NanDuView/*/detailpart/tip"
+  sampleText: "Suitable for general players, allowing them to experience the game's storyline and mechanics while offering a moderate level of challenge."
+  idealFontSize: 20
+  minFontSize: 0
+  maxFontSize: 0
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/NanDuView/toggroup/*/Background/desc"
+  sampleText: "  Talent Points After Completion"
+  idealFontSize: 20
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "Left"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/NanDuView/toggroup/*/Background/value"
+  sampleText: "+10"
+  idealFontSize: 20
+  minFontSize: 0
+  maxFontSize: 0
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/NanDuView/toggroup/JiangHuXiaoZu/Background/desc"
+  sampleText: "Talent Points After Completion"
+  idealFontSize: 20
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "Left"
+  allowWordWrap: true

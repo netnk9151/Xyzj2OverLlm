@@ -1785,7 +1785,7 @@
     translated: "Defeat Hong Zhong Fangxuan"
   - split: 14
     text: "忘世外红尘，棋逢对手时。超然玄门外，心境如止水。"
-    translated: "Leave the worldly red dust behind, forget the outside world. When meeting a worthy opponent in chess, transcend beyond the mysterious doors. One's heart remains calm and still like tranquil water"
+    translated: "Forget worldly matters beyond the red dust; when you find a worthy opponent in chess. Outside the realm of Xuanmen, your heart is like still water."
 - lineNum: 214
   raw: "214#击败刘青#1#3#214#1#0#60004|2;54010|2;18099|1#1&27|25378|1;27|25378|0#击败刘青##400#0#0#勇斗诸强敌，一人独横行。剑下无留情，威震武林界。#0#0#"
   splits:
@@ -10065,7 +10065,7 @@
     translated: "Embark on the path of the recluse"
   - split: 14
     text: "玄门隐士深，松间隐世尘。潜修真法门，世外桃源人。"
-    translated: "A secluded Daoist sage, hidden amidst the pines and dust of a remote world. Secretly cultivating the Way through true methods, they reside in an idyllic paradise beyond worldly concerns"
+    translated: "The reclusive xuanmen adept resides in seclusion among the pines, removed from worldly dust. In secret, he cultivates the Dao and enters a paradisiacal realm beyond the world."
 - lineNum: 6003
   raw: "6003#玄门闲云#1#7#6001#3#1#60103|1;60009|1;60093|1#0&24|1|1#完成闲云之道#0#400#0#0#玄门闲云游，逍遥任自由。天地任驰骋，心如云舒卷。#0#1#"
   splits:
@@ -10077,25 +10077,25 @@
     translated: "Master the Way of Idle Clouds"
   - split: 14
     text: "玄门闲云游，逍遥任自由。天地任驰骋，心如云舒卷。"
-    translated: "In the secluded realm, I drift with leisurely clouds, wandering freely. The world and sky are at my disposal, to roam without restraint. My heart expands and contracts like the heavens' clouds"
+    translated: "In the tranquil realm of Xuanmen, one wanders freely with the clouds. Unfettered and at ease, wherever they roam across the vast expanse of earth and sky, their heart unfurls like the clouds themselves, expansive or condensed as it wills."
 - lineNum: 6004
   raw: "6004#玄门野鹤#1#7#6001#4#1#60103|2;60009|2;60093|1#0&24|1|1#完成野鹤之道#0#500#0#0#玄门野鹤立，松风吹袍摆。清音入云端，高洁胜霜雪。#0#1#"
   splits:
   - split: 1
     text: "玄门野鹤"
-    translated: "The Hermit Crane of the Mysterious Gate"
+    translated: "Xuanmen Yehe"
   - split: 9
     text: "完成野鹤之道"
     translated: "Master the Way of the Wild Crane"
   - split: 14
     text: "玄门野鹤立，松风吹袍摆。清音入云端，高洁胜霜雪。"
-    translated: "A recluse crane stands in the secluded hall, its flowing robe swaying with the pine breeze. Its pure notes ascend to the clouds, surpassing frost and snow in their lofty grace"
+    translated: "In the wilderness of Xuanmen, a wild crane stands alone. The pine wind blows and flutters his robes. A clear sound reaches beyond the clouds; his lofty purity surpasses frost and snow."
 - lineNum: 6005
   raw: "6005#玄门高人#1#7#6001#5#1#60104|1;60010|1;60094|1#0&24|1|1#完成高人逸士之道#0#600#0#0#玄门高人隐，道法自然成。天地皆学府，淡泊明志行。#0#1#"
   splits:
   - split: 1
     text: "玄门高人"
-    translated: "Esteemed Master of the Mysterious Gate"
+    translated: "Masters of Xuanmen"
   - split: 9
     text: "完成高人逸士之道"
     translated: "Achieve the Dao of Immortals and Transcendents"
@@ -10107,7 +10107,7 @@
   splits:
   - split: 1
     text: "玄门隐居"
-    translated: "Withdraw from the world to cultivate in seclusion"
+    translated: "Retreating to the Xuanmen"
   - split: 9
     text: "完成隐居求志之道"
     translated: "Complete the path of reclusion in pursuit of one's aspirations"
@@ -12546,7 +12546,7 @@
     translated: "Black Gold Mysterious Decoction"
   - split: 9
     text: "学会秘法：乌金玄汤卷"
-    translated: "Learn the secret method: Black Gold Mysterious Brew Scroll"
+    translated: "Learn the secret method: Black Gold Secret Elixir"
   - split: 14
     text: "乌金玄汤饮，深黑藏玄机。汤中玄力浓，炼体亦炼心。"
     translated: "Black Gold Secret Elixir, deeply conceals the secret art. The elixir's profound energy is concentrated within, refining both body and spirit."
@@ -17259,7 +17259,7 @@
   splits:
   - split: 1
     text: "玄门化劲"
-    translated: "Channeling Inner Energy through Daoist Techniques"
+    translated: "Xuanmen harnesses internal energy"
   - split: 9
     text: "对玄门劲之武学精髓有所掌握"
     translated: "Has some mastery over the essence of Xuanmen Jing's martial arts."

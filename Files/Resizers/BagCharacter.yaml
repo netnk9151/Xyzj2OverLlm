@@ -1,0 +1,84 @@
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/toggroup/*/Text"
+  sampleText: "  Character"
+  idealFontSize: 24
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/Role/Attri/AttriEquip/EquipPart/Equip/*/Text (TMP)"
+  sampleText: "Weapons"
+  idealFontSize: 18
+  alignment: "Center"
+  allowWordWrap: true
+  adjustX: -15
+  adjustWidth: 80
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/Role/Attri/AttriEquip/Shotcut/title*"
+  sampleText: "  Quick Access Item 2"
+  idealFontSize: 22
+  alignment: "TopLeft"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/Role/Attri/ToggleGroup/AttriLayout/element*/AttriName"
+  sampleText: "Luck"
+  idealFontSize: 20
+  alignment: "Right"
+  allowWordWrap: true
+  adjustX: -20
+  adjustWidth: 80
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/Role/Attri/ToggleGroup/AttriLayout/element*/Level"
+  sampleText: "Rank 0"
+  idealFontSize: 20
+  alignment: "Left"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/Role/Attri/ToggleGroup/AttriLayout/element*/Text (TMP)"
+  sampleText: "  Proficiency level:"
+  idealFontSize: 20
+  alignment: "Left"
+  allowWordWrap: true
+  allowLeftTrimText: true
+  adjustX: 40
+  adjustWidth: 80
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/Role/Attri/ToggleGroup/AttriLayout/element*/Value"
+  sampleText: "30/100"
+  idealFontSize: 20
+  alignment: "Center"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/Role/Attri/DataScroll/Viewport/Content/desRoot/Text3"
+  sampleText: "Introduction:After�a�noble�general�fell�from�grace�due�to�an�unfortunate�accident�and�found�himself�living�among�the�Jianghu,�he�emerged�as�a�young�wanderer�with�great�potential.�With�a�heart�set�on�saving�the�world,�he�unfortunately�made�enemies�among�many�influential�figures�and�faced�numerous�dangers.�At�a�point�where�his�life�hung�by�a�thread,�Yuan�Jun�acknowledged�that�possessing�such�pure�intentions�in�chaotic�times�was�rare.�Thus,�Ling�Chun�was�appointed�to�assist�him,�extending�his�lifespan�so�he�could�continue�living.�Unfortunately,�most�of�his�past�experiences�were�now�hazy�memories."
+  idealFontSize: 18
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/Role/Attri/DataScroll/Viewport/Content/Title1/Name"
+  sampleText: "Shen Yan Gong."
+  idealFontSize: 30
+  alignment: "Left"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/Role/Attri/DataScroll/Viewport/Content/desRoot/Text0"
+  sampleText: "Title:Heroes�under�a�heroic�cloud,�Yun�Jingjie"
+  idealFontSize: 22
+  alignment: "Left"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/Role/Attri/DataScroll/Viewport/Content/desRoot/Text1"
+  sampleText: "Martial sect: Nothing"
+  idealFontSize: 22
+  alignment: "Left"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/Role/Attri/DataScroll/Viewport/Content/attriRoot*/Title*/Text"
+  sampleText: "  Basic Attributes"
+  idealFontSize: 20
+  alignment: "Center"
+  allowWordWrap: true
+  allowLeftTrimText: true
+  adjustWidth: 50
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/Role/Attri/DataScroll/Viewport/Content/attriRoot*/*"
+  sampleText: "Lifeforce"
+  idealFontSize: 22
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/Role/Attri/DataScroll/Viewport/Content/talentRoot/Talent*/Name"
+  sampleText: "Peerless talent"
+  idealFontSize: 20
+  alignment: "Center"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/Role/Attri/DataScroll/Viewport/Content/talentRoot/Talent*/Des"
+  sampleText: "Wealth�and�honor,�the�ultimate�in�prestige,�encompass�lords�and�ministers.�Gaining�money,�improving�skills,�and�enhancing�understanding�increases�by�<color=#e0834c>20%</color>;�damage�dealt�is�increased�by�<color=#e0854c>5%</color>,�while�received�damage�is�reduced�by�<color=#e0834c>5%</color>."
+  idealFontSize: 16
+  alignment: "TopLeft"
+  allowWordWrap: true

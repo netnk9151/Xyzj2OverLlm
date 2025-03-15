@@ -1940,11 +1940,18 @@
 - raw: 茯苓
   result: Poria
   allowalt: 
-    - Fuling
+    - Ding Fuling
   badtrans: true
 - raw: 三七
   result: Sanqi
   badtrans: false
+- raw: 细辛
+  result: Fragrant Root
+  allowalt:
+    - Liu Xixin
+  badtrans: true
+  direct: Xi Xin
+  literal: Xi Xin
 - raw: 软筋散
   result: Tendon-Softening Powder
   badtrans: true
@@ -1996,7 +2003,31 @@
   badtrans: true  
   direct: Key to the Secret Treasure  
   literal: Mibao Zhi Yao  
-
+- raw: 末药
+  result: Final Remedy
+  badtrans: true
+  direct: Mo Yao
+  literal: Mo Yao
+- raw: 琉璃石
+  result: Luminous Jade Stone
+  badtrans: true
+  direct: Liu Li Shi
+  literal: Liu Li Shi
+- raw: 筋武丹
+  result: Sinew Strengthening Pill
+  badtrans: true
+  direct: Jin Wu Dan
+  literal: Jin Wu Dan
+- raw: 玲珑匣
+  result: Intricate Casket
+  badtrans: true
+  direct: Ling Long Xia
+  literal: Ling Long Xia
+- raw: 离荧
+  result: Waning Ember
+  badtrans: true
+  direct: Li Ying
+  literal: Li Ying
 
 # People
 - raw: 枪士
@@ -2644,6 +2675,41 @@
   badtrans: true  
   direct: Jing Wu Shuang  
   literal: Jing Wu Shuang  
+- raw: 任天游
+  result: Ren Tianyou
+  badtrans: true
+  direct: Ren Tianyou
+  literal: Ren Tianyou
+- raw: 武道盛
+  result: Wu Daosheng
+  badtrans: true
+  direct: Wu Dao Sheng
+  literal: Wu Dao Sheng
+- raw: 昝歌云
+  result: Zan Geyun
+  badtrans: true
+  direct: Zan Ge Yun
+  literal: Zan Ge Yun
+- raw: 永觉
+  result: Yong Jue
+  badtrans: true
+  direct: Yong Jue
+  literal: Yong Jue
+- raw: 符歌
+  result: Fu Ge
+  badtrans: true
+  direct: Fu Ge
+  literal: Fu Ge
+- raw: 孟从
+  result: Meng Cong
+  badtrans: true
+  direct: Meng Cong
+  literal: Meng Cong
+- raw: 柳细辛
+  result: Liu Xixin
+  badtrans: true
+  direct: Liu Xi Xin
+  literal: Liu Xi Xin
 
 # Bosses
 - raw: 艾里甫  
@@ -2696,6 +2762,16 @@
   badtrans: true  
   direct: Liu Qing  
   literal: Liu Qing  
+- raw: 神捕  
+  result: Divine Detective  
+  badtrans: true  
+  direct: Divine Detective  
+  literal: Shen bu  
+- raw: 李三问  
+  result: Li Sanwen  
+  badtrans: true  
+  direct: Li Sanwen  
+  literal: Li San wen  
 
 # Factions & Places
 - raw: 永兴
@@ -3066,7 +3142,11 @@
   badtrans: true  
   direct: Bee Hall Leader  
   literal: Feng Tangzhu  
-
+- raw: 玄门  
+  result: Xuanmen  
+  badtrans: true  
+  direct: Mysterious Sect  
+  literal: Xuan men  
 
 # Kingdoms
 - raw: 燕国
@@ -3409,6 +3489,59 @@
   result: Mystery of One's Origins  
   badtrans: true
 
+# Meridians
+- raw: 冲脉
+  result: Chong Mai
+  badtrans: true
+  direct: Chong Mai
+  literal: Chong Mai
+- raw: 带脉
+  result: Dai Mai
+  badtrans: true
+  direct: Dai Mai
+  literal: Dai Mai
+- raw: 阳维
+  result: Yang Wei
+  badtrans: true
+  direct: Yang Wei
+  literal: Yang Wei
+- raw: 阴维
+  result: Yin Wei
+  badtrans: true
+  direct: Yin Wei
+  literal: Yin Wei
+- raw: 阴跷
+  result: Yin Qiao
+  badtrans: true
+  direct: Yin Qiao
+  literal: Yin Qiao
+- raw: 阳跷
+  result: Yang Qiao
+  badtrans: true
+  direct: Yang Qiao
+  literal: Yang Qiao
+- raw: 任脉
+  result: Ren Mai
+  badtrans: true
+  direct: Ren Mai
+  literal: Ren Mai
+- raw: 督脉
+  result: Du Mai
+  badtrans: true
+  direct: Du Mai
+  literal: Du Mai
+# - raw: 经脉
+#   result: Meridian Pathway
+#   badtrans: true
+#   direct: Jing Mai
+#   literal: Jing Mai
+- raw: 小虾仁  
+  result: Xiao Xiaren  
+  badtrans: true  
+  direct: Little Shrimp  
+  literal: Xiao xia ren  
+
+
 # Martial Arts
 - raw: 太极心法
   result: Tai Chi Heart Method
@@ -3523,3 +3656,18 @@
   badtrans: true  
   direct: Stealing the Beam and Replacing the Pillar  
   literal: Tou Liang Huan Zhu  
+- raw: 机杼经
+  result: Weaving Loom Sutra
+  badtrans: true
+  direct: Ji Zhu Jing
+  literal: Ji Zhu Jing
+- raw: 逐月履
+  result: Pursuing the Moon's Steps
+  badtrans: true
+  direct: Zhu Yue Lv
+  literal: Zhu Yue Lv
+- raw: 乌金玄汤卷  
+  result: Black Gold Secret Elixir 
+  badtrans: true  
+  direct: Black Gold Mysterious Secret Elixir 
+  literal: Wu jin xuan tang 

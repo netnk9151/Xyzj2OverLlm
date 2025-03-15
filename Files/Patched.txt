@@ -296,7 +296,7 @@ MailChatItemSlot.EntrusttHandle
 MailChatItemSlot.ExchangeHandle
 MailChatItemSlot.NpcPresentHandle
 MailChatItemSlot.Refresh
-MailManager.AddMailRole
+
 MailShaiXuanItemSlot.OnReset
 MailSystemReplyItemSlot.PopTip
 MailView.OnClickAskForHelp

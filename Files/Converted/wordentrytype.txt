@@ -1059,25 +1059,25 @@
   splits:
   - split: 1
     text: "剑却"
-    translated: "Sword but"
+    translated: "Sword Retreat"
 - lineNum: 1838
   raw: "1838#刀却#9#1202#4#1#0#0#1#6#1#1#301838#1#"
   splits:
   - split: 1
     text: "刀却"
-    translated: "The blade, however..."
+    translated: "Blade Retreat"
 - lineNum: 1839
   raw: "1839#枪却#9#1202#4#2#0#0#1#6#1#1#301839#1#"
   splits:
   - split: 1
     text: "枪却"
-    translated: "However, it's a spear"
+    translated: "Spear Retreat"
 - lineNum: 1840
   raw: "1840#武却#9#1202#4#3#0#0#1#6#1#1#301840#1#"
   splits:
   - split: 1
     text: "武却"
-    translated: "Wu Que"
+    translated: "Martial Retreat"
 - lineNum: 1841
   raw: "1841#风转#8#1203#1#3#0#0#1#7#1#1#301841#1#"
   splits:
@@ -3733,3 +3733,15 @@
   - split: 1
     text: "九天追月"
     translated: "Chase the Moon through Nine Heavens"
+- lineNum: 30300
+  raw: "30300#流云断月刀#10#0#0#112400#0#1200|1201#1#0#0#0#0#0#"
+  splits:
+  - split: 1
+    text: "流云断月刀"
+    translated: "Flowing Clouds Sever Moon Blade"
+- lineNum: 30301
+  raw: "30301#武穆十三枪#10#0#0#122000#0#1200|1201#1#0#0#0#0#0#"
+  splits:
+  - split: 1
+    text: "武穆十三枪"
+    translated: "Martial Muzhi Thirteen Spears"

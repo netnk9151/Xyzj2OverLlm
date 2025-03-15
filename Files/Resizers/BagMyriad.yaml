@@ -1,0 +1,42 @@
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/lianzhaoeditPartNewNew/mask/DiLan/XiuWeiText"
+  sampleText: "Cultivation level:269"
+  idealFontSize: 24
+  alignment: "TopLeft"
+  allowWordWrap: true
+  adjustWidth: 100
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/lianzhaoeditPartNewNew/mask/DiLan/GanwuText"
+  sampleText: "Insight:17054"
+  idealFontSize: 24
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/lianzhaoeditPartNewNew/mask/RightPanel/SpellName"
+  sampleText: "Kun Dao"
+  idealFontSize: 40
+  alignment: "Midline"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/lianzhaoeditPartNewNew/mask/RightPanel/SpellDes"
+  sampleText: "Clasping his fist to the side, he executes a swift technique. At the beginning of wuji, yin and yang find their place; through cycles of movement and stillness, one resides within true sovereignty."
+  idealFontSize: 20
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/lianzhaoeditPartNewNew/mask/RightPanel/*"
+  sampleText: "  Entry (Some special effects or attributes that can be acquired additionally; may be refined.)"
+  idealFontSize: 20
+  alignment: "TopLeft"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/lianzhaoeditPartNewNew/mask/RightPanel/ZhaoShiXiuLian"
+  sampleText: "  Technique Training"
+  idealFontSize: 20
+  alignment: "TopLeft"
+  allowWordWrap: false
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/lianzhaoeditPartNewNew/mask/RightPanel/XiuLianBtn/Text (TMP)"
+  sampleText: "Refined through adversity"
+  idealFontSize: 20
+  alignment: "Center"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/lianzhaoeditPartNewNew/mask/RightPanel/XiuLianBtn/NeedGanWu"
+  sampleText: "Insight: 1145"
+  idealFontSize: 20
+  alignment: "MidlineLeft"
+  allowWordWrap: true

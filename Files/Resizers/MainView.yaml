@@ -1,0 +1,125 @@
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MainViewOld/Root/RightTip/root/*/Text (TMP)"
+  sampleText: "  Lightness Skill"
+  idealFontSize: 20
+  allowWordWrap: true
+  allowAutoSizing: false
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/HintUILayer/CommonTipView/TextMeshLinkTip/tipText"
+  sampleText: "The preservation of a character's lifeforce is crucial; should the lifeforce drop below 0, the character will die.\r\nSource:Foundation Plus290,Equipment +55,Entry:176,Meridian channels +720,Secret Manuscript78,Combo attack +195,Others + 89"
+  idealFontSize: 24
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/XiaoxiView/Mask/dibian/Toggle Scroll View/Viewport/Content/Toggle/Label"
+  sampleText: "Cloud Crane Village"
+  idealFontSize: 26
+  alignment: "Center"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/RoleInteract/Root/RoleInteract/interacts/Scroll View/Viewport/Content/interact(Clone)/Text"
+  sampleText: "Conversing"
+  idealFontSize: 18
+  alignment: "Right"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/RoleInteract/Root/RoleInteract/interacts/interacts_old/node_leave/txt_leave"
+  sampleText: "Follow me.FDeparture."
+  idealFontSize: 20
+  alignment: "Top"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/NpcChatView/screen/*/part/content"
+  sampleText: "Yang Xiaowei once said that the thing he was least proud of was having been defeated by someone from the Duan family."
+  idealFontSize: 24
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/NpcChatView/screen/*/part/name"
+  sampleText: "Shen Yan Gong."
+  idealFontSize: 30
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/RoleInteract/Root/RoleInteract/panel/toggle*/btn_*/Text (TMP)"
+  sampleText: "All of them"
+  idealFontSize: 24
+  alignment: "Midline"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/RoleInteract/Root/RoleInteract/panel/OSA/Viewport/Content/OSA_CellGroupPrefab(Clone)/Item(Clone)/Views/NpcUI/ImagePortraitBG/ImageName/TextName"
+  sampleText: "Head of the Village"
+  idealFontSize: 24
+  alignment: "Midline"
+  allowWordWrap: false
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/RoleInteract/Root/RoleInteract/panel/OSA/Viewport/Content/OSA_CellGroupPrefab(Clone)/Item(Clone)/Views/NpcUI/title/des"
+  sampleText: "Friend"
+  idealFontSize: 18
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/RoleInteract/Root/RoleInteract/panel/leftToggle/btn_*/Text (TMP)"
+  sampleText: "My relationship"
+  idealFontSize: 20
+  alignment: "Center"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/RoleInteract/Root/RoleInteract/panel/tip*/Text (TMP)"
+  sampleText: "  Confirmed"
+  idealFontSize: 20
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+  allowLeftTrimText: true
+  adjustWidth: 20
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/RoleInteract/Root/RoleInteract/OtherInteract/Present/OSA/Viewport/Content/OSA_CellGroupPrefab(Clone)/Item(Clone)/Views/Text (TMP)_Name"
+  sampleText: "<color=#E4F5E8>Crab Fermented Orange</color>"
+  idealFontSize: 20
+  alignment: "TopLeft"
+  allowWordWrap: true
+  adjustX: -50
+  adjustWidth: -100
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/RoleInteract/Root/RoleInteract/interacts/InteractGridRoot/Viewport/InteractGrid/*/Text"
+  sampleText: "Casual chat"
+  idealFontSize: 20
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/RoleInteract/Root/RoleInteract/ShowItemView/Scroll View/Viewport/Content/*/title"
+  sampleText: "View information"
+  idealFontSize: 20
+  alignment: "CaplineLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/RoleInteract/Root/RoleInteract/ShowItemView/Scroll View/Viewport/Content/*/lockdes"
+  sampleText: "Affection level ≥ 5; Relationship value ≥ 150"
+  idealFontSize: 20
+  alignment: "CaplineLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/XiaYunLuView/bg/toggroup/*/Active/text"
+  sampleText: "  List of Peerless Heroes"
+  idealFontSize: 20
+  alignment: "Center"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/XiaYunLuView/bg/toggroup/*/Checkmark"
+  sampleText: "  List of Peerless Heroes"
+  idealFontSize: 20
+  alignment: "Center"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/XiaYunLuView/bg/wushuangRoot/*/info/*"
+  sampleText: "  Check location"
+  idealFontSize: 18
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/XiaYunLuView/bg/wushuangRoot/wushuang/*"
+  sampleText: "  Name"
+  idealFontSize: 24
+  alignment: "Center"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/HandbookView/Root/mask/panels/node/left/smallTog/all(Clone)/Text"
+  sampleText: "Tome of Secrets"
+  idealFontSize: 24
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/HandbookView/Root/mask/panels/bigTog/*/Text"
+  sampleText: "  Classic text"
+  idealFontSize: 24
+  alignment: "Midline"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/HandbookView/Root/mask/panels/node/*"
+  sampleText: "During Shen Yan's journey through the Jianghu and numerous adventures, he synthesized a new martial arts system from his own understanding of swordsmanship. Initially lacking in strength, this system nonetheless possesses potential for development."
+  idealFontSize: 20
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/HintUILayer/CommonTipView/QuestFinishTip/content"
+  sampleText: "Main storyline:The clash between the three factions"
+  idealFontSize: 40
+  alignment: "Top"
+  allowWordWrap: true

@@ -1,0 +1,56 @@
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/NpcInformationView/UINodeR/RenWu/Equip/*Tip/Text (TMP)"
+  sampleText: "  Weapons"
+  idealFontSize: 20
+  allowWordWrap: true
+  allowLeftTrimText: true
+  adjustWidth: 100
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/NpcInformationView/UINodeL/Select/Select*/Text"
+  sampleText: "  Information"
+  idealFontSize: 20
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/NpcInformationView/UINodeR/*/Layout/*"
+  sampleText: "External Attack  <color=#f0f0f0>47</color>"
+  idealFontSize: 20
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/NpcInformationView/UINodeR/JingLi/ExperienceMapNew/*/Viewport/Content/btn*/title"
+  sampleText: "  All of them"
+  idealFontSize: 20
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/NpcInformationView/RoleInformation/Talent*/Text (TMP)"
+  sampleText: "  Attribute"
+  idealFontSize: 20
+  allowWordWrap: true
+  allowLeftTrimText: true
+  adjustWidth: 50
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/NpcInformationView/UINodeR/*/Image*/Text"
+  sampleText: "  Proactive technique"
+  idealFontSize: 20
+  allowWordWrap: true
+  allowLeftTrimText: true
+  adjustWidth: 100
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/NpcInformationView/UINodeR/*/Viewport/Content/Image*/SpellNameText"
+  sampleText: "<color=#E4F5E8>Basic attacks</color>"
+  idealFontSize: 18
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/NpcInformationView/UINodeR/*/attriAllRoot/AttriRoot/Attri*/Text*"
+  sampleText: "Buddhism  29"
+  idealFontSize: 18
+  alignment: "Left"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/NpcInformationView/UINodeR/ShuXing/attriAllRoot/AttriRoot/Attri (1)/Text"
+  sampleText: "Taoism  29"
+  idealFontSize: 18
+  alignment: "Left"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/NpcInformationView/RoleInformation/Name/Text"
+  sampleText: "Ape God"
+  idealFontSize: 34
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+  adjustY: -5
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/NpcInformationView/RoleInformation/*"
+  sampleText: "<color=#b8b8b8>Force: </color>Details are unclear"
+  idealFontSize: 20
+  allowWordWrap: true

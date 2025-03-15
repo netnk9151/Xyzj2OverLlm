@@ -23,7 +23,7 @@
     translated: "Primordial Sword Sect"
   - split: 11
     text: "太初剑宗创派人张司过曾为玄门仙师白闻清的弟子，在白闻清离世后，创立太初剑宗庇护受战争影响的百姓，燕国之内开始有了不少弟子，成为了燕国最早出现的宗派之一，也见证了七国之间的兼并，以及魏、齐、楚的鼎盛。而后来随着嘉和帝对玄门的尊崇，太初剑宗弟子得以奔走于权皇贵胄之间，甚至能参与到一些士族的争斗当中。不少世家将家中学子送入太初剑宗修行，使得太初剑宗逐步成为了玄门之首的宗派。"
-    translated: "Zhang Siguo, the founding master of the Primordial Sword Sect, was once a disciple of the Immortal Master Baiting Qing. After Baiting Qing passed away, Zhang Siguo established the Primordial Sword Sect to protect common people affected by war. Within the Yan Kingdom, it quickly attracted many disciples and became one of the earliest sects to emerge there, witnessing the annexations between the Seven States and the zenith of Wei, Qi, and Chu. Later, as Emperor Jiahe revered the Immortals, disciples of the Primordial Sword Sect were able to travel among noble families and even participate in some aristocratic struggles. Many noble households sent their children to study at the Primordial Sword Sect, leading it gradually to become the foremost sect within the realm of the Immortals."
+    translated: "The founder of the Primordial Sword Sect, Zhang Siguo, was once a disciple of the Xuanmen immortals' master Bai Wencheng. After Bai Wencheng passed away, Zhang Siguo established the Primordial Sword Sect to protect civilians affected by war within the Yan Kingdom. It quickly attracted many disciples and became one of the earliest sects in Yan. The sect witnessed the annexation between the Seven States, as well as the zenith of Wei, Qi, and Chu. Later, with Emperor Jiahe's veneration for Xuanmen, disciples of the Primordial Sword Sect were able to traverse among royal families and even partake in some noble family conflicts. Many illustrious families sent their children to study at the Primordial Sword Sect, leading it to gradually become the foremost sect under Xuanmen."
   - split: 12
     text: "剑"
     translated: "Sword"
@@ -59,7 +59,7 @@
     translated: "Sword Pavilion"
   - split: 11
     text: "玉阳真人迟浔江虽也对玄门修行兴趣颇深，但却不想进入官场，只想闲云野鹤，遍访山川。后来云游途中，迟浔江亦见到了许多饱受战争侵扰的百姓，他手中长剑虽能替人赶走穷凶之徒，却难救下负伤或是病体沉疴之人。于是迟浔江在这之后除却剑术的钻研，亦花费诸多心思遍寻炼药之方，炮制药丹。后来迟浔江为使自身所学得以传承便建立剑斋，将自己的剑法和丹鼎之学尽数相传。"
-    translated: "The Immortal Yu Yang, Master Chi Xunjian, had a deep interest in the teachings of the Mystical Gate but did not wish to enter officialdom. He preferred to live as a free spirit among the clouds and geese, roaming the mountains and rivers. On his travels, Chi Xunjian witnessed many civilians suffering from the ravages of war. While his long sword could drive off nefarious troublemakers, it was powerless in healing those wounded or afflicted by serious illness. Consequently, after these experiences, Chi Xunjian not only continued to refine his swordsmanship but also devoted considerable effort to researching alchemy and formulating elixirs. Eventually, he established a Sword Pavilion to ensure that his teachings—comprising both sword arts and the study of elixirs—could be passed down to others."
+    translated: "Yuyang Zhenren Chi Xunjian also had a deep interest in Xuanmen cultivation but did not wish to enter officialdom. He preferred the life of an idle cloud and crane, roaming and exploring mountains and rivers. Later, during his travels, Chi Xunjian encountered many commoners suffering from war. Although his sword could drive away ruffians, it was difficult for him to help those injured or with grave illnesses. Consequently, after this experience, besides honing his swordsmanship, he devoted much thought to finding alchemical methods and concocting elixirs. Eventually, to ensure the transmission of his learning, Chi Xunjian established a Sword Pavilion, where he passed on his complete knowledge of sword art and alchemy."
   - split: 12
     text: "剑"
     translated: "Sword"
@@ -110,7 +110,7 @@
     translated: "The Mu Te Tribe, a nomadic group near the Chu Kingdom, is known for its fierce and warlike nature. Among them, Shan Ye stands out as a particularly brutal general, infamous for his killing spree and considered a formidable warrior of the Mu Te Tribe. Many generals from the Chu Kingdom have fallen to his blade. Eventually, the Chu Kingdom dispatched three generals in a joint effort to capture him. Concerned that executing Shan Ye might provoke even more intense attacks from the Mu Te Tribe and destabilize their border regions, they decided to imprison him as leverage instead. Meanwhile, Zhu Hu secretly established contact with him, and upon seizing the throne, invited him back for personal use."
   - split: 12
     text: "剑、刀"
-    translated: "Sword, blade"
+    translated: "Sword, Blade"
 - lineNum: 10
   raw: "10#10#狂刀门#0#1#12|13#0#1#5000811|5000812|5000813|5000814|5000815#65010#1#狂刀门，昔与绝剑门同源，因隙而分。现掌门许鸿煊，施傲寒六诀，曾威震江湖，门中弟子，侠肝义胆，仗剑天涯，只为重扬狂刀威名，江湖风云起，狂刀待出鞘。#刀#2|3#3003#"
   splits:
@@ -146,7 +146,7 @@
     translated: "During the period of turmoil among the Seven Kingdoms, Baihe Valley was a representative sect of the Baihe family. Its disciples moved between nations, gaining respect for their exceptional Baihe skills and reaching their peak. However, as the Three States began to mutually restrain each other, bringing peace to the world, Baihe Valley had no place to exert its influence and gradually became forgotten by people."
   - split: 12
     text: "剑、刀"
-    translated: "Sword, blade"
+    translated: "Sword, Blade"
 - lineNum: 13
   raw: "13#13#重天门#0#1#0#0#1#5000601|5000602|5000603|5000604|5000605|5000606|5000607#65013#2#天生便为阴阳共生之体的林一朝因为这另类的身体，时常遭人打骂侮辱，被视为怪物。后因得到巫师卜灵的传承，意图打造一个没有战争和苦难的精神桃源，并让从前看不上他的世人顺从于他。#掌#0|4#3002#"
   splits:
@@ -326,7 +326,7 @@
     translated: "Located in the northern region of the Xia Kingdom on a mountain, it cannot be compared with the most prestigious schools and factions in the Jianghu. However, due to its mastery of both hard and soft martial arts techniques and its unyielding spirit, it has earned considerable renown within the Jianghu. The pine trees growing abundantly on this mountain are lush and vigorous, perhaps influencing the Pine Brushing Gate to uphold values where, whether teaching disciples martial skills or in their conduct as people, they must embody the upright toughness of cypresses, without arrogance or submissiveness."
   - split: 12
     text: "剑、刀"
-    translated: "Sword, blade"
+    translated: "Sword, Blade"
 - lineNum: 28
   raw: "28#28#岭花谷#0#2#0#0#1#5000671|5000672|5000673|5000674|5000675|5000676|5000677#65028#1#位于北地山谷之中，作为门派并不爱参与江湖纷争，但却鼓励谷内弟子悬壶济世，行医救人。是江湖上颇具盛名的医道势力，谷内弟子皆潜心修习医术，时常出谷救济百姓。#搏击#3|4#3003#"
   splits:
@@ -578,7 +578,7 @@
     translated: "After a dispute lasting several hundred years, the Wild Blade Sect and Sword Breaker Gate laid down their differences, transforming swords into silk, and united as one school."
   - split: 12
     text: "刀、剑"
-    translated: "Sword, blade"
+    translated: "Sword, Blade"
 - lineNum: 900
   raw: "900#900#霜雪宫#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
@@ -1463,7 +1463,7 @@
     translated: "Old Sage Mountain"
   - split: 11
     text: "云岭一万重，秋来此间清。扑面迎翠色，回转别泉声。金顶倾紫气，石林逸仙风。深涧皆静寂，蛱蝶不知名。被称之世间无双圣境，天下第一仙山，是玄门始祖归隐清修之地，玄门祖庭所在。"
-    translated: "Yunling's ten thousand layers of peaks grow clear with the arrival of autumn. Emerald hues greet you as you turn away from the sound of the spring. Purple mists lean from golden summits, while rock forests release immortal winds. Deep ravines lie in profound silence; butterflies wander, unnamed. This world-renowned peerless sacred realm is known as the greatest mountain among immortals. It serves as the reclusive retreat for cultivation by Xuanyuan, the progenitor of the Gateless School and the location of its ancestral temple."
+    translated: "Yunling's ten thousand layers are pristine in autumn. The jade greenery greets you as you turn away from the babbling streams. On the golden peak, purple mists lean; in the stone forests, winds of immortals drift free. In deep ravines all is serene, where butterflies know no names. Renowned as a peerless sacred realm unparalleled in the world, it stands as the first immortal mountain. This is the place of seclusion and pure cultivation for the founding ancestor of Xuanmen; the site of the ancestral temple of Xuanmen."
 - lineNum: 9019
   raw: "9019#9019#蓬莱村#0#0#0#0#0##0#0#蓬莱村，坐落于青山绿水间的一片净土。青瓦白墙，错落有致，每当晨曦初照，薄雾缭绕，仿佛仙境。这里四季如春，百花常开，鸟语花香。竹叶与月光交织，发出如丝如缕的清响，溪水缓缓流淌，水中的小鱼嬉戏。#0#0#3003#"
   splits:

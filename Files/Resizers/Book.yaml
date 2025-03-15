@@ -1,0 +1,157 @@
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MiJiBookView/Book/RightNext/graphNode/part/condition/Content/*/text"
+  sampleText: "Skill Scroll · Roaming the Eight Wildernesses:1"
+  idealFontSize: 16
+  allowWordWrap: true
+  adjustWidth: -300
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MiJiBookView/Book/RightNext/graphNode/part/condition/Content/*/curText"
+  sampleText: "Not possessed"
+  idealFontSize: 16
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MiJiBookView/Book/*/spell/title/namebg/spelldesc"
+  sampleText: "Employing breathing techniques and breath control to harmonize the True Qi, achieving a unity of body and mind."
+  idealFontSize: 16
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MiJiBookView/Book/*/spell/partXinfa/tiaoxi/bg/title"
+  sampleText: "  Breath control"
+  idealFontSize: 18
+  allowWordWrap: true
+  allowLeftTrimText: true
+  adjustWidth: 70
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MiJiBookView/Book/*/spell/partXinfa/yundong/bg/title"
+  sampleText: "  Channeling"
+  idealFontSize: 18
+  allowWordWrap: true
+  allowLeftTrimText: true
+  adjustWidth: 40
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MiJiBookView/Book/LeftNext/spell/partSpell/baseAttri/bg/Text"
+  sampleText: "  Basic Attributes"
+  idealFontSize: 18
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MiJiBookView/Book/*/spell/part*/qianghuaAttri/bg/Text"
+  sampleText: "  Enhance attributes"
+  idealFontSize: 18
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MiJiBookView/Book/*/spell/partXinfa/yundong/desc"
+  sampleText: "Use abdominal breathing to immediately restore your potential by *5* health points and inner power by *1* true qi points, while continuously recovering *4* health points over a duration of 5 seconds."
+  idealFontSize: 20
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MiJiBookView/Book/*/spell/part*/qianghuaAttri/Scroll View/Viewport/Content/parentImage/gridTip/*/name"
+  sampleText: "ImpactTranscendentObtain enhanced effects"
+  idealFontSize: 18
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MiJiBookView/Book/*/spell/partXinfa/xinfaAttriContent/*/name1"
+  sampleText: "Lifeforce:"
+  idealFontSize: 18
+  allowWordWrap: true
+  adjustX: -40
+  adjustWidth: 40
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MiJiBookView/Book/*/spell/partXinfa/xinfaAttriContent/*/value1"
+  sampleText: "+78"
+  idealFontSize: 18
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MiJiBookView/Book/LeftNext/spell/partXinfa/tiaoxi/bg/desc"
+  sampleText: "  The ability to have kung fu techniques operate automatically during combat."
+  idealFontSize: 16
+  allowWordWrap: true
+  allowLeftTrimText: true
+  adjustX: -50
+  adjustWidth: -100
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MiJiBookView/Book/LeftNext/spell/partXinfa/tiaoxi/grid/*/name"
+  sampleText: "1Duan:"
+  idealFontSize: 16
+  allowWordWrap: true
+  adjustY: -20
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MiJiBookView/Book/LeftNext/spell/partXinfa/tiaoxi/grid/*/desc"
+  sampleText: "As the cycle of heaven revolves every 5 seconds, it restores vitality by *1.5* in terms of potential health and replenishes true Qi by *1.5*."
+  idealFontSize: 16
+  allowWordWrap: true
+  adjustY: -20
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MiJiBookView/Book/LeftNext/spell/partXinfa/yundong/desc"
+  sampleText: "Use abdominal breathing to immediately restore your potential by *5* health points and inner power by *1* true qi points, while continuously recovering *4* health points over a duration of 5 seconds."
+  idealFontSize: 16
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MiJiBookView/Book/LeftNext/spell/partSpell/baseAttri/*/*value"
+  sampleText: "0"
+  idealFontSize: 18
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MiJiBookView/Book/LeftNext/spell/partSpell/baseAttri/*"
+  sampleText: "  External attack damage"
+  idealFontSize: 18
+  allowWordWrap: true
+  allowLeftTrimText: true
+  adjustWidth: 40
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MiJiBookView/Book/RightNext/graphNode/part/bg/title"
+  sampleText: "Getting Started"
+  idealFontSize: 24
+  allowWordWrap: true
+  adjustWidth: 100
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MiJiBookView/Book/RightNext/graphNode/part/condition/bg/Text"
+  sampleText: "  Activation Conditions"
+  idealFontSize: 18
+  allowWordWrap: true
+  allowLeftTrimText: true
+  adjustWidth: 40
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MiJiBookView/Book/RightNext/graphNode/part/guling/title"
+  sampleText: "  Gateway to Spiritual Enlightenment"
+  idealFontSize: 20
+  allowWordWrap: true
+  allowLeftTrimText: true
+  adjustX: 100
+  adjustWidth: 200
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MiJiBookView/Book/RightNext/graphNode/part/guling/Content/*/value1"
+  sampleText: "<color=#E4F5E8>Feiying</color>:    Qinggong recovery + <color=#FFDA5A>1</color>(1)"
+  idealFontSize: 20
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MiJiBookView/Book/RightNext/graphNode/part/nodePart/Content/0_11110000_11110000/conditionAssist/Content/*/name"
+  sampleText: "Prop"
+  idealFontSize: 16
+  allowWordWrap: true
+  adjustWidth: 10
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MiJiBookView/Book/*/graphNode/part/cost*"
+  sampleText: "Expenditure of insight:272"
+  idealFontSize: 20
+  allowWordWrap: true
+  adjustWidth: 100
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MiJiBookView/Book/*/spellPassive/effect/*/*/bg/title"
+  sampleText: "<color=#E4F5E8>Sheathe the blade</color>"
+  idealFontSize: 18
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MiJiBookView/Book/RightNext/spellPassive/lingwuCondition/bg/Text"
+  sampleText: "  Conditions of Realization"
+  idealFontSize: 18
+  alignment: "TopLeft"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MiJiBookView/Book/*/spellPassive/title/namebg/spelldesc"
+  sampleText: "Seize the opportunity to use their momentum against them, thereby disarming their forces"
+  idealFontSize: 16
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MiJiBookView/Book/*/spellPassive/effect/*/desc"
+  sampleText: "When damaged, there is a chance to become immune to all incoming damage for the next 1 seconds. The trigger probability is 5%, and it requires 6 seconds of meditative breathing to activate."
+  idealFontSize: 16
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MiJiBookView/Book/*/spellPassive/lingwuCondition/Content/*/text"
+  sampleText: "Activate:Qingming(Yin Qiao)"
+  idealFontSize: 16
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MiJiBookView/Book/*/spellPassive/lingwuCondition/Content/*/curText"
+  sampleText: "(Inactive)"
+  idealFontSize: 16
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MiJiBookView/Book/RightNext/spellPassive/lingwu/costganwu"
+  sampleText: "Expenditure of insight:10744"
+  idealFontSize: 20
+  allowWordWrap: true
+  adjustWidth: 100
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MiJiBookView/Book/LeftNext/spell/partXinfa/qianghuaAttri/Scroll View/Viewport/Content/parentImage/gridEffect/*/name"
+  sampleText: "<color=#5DBCF3>Born from the earth</color>   While the martial arts technique is active, it continuously restores 2% of your health every 5 seconds."
+  idealFontSize: 20
+  allowWordWrap: true

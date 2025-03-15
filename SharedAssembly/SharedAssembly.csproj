@@ -8,10 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="Contracts\DynamicStringContract.cs" />
+    <None Include="DynamicStrings\DynamicStringContract.cs" />
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="YamlDotNet" Version="16.3.0" />
+    <PackageReference Include="YamlDotNet" Version="16.3.0" />  
   </ItemGroup>
 </Project>

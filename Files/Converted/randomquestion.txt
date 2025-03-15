@@ -12,7 +12,7 @@
     translated: "Descendant of Xuanyuan"
   - split: 6
     text: "神农氏"
-    translated: "Divine Farmer, Shennong"
+    translated: "Shennong Clan"
   - split: 7
     text: "女娲"
     translated: "Nuwa"
@@ -24,7 +24,7 @@
     translated: "The foundation of traditional Chinese medicine, as per legend, was established by an ancient individual who tasted hundreds of herbs. Who is this person?"
   - split: 4
     text: "神农氏"
-    translated: "Divine Farmer, Shennong"
+    translated: "Shennong Clan"
   - split: 5
     text: "伏羲氏"
     translated: "Fuxi"
@@ -66,7 +66,7 @@
     translated: "Fuxi"
   - split: 6
     text: "神农氏"
-    translated: "Divine Farmer, Shennong"
+    translated: "Shennong Clan"
   - split: 7
     text: "有巢氏"
     translated: "You Chaoshi"
@@ -2121,7 +2121,7 @@
     translated: "Primordial Ancestor"
   - split: 7
     text: "汉高祖"
-    translated: "Lord Han, the Former Emperor"
+    translated: "Emperor Gao of Han"
 - lineNum: 1119
   raw: "1119#0#1#古代的「高句丽」因为趁五胡之乱占领中国辽东一带，最终被谁给收服回来？#唐太宗#隋炀帝#唐玄宗#宋太祖#"
   splits:
@@ -2661,7 +2661,7 @@
     translated: "Pine, bamboo, and plum—friends in adversity"
   - split: 7
     text: "好逑汤"
-    translated: "Charming couple, Tang"
+    translated: "Tang Haoqiu"
 - lineNum: 1149
   raw: "1149#0#1#问世间，情是何物？直教生死相许。天南地北双飞客，老翅几回寒暑。诗句中藉由哪一种动物，衬托人世间的感情？#大雁#麻雀#喜鹊#海鸥#"
   splits:
@@ -2727,13 +2727,13 @@
     translated: "Heavenly Meridian"
   - split: 5
     text: "任脉"
-    translated: "Ren Meridian"
+    translated: "Ren Mai"
   - split: 6
     text: "阳维脉"
     translated: "Yang Wei Pulse"
   - split: 7
     text: "冲脉"
-    translated: "Clearing Meridians"
+    translated: "Chong Mai"
 - lineNum: 1153
   raw: "1153#0#1#十二经脉是手三阴经丶手三阳经丶足三阳经丶足三阴经的总称。下列何者是错误的？#足少阳膀胱经#手太阴肺经#足阳明胃经#手少阴心经#"
   splits:
@@ -3357,7 +3357,7 @@
     translated: "Hu Fei"
   - split: 5
     text: "谢逊"
-    translated: "Thank you, Xuanyuan"
+    translated: "Xie Xun"
   - split: 6
     text: "狄云"
     translated: "Di Yun"
@@ -3426,7 +3426,7 @@
     translated: "The blood feud remains unresolved, causing the pain of a thousand men; what does one know about pride when all matters are in vain. With a roar to heaven, I stand resolved; where can one speak of slaying dragons amid this emptiness and clarity? This poem describes which Wulin sage?"
   - split: 4
     text: "谢逊"
-    translated: "Thank you, Xuanyuan"
+    translated: "Xie Xun"
   - split: 5
     text: "张无忌"
     translated: "Zhang Wuji"
@@ -10536,7 +10536,7 @@
     translated: "Who was the first to invent the weaving machine used for sewing?"
   - split: 4
     text: "黄道婆"
-    translated: "Madame Huang, the Yellow Sorceress"
+    translated: "Yellow Mother Huang"
   - split: 5
     text: "黄婆婆"
     translated: "Yellow Grandma"
@@ -11259,7 +11259,7 @@
     translated: "Hengshui Old White Ginseng"
   - split: 5
     text: "梅兰春"
-    translated: "Plum, Orchid, Spring"
+    translated: "Mei Lan Chun"
   - split: 6
     text: "一品景芝"
     translated: "First Rank Beauty Jingzhi"
@@ -11370,7 +11370,7 @@
     translated: "A banquet"
   - split: 6
     text: "劳军"
-    translated: "Thank you, Brother Lao"
+    translated: "Congratulations on your military accomplishments!"
   - split: 7
     text: "饮用"
     translated: "Consuming"
@@ -12048,7 +12048,7 @@
     translated: "The preparation of fillings for Chinese pastries typically requires certain standards in terms of ingredient processing. Generally, the requirements include ensuring that ingredients are fresh, clean, and well-prepared to achieve the desired texture and flavor. This may involve precise cutting, mixing, or cooking techniques to enhance the overall quality of the final product."
   - split: 4
     text: "细碎"
-    translated: "Minute, trivial"
+    translated: "Minute details"
   - split: 5
     text: "成熟"
     translated: "Maturation"
@@ -12681,7 +12681,7 @@
     translated: "Direct attack"
   - split: 5
     text: "斜剞"
-    translated: "They leaned forward, their posture tense"
+    translated: "Slanted slash"
   - split: 6
     text: "混剞"
     translated: "Chaos"

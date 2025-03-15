@@ -159,7 +159,7 @@
   splits:
   - split: 3
     text: "战凝"
-    translated: "Engage in combat, freeze time"
+    translated: "Zhan Ning"
 - lineNum: 31
   raw: "31#10#0#道衡#"
   splits:
@@ -705,7 +705,7 @@
   splits:
   - split: 3
     text: "业向"
-    translated: "Professionally, towards"
+    translated: "Ye Xiang"
 - lineNum: 122
   raw: "122#40#1#博才#"
   splits:

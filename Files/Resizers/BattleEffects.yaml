@@ -1,0 +1,8 @@
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/HintUILayer/CommonTipView/SpellTip/Image_Player/ViewPort/Text (TMP)"
+  sampleText: "Zhoutian Breathing Technique"
+  idealFontSize: 70
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "Left"
+  allowWordWrap: true
+  allowAutoSizing: false

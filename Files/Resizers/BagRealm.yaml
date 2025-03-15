@@ -1,0 +1,73 @@
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingjiePartNew/mask/RightPanel/ChengSuText"
+  sampleText: "Realm: The 1th level"
+  idealFontSize: 32
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingjiePartNew/mask/RightPanel/DesText"
+  sampleText: "A giant tree that can encircle someone once grew from a tiny sprout. A terrace several hundred feet high was built starting with a small heap of dirt. A journey of a thousand miles begins with the first step."
+  idealFontSize: 26
+  alignment: "Top"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingjiePartNew/mask/RightPanel/GuDingLockPanel/Title"
+  sampleText: "  Fixed attribute"
+  idealFontSize: 22
+  alignment: "Midline"
+  allowWordWrap: true
+  allowLeftTrimText: true
+  adjustWidth: 70
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingjiePartNew/mask/RightPanel/GuDingLockPanel/SelectXinFa/Text (TMP)"
+  sampleText: "  Add martial arts techniques"
+  idealFontSize: 20
+  alignment: "Midline"
+  allowWordWrap: true
+  allowLeftTrimText: true
+  adjustWidth: 70
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingjiePartNew/mask/RightPanel/GuDingLockPanel/ConditionGroup/TiaoJianItem(Clone)/TiaoJianText"
+  sampleText: "Meridians:2Clause"
+  idealFontSize: 24
+  alignment: "TopLeft"
+  allowWordWrap: false
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingjiePartNew/mask/RightPanel/GuDingLockPanel/ConditionGroup/TiaoJianItem(Clone)/ManZuText"
+  sampleText: "<color=#a1a1a1>Unreachable</color>"
+  idealFontSize: 22
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingjiePartNew/mask/LeftPanel/Scroll View/Viewport/Content/gaotabg/Nodes/NodePrefab(Clone)/NameBg/NameText"
+  sampleText: "Able to handle martial arts at a basic level."
+  idealFontSize: 18
+  alignment: "Midline"
+  allowWordWrap: true
+  adjustWidth: 70
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingjiePartNew/SelectXinFaPanel/Title/Text (TMP)"
+  sampleText: "  Choosing a martial arts cultivation method"
+  idealFontSize: 30
+  alignment: "TopLeft"
+  allowWordWrap: true
+  allowLeftTrimText: true
+  adjustWidth: 200
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingjiePartNew/SelectXinFaPanel/OKBtn/BtnText"
+  sampleText: "  Confirmed"
+  idealFontSize: 30
+  alignment: "Midline"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingjiePartNew/SelectXinFaPanel/Scroll View/Viewport/Content/XinFaItem*/XinFaName"
+  sampleText: "<color=#E4F5E8>Dao of Concealing the Sword</color>"
+  idealFontSize: 28
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingjiePartNew/SelectXinFaPanel/Scroll View/Viewport/Content/XinFaItem*/XinFaText"
+  sampleText: "  Mind Cultivation Method:"
+  idealFontSize: 20
+  alignment: "TopLeft"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingjiePartNew/SelectXinFaPanel/XinFaDetailPanel/Text (TMP)"
+  sampleText: "  Mind Cultivation Attributes: <color=#9a9a9a>Determine a buff at random based on the chosen cultivation method.</color>"
+  idealFontSize: 28
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingjiePartNew/SelectXinFaPanel/XinFaDetailPanel/Scroll View/Viewport/Content/BuffItem*"
+  sampleText: "Yin +24"
+  idealFontSize: 28
+  alignment: "TopLeft"
+  allowWordWrap: true

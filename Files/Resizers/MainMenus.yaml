@@ -1,0 +1,33 @@
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/GameAnnouncementView/ContentPanel/GameAnnounce"
+  sampleText: "  Game Announcement"
+  idealFontSize: 30
+  alignment: "Center"
+  allowAutoSizing: false
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/GameAnnouncementView/ContentPanel/DefaultShow/Text (TMP)"
+  sampleText: "  Do not show this next time"
+  idealFontSize: 22
+  alignment: "TopLeft"
+  allowAutoSizing: false
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LoginViewNew/banbenbg/banbentext"
+  sampleText: "Current version:1.1.51(65)"
+  idealFontSize: 26
+  alignment: "TopRight"
+  allowAutoSizing: false
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/DLCShowView/imag/Root/Btn_Open/*"
+  sampleText: "  Enabled"
+  idealFontSize: 30
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "MidlineRight"
+  allowWordWrap: true
+  allowAutoSizing: false
+  allowLeftTrimText: true
+  adjustX: -30
+  adjustWidth: 30
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MainViewOld/Root/UI_Settings/mask/tips/bg/Text (TMP)"
+  sampleText: "  Retire from the Jianghu"
+  idealFontSize: 18
+  allowWordWrap: true
+  allowLeftTrimText: true

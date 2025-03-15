@@ -1,0 +1,72 @@
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/FabricationView/Node/NodeR/ItemBG/ItemName"
+  sampleText: "<color=#E4F5E8>Placebo</color>"
+  idealFontSize: 50
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/FabricationView/Node/NodeR/NodeSelfFabrication/Text_Time"
+  sampleText: "<color=#d5d4d4>Time-consuming:       </color><color=#49c14f>2<color=#f0f0f0>Time</color>"
+  idealFontSize: 40
+  allowWordWrap: false
+  adjustWidth: 320
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/FabricationView/Node/NodeR/NodeSelfFabrication/Text_Cost"
+  sampleText: "Consumption:"
+  idealFontSize: 40
+  allowWordWrap: false
+  adjustWidth: 220
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/FabricationView/Node/NodeR/NodeSelfFabrication/Level/LevelRatio/RatioItem*/Txt_Quality*"
+  sampleText: "<color=#cbd1d1>Roughly made</color>"
+  idealFontSize: 30
+  allowWordWrap: false
+  adjustX: -130
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/FabricationView/Node/NodeR/NodeSelfFabrication/Level/LevelRatio/RatioItem*/Txt_Ratio*"
+  sampleText: "<color=#f0f0f0>100%</color>"
+  idealFontSize: 30
+  allowWordWrap: false
+  adjustX: 50
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/FabricationView/Node/NodeR/NodeSelfFabrication/Quality/QualityRatio*/RatioItem*/Txt_Quality"
+  sampleText: "<color=#E4F5E8>Low-quality</color>"
+  idealFontSize: 30
+  allowWordWrap: false
+  adjustX: -110
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/FabricationView/Node/NodeR/NodeSelfFabrication/Text_Cost/CostItems/Vigur/Text_Num"
+  sampleText: "4"
+  idealFontSize: 40
+  alignment: "Left"
+  allowWordWrap: false
+  adjustX: 100
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/FabricationView/Node/NodeR/NodeSelfFabrication/Quality/QualityRatio/RatioItem*/Txt_Ratio*"
+  sampleText: "<color=#f0f0f0>100%</color>"
+  idealFontSize: 30
+  alignment: "MidlineLeft"
+  allowWordWrap: false
+  adjustX: 50
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/FabricationView/Node/NodeR/*"
+  sampleText: "  Output rank"
+  idealFontSize: 30
+  allowWordWrap: false
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/FabricationView/Node/NodeL/Scroll View/Viewport/Content/*/NoRecipe"
+  idealFontSize: 20
+  alignment: "Midline"
+  allowWordWrap: false
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/FabricationView/Node/NodeL/Scroll View/Viewport/Content/*/Name"
+  sampleText: "<color=#E4F5E8>Placebo</color>"
+  idealFontSize: 20
+  alignment: "Right"
+  allowWordWrap: false
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/FabricationView/Node/NodeL/Scroll View/Viewport/Content/*/Level"
+  sampleText: "Levels 1 to 1"
+  idealFontSize: 18
+  alignment: "TopRight"
+  allowWordWrap: false
+  adjustY: -20
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/FabricationView/Node/NodeL/Scroll View/Viewport/Content/*/QualityLevel"
+  sampleText: "Quality: Randomly"
+  idealFontSize: 18
+  alignment: "TopRight"
+  allowWordWrap: false
+  adjustY: -20
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/FabricationView/Node/Ret/Scroll View/Viewport/Content/Item/Text"
+  sampleText: "<color=#E4F5E8>Placebo</color>"
+  idealFontSize: 20
+  alignment: "Top"
+  allowWordWrap: true

@@ -71,11 +71,11 @@
     text: "前往(605,1926)附近的钓鱼点，用任意鱼竿与鱼饵钓鱼，有概率获得。该物十分稀有，只能获得一次。"
     translated: "Head to the fishing spot near (605,1926) with any rod and bait. There is a chance to obtain it. This item is extremely uncommon and can only be obtained once."
 - lineNum: 1001001
-  raw: "1001001#1001001#前往(685,2158)附近，击败守护的敌人后，交互采集点有概率获得。该物十分稀有，只能获得一次。#0#1#685.527,2158.32#"
+  raw: "1001001#1001001#前往(675,2105)附近，击败守护的敌人后，交互采集点有概率获得。该物十分稀有，只能获得一次。#0#1#675.527,2105.32#"
   splits:
   - split: 2
-    text: "前往(685,2158)附近，击败守护的敌人后，交互采集点有概率获得。该物十分稀有，只能获得一次。"
-    translated: "Travel to the area near (685,2158), defeat the enemies guarding it, and you have a chance to interact with the collection point afterward. The item obtained is quite rare and can only be acquired once."
+    text: "前往(675,2105)附近，击败守护的敌人后，交互采集点有概率获得。该物十分稀有，只能获得一次。"
+    translated: "Go to the vicinity of (675,2105), defeat the guarding enemies, and then interact with the collection point. There is a chance to obtain this item afterward. It is quite rare, and you can only acquire it once."
 - lineNum: 1001101
   raw: "1001101#1001101#前往(1865,-79)附近，击败守护的敌人后，交互采集点有概率获得。该物十分稀有，只能获得一次。#0#1#1865.06,-79.224#"
   splits:
@@ -347,17 +347,29 @@
     text: "佛学达到200"
     translated: "Buddhism reaches 200"
 - lineNum: 4000302
-  raw: "4000302#4000301#前往王溪(318,365)处，进行加入门派奇遇。#0&18|1|44|200|>=#1#318.898,365.336#"
+  raw: "4000302#4000301#前往间解(1512,1397)处，进行加入门派奇遇。#0&18|1|43|200|>=#1#1512,1397#"
   splits:
   - split: 2
-    text: "前往王溪(318,365)处，进行加入门派奇遇。"
-    translated: "Proceed to Wang Xi (318,365) for the adventure of joining a sect."
+    text: "前往间解(1512,1397)处，进行加入门派奇遇。"
+    translated: "Proceed to location (1512,1397) for a sect encounter."
 - lineNum: 4000303
   raw: "4000303#4000301#完成入寺问道奇遇后，前往嵩室山守门弟子(1479,606)处，加入门派。#0&3|37666|1#1#1479606#"
   splits:
   - split: 2
     text: "完成入寺问道奇遇后，前往嵩室山守门弟子(1479,606)处，加入门派。"
     translated: "After completing the quest to seek teachings at the temple and having an adventure, go to the place of (1479,606), the disciple guarding Songshi Mountain, to join the Sect."
+- lineNum: 4000401
+  raw: "4000401#4000401#儒学达到200#0#0#0#"
+  splits:
+  - split: 2
+    text: "儒学达到200"
+    translated: "Confucianism has reached 200"
+- lineNum: 4000402
+  raw: "4000402#4000401#前往王溪(318,365)处，进行加入门派奇遇。#0&18|1|44|200|>=#1#318.898,365.336#"
+  splits:
+  - split: 2
+    text: "前往王溪(318,365)处，进行加入门派奇遇。"
+    translated: "Head to Wangxi (318,365) for a chance encounter related to joining the sect."
 - lineNum: 4003101
   raw: "4003101#4003101#经历过狂刀门成为掌门的晋升剧情。#0#0#0#"
   splits:
@@ -2523,7 +2535,7 @@
   splits:
   - split: 2
     text: "从狗子口中得知水井中会泛起淡淡荧光,<color=&&DEB887>或许是琉璃石也说不定！</color>"
-    translated: "I learned from Gouzi that there is a faint glow rising from the well, <color=&&DEB887>perhaps it's mother of pearl; who knows?</color>"
+    translated: "I learned from the dog that a faint glow would rise in the well, <color=&&DEB887>perhaps it might even be a luminous jade stone!</color>"
 - lineNum: 60007001
   raw: "60007001#60007#据郑婶所说,<color=&&DEB887>飞炼瀑对修行和刀法练习很有益处。</color>#0&30|972471|1#1#1090,1620#"
   splits:
@@ -3075,13 +3087,13 @@
   splits:
   - split: 2
     text: "找到小虾仁之后, 他告诉了我们告诉了我们行脚商那里有藏宝图的传闻,<color=&&DEB887>不管怎样先购买下来再说好了。</color>"
-    translated: "After finding Xiao Xiaorong, he told us about the rumor that there was a treasure map at the Xingji Shang's place. <color=&&DEB887>No matter what, let's buy it first and decide later.</color>"
+    translated: "After finding Xiao Xiaren, he told us there was a rumor that the itinerant merchant had a treasure map. <color=&&DEB887>Regardless, let's buy it first and decide later.</color>"
 - lineNum: 60086002
   raw: "60086002#60086#将藏宝图交给小虾仁之后,<color=&&DEB887>他为我们指明了宝藏的位置,并将其标注在了地图上。</color>#0&24|956930|1;3|37231|1#0##"
   splits:
   - split: 2
     text: "将藏宝图交给小虾仁之后,<color=&&DEB887>他为我们指明了宝藏的位置,并将其标注在了地图上。</color>"
-    translated: "After handing over the treasure map to Xiaxian'er, <color=&&DEB887>he showed us where the treasure was located and marked it on the map.</color>"
+    translated: "After giving the treasure map to Xiao Xiaren, <color=&&DEB887>he indicated where the treasure was located and marked it on the map for us.</color>"
 - lineNum: 60086003
   raw: "60086003#60086#成功拿取宝藏之后,没想到冒出两个江湖人士妄想抢夺,<color=&&DEB887>我需要击败他们才是。</color>#0&24|956914|1#0##"
   splits:
@@ -3093,7 +3105,7 @@
   splits:
   - split: 2
     text: "顺利将二人击败,<color=&&DEB887>现在是时候回去找小虾仁了。</color>"
-    translated: "Having successfully defeated both of them, <color=&&DEB887>it's time to go back and find Xiao Xiaoren now.</color>"
+    translated: "Having successfully defeated the two of them, <color=&&DEB887>it is now time to go back and find Xiao Xiaren.</color>"
 - lineNum: 60087001
   raw: "60087001#60087#归春派出两位来自御虚门的高手与我作战,<color=&&DEB887>非得击败他们不可！</color>#0&24|956886|1#0##"
   splits:

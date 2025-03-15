@@ -1440,7 +1440,7 @@
     translated: "Primordial Sword Sect"
   - split: 6
     text: "太初剑宗创派人张司过曾为玄门仙师白闻清的弟子，在白闻清离世后，创立太初剑宗庇护受战争影响的百姓，燕国之内开始有了不少弟子，成为了燕国最早出现的宗派之一，也见证了七国之间的兼并，以及魏、齐、楚的鼎盛。而后来随着嘉和帝对玄门的尊崇，太初剑宗弟子得以奔走于权皇贵胄之间，甚至能参与到一些士族的争斗当中。不少世家将家中学子送入太初剑宗修行，使得太初剑宗逐步成为了玄门之首的宗派。"
-    translated: "The founder of the Primordial Sword Sect, Zhang Siguo, was a disciple of the Daoist master Bai Wenqing. After Bai's passing, Zhang established the Primordial Sword Sect to protect civilians affected by war within the Yan Kingdom. The sect quickly attracted numerous disciples and became one of the earliest sects in the kingdom. It witnessed the unification among the seven states as well as the peak periods of Wei, Qi, and Chu. Later, with Emperor Jiahe's reverence for Daoism, disciples of the Primordial Sword Sect had the opportunity to move among the noble elites and even participate in conflicts among the aristocracy. Many prominent families sent their offspring to train within the sect, leading it to gradually become one of the foremost Daoist sects."
+    translated: "The founder of the Primordial Sword Sect, Zhang Sijue, was once a disciple of Xuanmen Immortal Master Bai Wenqing. After Bai Wenqing's death, Zhang Sijue established the Primordial Sword Sect to protect ordinary people affected by war. Within the Yan Kingdom, many disciples joined, making it one of the earliest sects in the region and witnessing the unifications among the Seven States as well as the zenith of Wei, Qi, and Chu. Later, with Emperor Jiahe's reverence for Xuanmen, students of the Primordial Sword Sect had the opportunity to travel among royal nobles and even participate in some aristocratic conflicts. Many noble families sent their children to study at the Primordial Sword Sect, eventually positioning it as a leading sect within Xuanmen."
 - lineNum: 40003
   raw: "40003#嵩室山#4#0#0#嵩室山#魏楚燕三国并立时期，魏帝尊崇菩提，敬仰天下菩提弟子，便特建嵩室山，随后大师惠清前来嵩室山，广集弟子，传授菩提之法，教授嵩室山武学。也因魏帝尊崇菩提一脉，并定下规章，凡菩提弟子皆可免税。这导致魏国境内兴修寺庙，大量百姓拜入菩提一门，菩提达到鼎盛时期。而嵩室山作为菩提中最具代表性的宗门，发展同样达到全盛，门下弟子遍布魏国各个角落。#24#4000301#"
   splits:
@@ -1454,7 +1454,7 @@
     text: "魏楚燕三国并立时期，魏帝尊崇菩提，敬仰天下菩提弟子，便特建嵩室山，随后大师惠清前来嵩室山，广集弟子，传授菩提之法，教授嵩室山武学。也因魏帝尊崇菩提一脉，并定下规章，凡菩提弟子皆可免税。这导致魏国境内兴修寺庙，大量百姓拜入菩提一门，菩提达到鼎盛时期。而嵩室山作为菩提中最具代表性的宗门，发展同样达到全盛，门下弟子遍布魏国各个角落。"
     translated: "During the period when Wei, Chu, and Yan stood as rival states, the Emperor of Wei revered Bodhi and respected his disciples throughout the world. Consequently, he specifically established Songshi Mountain. Following this, Master Weicheng arrived at Songshi Mountain to gather disciples and impart Bodhi's teachings, instructing them in martial arts unique to Songshi Mountain. Because the Emperor of Wei honored the lineage of Bodhi, decrees were enacted such that all Bodhi disciples would be exempt from taxes. This led to a surge in temple construction within Wei territories, with many commoners joining Bodhi's sect. As a result, the tradition of Bodhi reached its zenith. Songshi Mountain, as the most representative school among the Bodhi lineages, similarly flourished, with its disciples spreading across every corner of Wei"
 - lineNum: 40004
-  raw: "40004#砚溪山庄#4#0#0#砚溪山庄#书院中的领头门派，在七国混乱时期便已存在。由书院夫子子誉所建。在楚国定下独尊书院，罢黜百家的治国之策后，书院的声望发展达到巅峰。而子誉在建立门派之后，仍旧秉持书院以“仁”为核心的理念，派遣诸多弟子四处讲学，广收弟子。且门派之内，无阶级之分，诸多寒士得以入学，而后进入官场实现自己的抱负。随着时间的积淀砚溪山庄也早已是桃李满天下。#25#4000301#"
+  raw: "40004#砚溪山庄#4#0#0#砚溪山庄#书院中的领头门派，在七国混乱时期便已存在。由书院夫子子誉所建。在楚国定下独尊书院，罢黜百家的治国之策后，书院的声望发展达到巅峰。而子誉在建立门派之后，仍旧秉持书院以“仁”为核心的理念，派遣诸多弟子四处讲学，广收弟子。且门派之内，无阶级之分，诸多寒士得以入学，而后进入官场实现自己的抱负。随着时间的积淀砚溪山庄也早已是桃李满天下。#25#4000401#"
   splits:
   - split: 1
     text: "砚溪山庄"
@@ -1464,7 +1464,7 @@
     translated: "Ink Stream Mountain Villa"
   - split: 6
     text: "书院中的领头门派，在七国混乱时期便已存在。由书院夫子子誉所建。在楚国定下独尊书院，罢黜百家的治国之策后，书院的声望发展达到巅峰。而子誉在建立门派之后，仍旧秉持书院以“仁”为核心的理念，派遣诸多弟子四处讲学，广收弟子。且门派之内，无阶级之分，诸多寒士得以入学，而后进入官场实现自己的抱负。随着时间的积淀砚溪山庄也早已是桃李满天下。"
-    translated: "The leading sect within the academy existed even during the tumultuous era of the seven kingdoms. It was founded by Master Ziyu, a disciple of the Academy Sage. Following his strategy to establish the Academy's preeminence in the Chu Kingdom and eliminate rival schools of thought, the academy reached its peak reputation. Despite founding this sect, Master Ziyu continued to uphold the Academy's core principle of benevolence by dispatching numerous disciples to teach widely and recruit many students. Within the sect, there were no class distinctions, allowing many common scholars to enroll and later achieve their ambitions within government service. Over time, Ink Stream Mountain Villa became renowned far and wide, its influence akin to blooming peach blossoms across the land."
+    translated: "The leading sect within the Academy existed even during the chaotic era of the Seven Kingdoms. It was established by Ziyu, a disciple of the Master of the Academy. Following the establishment of the exclusive Academy in the Chu Kingdom and the implementation of the strategy to establish one academy as supreme and dismiss all others, the Academy's reputation reached its zenith. Despite founding his own sect, Ziyu continued to uphold the Academy's core principle of “benevolence.” He dispatched numerous disciples across the lands to teach and recruit more followers. Within the sect, there was no distinction in ranks, allowing many impoverished scholars to attend. This enabled them to enter official positions later and fulfill their ambitions. Over time, Ink Stream Mountain Villa had its branches spread far and wide."
 - lineNum: 40005
   raw: "40005#清玉门#4#0#0#清玉门#玉阳真人迟浔江虽也对玄门修行兴趣颇深，但却不想进入官场，只想闲云野鹤，遍访山川。后来云游途中，迟浔江亦见到了许多饱受战争侵扰的百姓，他手中长剑虽能替人赶走穷凶之徒，却难救下负伤或是病体沉疴之人。于是迟浔江在这之后除却剑术的钻研，亦花费诸多心思遍寻炼药之方，炮制药丹。后来迟浔江为使自身所学得以传承便建立清玉门，将自己的剑法和丹鼎之学尽数相传。#26#0#"
   splits:
@@ -1476,7 +1476,7 @@
     translated: "Pure Jade Gate"
   - split: 6
     text: "玉阳真人迟浔江虽也对玄门修行兴趣颇深，但却不想进入官场，只想闲云野鹤，遍访山川。后来云游途中，迟浔江亦见到了许多饱受战争侵扰的百姓，他手中长剑虽能替人赶走穷凶之徒，却难救下负伤或是病体沉疴之人。于是迟浔江在这之后除却剑术的钻研，亦花费诸多心思遍寻炼药之方，炮制药丹。后来迟浔江为使自身所学得以传承便建立清玉门，将自己的剑法和丹鼎之学尽数相传。"
-    translated: "The Immortal Yuyang Zhenren Chi Xunjian also had a deep interest in the cultivation of the Gateless School, but he did not wish to enter officialdom. Instead, he sought to live as a free-spirited wanderer, exploring mountains and rivers across the land. During his travels, he witnessed many common folk suffering from the ravages of war. Although his long sword could fend off ruthless bandits, it was powerless against those who were injured or suffering from chronic illness. Consequently, Chi Xunjian began to devote himself not only to the study of swordsmanship but also to diligently searching for alchemical methods and formulating medicinal pills. Eventually, to ensure that his knowledge would be passed down, he established the Pure Jade Gate and imparted all of his teachings in swordsmanship and alchemy."
+    translated: "Yuyang Zhenren Chi Xunjian had a deep interest in the cultivation of the Xuanmen school. However, he did not wish to enter officialdom; instead, he aspired to live freely like a roaming crane and explore various mountains and rivers. During his travels, Chi Xunjian encountered many villagers who were suffering due to war. Although he could use his long sword to drive away marauders, he found it difficult to help those who were injured or seriously ill. Consequently, after this experience, in addition to refining his martial arts skills, Chi Xunjian dedicated much thought to seeking out methods for alchemy and crafting medicinal pills. Later, in order to ensure the transmission of his knowledge, Chi Xunjian established the Pure Jade Gate and passed on both his sword techniques and alchemical teachings in their entirety."
 - lineNum: 40006
   raw: "40006#大雪山#4#0#0#大雪山#昔日魏楚燕三国并立时期，魏国盛行菩提，嵩室山执法长老却在在菩提传承一事上与当代掌门产生分歧，遂离开嵩室山，自谋出路恰逢娑罗一派传入关内，嵩室山执法长老等人接受娑罗传承，远走塞外，建大雪山，择人传授。大雪山一脉弟子，不经灌顶，不经传授不得任意传习及显示别人。颇为神秘。因大雪山建址神秘且偏远，本身也无意于参与流派之争，是以无论关内的流派争夺多么残酷，大雪山都完整地保留了下来。#27#0#"
   splits:
@@ -1824,7 +1824,7 @@
     translated: "Lapis lazuli"
   - split: 6
     text: "昝歌云不慎在云鹤村遗失了一块珍稀的琉璃石，这块宝石透明晶莹，且在暗夜中能发出柔和的光芒。他心急如焚，并承诺若有人能帮他找回这失落的宝物，他必将慷慨地给予丰厚的报酬以表谢意。"
-    translated: "Zhang Geyun accidentally lost a rare piece of lapis lazuli in Cloud Crane Village. This gemstone is transparent and brilliant, and it emits a soft glow at night. He was extremely anxious and promised that anyone who could help him recover the lost treasure would receive a generous reward as his thanks."
+    translated: "Zan Geyun inadvertently lost a rare Luminous Jade Stone in Cloud Crane Village. The gem was clear and brilliant, emitting a soft glow in the dark of night. Distressed, he promised that anyone who could help him recover this lost treasure would be generously rewarded for their efforts."
 - lineNum: 60007
   raw: "60007#瀑布锻体#6#0&30|972471|1#0&24|988578|1#瀑布锻体#从郑婶那里路过时，听到她再次夸耀她孩子年幼时的事迹，其中涉及到了飞炼瀑。#0#60007#"
   splits:
@@ -1860,7 +1860,7 @@
     translated: "Statue of Bodhi Stone"
   - split: 6
     text: "当偶然遇见永觉大师并聆听其睿智的建议之后，瞻仰菩提佛像，内心便能寻得一份难能可贵的宁静与平和。"
-    translated: "After unexpectedly encountering Master Yongjue and listening to his wise advice, upon venerating the Bodhi Buddha statue, one can find a precious sense of tranquility and peace within"
+    translated: "After a chance encounter with Master Yong Jue and listening to his wise advice, paying homage to the Bodhi Buddha statue brings an invaluable sense of peace and tranquility to one's heart."
 - lineNum: 60010
   raw: "60010#云鹤疑云#6#0&24|990380|1#1&24|990336|1;24|990313|1#云鹤疑云#在参拜佛像之时，遇见了一位叫做步琪的女子，照步琪所说，云鹤村最近出现了许多不明身份的江湖人士，不知道他们此行为何。#0#60010#"
   splits:
@@ -1944,7 +1944,7 @@
     translated: "Jianghu in one drink"
   - split: 6
     text: "路过云鹤村市集时听到李承誉嘀咕，说是他兄弟李三问因为江湖醉喝光了心情不好，向李承誉打听或许能知道些有关于江湖醉的事情。"
-    translated: "While passing through the market in Cloud Crane Village, I overheard Li Chengyu muttering that his brother, Brother Li San, was upset because he had drunk too much at Jianghu Jiu. He might ask Li Chengyu for information about it to lift his spirits."
+    translated: "While passing through the market in Cloud Crane Village, I overheard Li Chengyu muttering that his brother, Li Sanwen, was upset because he'd drunk too much at a Jianghu gathering and asked Li Chengyu if he might know anything about it."
 - lineNum: 60017
   raw: "60017#落水之人#6#0&24|971224|1#0&24|971217|1#落水之人#在升仙湖的湖边，瞧见蒙浪倒在湖边，似乎昏迷了过去，<color=&&DEB887>若想让蒙浪清醒过来，必须要醒脑丸不可。</color>#0#0#"
   splits:
@@ -4107,7 +4107,7 @@
   splits:
   - split: 1
     text: "玄门劲"
-    translated: "Supernatural strength"
+    translated: "Xuanmen force"
   - split: 6
     text: "一本传承数代的古书，书页已泛黄陈旧。若能通读一遍，便可领略传世已久的护体绝技玄门劲。"
     translated: "An ancient book passed down through generations, its pages yellowed and aged. If one could read it thoroughly, they would be able to appreciate the long-cherished body-protection techniques of the Xuanmen force"

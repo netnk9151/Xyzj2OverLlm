@@ -753,7 +753,7 @@
   splits:
   - split: 4
     text: "玄门劲"
-    translated: "Supernatural strength"
+    translated: "Xuanmen force"
 - lineNum: 34428
   raw: "34428#2#34428#0#菩提劲#0#"
   splits:

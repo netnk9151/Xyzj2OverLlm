@@ -1,6 +1,4 @@
 ﻿using Translate.Utility;
-using YamlDotNet.Serialization;
-using YamlDotNet.Serialization.NamingConventions;
 
 namespace Translate.Tests;
 
@@ -16,5 +14,5 @@ public class ConfigurationTests
         var serializer = Yaml.CreateSerializer();       
 
         await File.WriteAllTextAsync($"{workingDirectory}/TestResults/AllPrompts.yaml", serializer.Serialize(prompts));
-    }
+    }   
 }

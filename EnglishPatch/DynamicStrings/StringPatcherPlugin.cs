@@ -1,15 +1,14 @@
 ﻿using BepInEx;
 using BepInEx.Logging;
-using EnglishPatch.Contracts;
 using EnglishPatch.Support;
 using HarmonyLib;
+using SharedAssembly.DynamicStrings;
 using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Reflection;
-using Translate.Support;
 
 namespace EnglishPatch.DynamicStrings;
 

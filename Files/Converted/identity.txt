@@ -3057,7 +3057,7 @@
     translated: "Constable"
   - split: 5
     text: "神捕"
-    translated: "Detective of God"
+    translated: "Divine Detective"
   - split: 6
     text: "晓梦随疏钟,飘然蹑云霞。"
     translated: "In the quiet hour of dawn, the sound of a distant bell echoes. Gracefully traversing the clouds and mists"
@@ -4479,7 +4479,7 @@
     translated: "Celestial Master"
   - split: 6
     text: "玄师法术通天地，玄门奥妙掌中持。"
-    translated: "The Grandmaster's magic commands heaven and earth, holding the profound mysteries of the Dao within his grasp"
+    translated: "The techniques of the Xuan Shi master the mysteries of heaven and earth; the profound secrets of Xuanmen are held in their palm."
   - split: 8
     text: "在此道突破瓶颈。"
     translated: "Break through this bottleneck in your cultivation path"
@@ -4857,7 +4857,7 @@
     translated: "Constable"
   - split: 5
     text: "神捕"
-    translated: "Detective of God"
+    translated: "Divine Detective"
   - split: 6
     text: "晓梦随疏钟,飘然蹑云霞。"
     translated: "In the quiet hour of dawn, the sound of a distant bell echoes. Gracefully traversing the clouds and mists"

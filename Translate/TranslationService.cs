@@ -1,4 +1,4 @@
-﻿using EnglishPatch.Contracts;
+﻿using SharedAssembly.DynamicStrings;
 using System.ComponentModel.DataAnnotations;
 using System.Diagnostics;
 using System.Diagnostics.Metrics;
@@ -362,9 +362,9 @@ public static class TranslationService
         {
             var newCount = 0;
 
-            //Disable for now since they should be same
-            if (textFileToTranslate.TextFileType == TextFileType.RegularDb)
-                return;
+            ////Disable for now since they should be same
+            //if (textFileToTranslate.TextFileType == TextFileType.RegularDb)
+            //    return;
 
             var deserializer = Yaml.CreateDeserializer();
             var exportFile = outputFile.Replace("Converted", "Raw/Export");
@@ -409,6 +409,26 @@ public static class TranslationService
         {
             if (!cache.ContainsKey(line.Raw))
                 cache.Add(line.Raw, line.Result);
+        }
+
+        // File with old files
+        var oldFolder = $"{workingDirectory}/TestResults/OldFiles";
+
+        var deserializer = Yaml.CreateDeserializer();
+
+        foreach (var file in Directory.EnumerateFiles(oldFolder))
+        {
+            var content = File.ReadAllText(file);
+            var lines = deserializer.Deserialize<List<TranslationLine>>(content);
+
+            foreach (var line in lines)
+            {
+                foreach(var split in line.Splits)
+                {
+                    if (!cache.ContainsKey(split.Text))
+                        cache.Add(split.Text, split.Translated);
+                }
+            }
         }
 
         await TranslationService.IterateTranslatedFilesAsync(workingDirectory, async (outputFile, textFileToTranslate, fileLines) =>

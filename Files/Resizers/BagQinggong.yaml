@@ -1,0 +1,108 @@
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/qinggongPart/mask/DiLan/XiuWeiText"
+  sampleText: "Cultivation level:269"
+  idealFontSize: 24
+  alignment: "TopLeft"
+  allowWordWrap: true
+  adjustWidth: 100
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/qinggongPart/mask/DiLan/GanwuText"
+  sampleText: "Insight:16871"
+  idealFontSize: 24
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/qinggongPart/mask/RightPanel/QingGongSkillItemPrefabNew*/ShuMingText"
+  sampleText: "Lightness Skill"
+  idealFontSize: 22
+  alignment: "Midline"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/qinggongPart/mask/TipBg/Scroll View/Viewport/Content/Text (TMP)"
+  sampleText: "An in-depth explanation of qinggong: \nSelect different qinggong icons in 1 to view detailed information about each type of qinggong.\n2. Qinggong is divided into three levels: beginner, proficient, and transcendent. Once the corresponding conditions are met, one can <color=#3ad67c>improve the rank of that specific qinggong</color>, changing its appearance and actual effects.\nCompleting tasks related to qinggong as specified by 3 will earn you a certain amount of <color=#3ad67c>qinggong value</color>. The qinggong value is the foundation for performing qinggong."
+  idealFontSize: 20
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/qinggongPart/mask/Image/Qinggongjingjie"
+  sampleText: "Current realm:<color=#3AD67C>Move back as if divine</color>"
+  idealFontSize: 24
+  alignment: "Midline"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/qinggongPart/mask/Image/ZhongQingGongZhi"
+  sampleText: "Qinggong level:600/600"
+  idealFontSize: 24
+  alignment: "Midline"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/qinggongPart/mask/LeftPanel/SkillTitle/SkillName"
+  sampleText: "Hovering on the grass"
+  idealFontSize: 28
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/qinggongPart/mask/LeftPanel/SkillTitle/ShuLianText"
+  sampleText: "Transcendent"
+  idealFontSize: 24
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/qinggongPart/mask/LeftPanel/Skill*/Text (TMP)"
+  sampleText: "  Qinggong ability"
+  idealFontSize: 20
+  alignment: "TopLeft"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/qinggongPart/mask/LeftPanel/SkillDesText"
+  sampleText: "Advanced the Qinggong technique for divine speed; upon activation, it consumes a specific amount of Qinggong points per second and significantly increases the character's movement speed."
+  idealFontSize: 18
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/qinggongPart/mask/LeftPanel/SkillNengLi/SkillNengLiText"
+  sampleText: "Roaming through Heaven and Earth"
+  idealFontSize: 22
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/qinggongPart/mask/LeftPanel/SkillNengLi/SkillNengLiPropertiesText"
+  sampleText: "Mobility speed.0\r\nJump height0\r\nMoving distance.800% x base movement range\r\nUsing consumption.50Qinggong steps or qinggong value"
+  idealFontSize: 22
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/qinggongPart/mask/LeftPanel/SkillFuJiaNengLi/SkillFuJiaNengLiScrollView/Viewport/Content/Prefab(Clone)/Text"
+  sampleText: "Soaring birds    Qinggong value + <color=#FFDA5A>150</color>(150)"
+  idealFontSize: 22
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/qinggongPart/mask/LeftPanel/XueXiTiaoJian/Text (TMP)"
+  sampleText: "  Learning conditions"
+  idealFontSize: 22
+  alignment: "TopLeft"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/qinggongPart/mask/LeftPanel/XueXiTiaoJian/Scroll View/Viewport/Content/item_0/Text"
+  sampleText: "<color=#BA7EFE>Golden Geese Soar Across the Sky</color>"
+  idealFontSize: 22
+  alignment: "TopLeft"
+  allowWordWrap: true
+  adjustX: 20
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/qinggongPart/mask/LeftPanel/XueXiTiaoJian/Scroll View/Viewport/Content/item_0"
+  sampleText: "Special:"
+  idealFontSize: 22
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/qinggongPart/mask/LeftPanel/XueXiTiaoJian/Scroll View/Viewport/Content/item_2/Text"
+  idealFontSize: 22
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/qinggongPart/mask/LeftPanel/XueXiTiaoJian/Scroll View/Viewport/Content/item_2"
+  sampleText: "Maximum value of qinggong：<color=#f0f0f0>45</color>"
+  idealFontSize: 22
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/qinggongPart/mask/LeftPanel/XueXiTiaoJian/Scroll View/Viewport/Content/item_1/Text"
+  sampleText: "543"
+  idealFontSize: 22
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/qinggongPart/mask/LeftPanel/XueXiTiaoJian/Scroll View/Viewport/Content/item_1"
+  sampleText: "Insight:"
+  idealFontSize: 22
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/qinggongPart/mask/LeftPanel/TiShenDes"
+  sampleText: "<color=#b0afab>Not learned yet</color>"
+  idealFontSize: 22
+  alignment: "TopLeft"
+  allowWordWrap: true

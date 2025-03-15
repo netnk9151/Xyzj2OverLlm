@@ -12,3 +12,7 @@
 12#1#3349590#sjjh_1_name#sjjh_1_bg#sjjh_1_icon#
 13#0#2002352#bydx_1_name#bydx_1_bg#bydx_1_icon#
 14#1#3386320#bydx_1_name#bydx_1_bg#bydx_1_icon#
+15#0#2002376#jhlz_1_name#jhlz_1_bg#jhlz_1_icon#
+16#1#3402520#jhlz_1_name#jhlz_1_bg#jhlz_1_icon#
+17#0#2002410#mnjh_1_name#mnjh_1_bg#mnjh_1_icon#
+18#1#3552810#mnjh_1_name#mnjh_1_bg#mnjh_1_icon#

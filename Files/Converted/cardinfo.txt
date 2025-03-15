@@ -1728,7 +1728,7 @@
   splits:
   - split: 1
     text: "岁稔"
-    translated: "Age-old, seasoned"
+    translated: "Years of experience"
   - split: 15
     text: "岁稔：提升自身30%利辞。"
     translated: "Aged and experienced: Enhance your own 30% persuasive ability."

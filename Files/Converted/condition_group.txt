@@ -129,7 +129,7 @@
   splits:
   - split: 5
     text: "听钟致虚讲玄门"
-    translated: "Listening to Zong Zhixu's discourse on the mysteries of the Gateless Way"
+    translated: "Listening to Zong Zhi Xu explain Xuanmen"
 - lineNum: 703
   raw: "703#19#1#1065.454,363.9118,1468.274,1#8#听姜素隐讲书院#989638#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
@@ -5084,11 +5084,11 @@
     text: "前往神兵山庄找顾池渊"
     translated: "Go to the Divine Weapon Mountain Villa to find Gu Chi Yuan."
 - lineNum: 228601
-  raw: "228601#19#1#1143.353,279.2386,647.6714,1#2287#和顾尧见面#0##5556#####0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  raw: "228601#19#1#1143.353,279.2386,647.6714,2#2287#和顾尧见面#0##5556#####0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5
     text: "和顾尧见面"
-    translated: "Meeting Gu Yao"
+    translated: "Meeting with Gu Yao"
 - lineNum: 228701
   raw: "228701#16#1#1085#2288#与顾池渊切磋#0##5557#####0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
@@ -7023,7 +7023,7 @@
   splits:
   - split: 5
     text: "狗子告诉我，只有拥有福缘的人才能看到井中的荧光。我来到水井旁，果然在打水的过程中，注意到井水中闪烁着微弱的荧光。原来其中隐藏着一块珍贵的琉璃石！看来我真是那个拥有福缘的人。"
-    translated: "Dogsai told me that only those with good fortune can see the glow in the well. When I arrived by the well, as expected during the process of drawing water, I noticed a faint glow shimmering in the well's water. It turned out there was a piece of precious lapis lazuli hidden within it! Indeed, it seems I am one of those fortunate people"
+    translated: "The dog told me that only those with good fortune can see the glow in the well. When I came to the water well, indeed, while drawing water, I noticed a faint glow shimmering in the well water. It turns out there was a precious luminous jade stone hidden within! It seems I am truly one of the fortunate ones."
 - lineNum: 371001
   raw: "371001#20#1#0&30|972471|1#3710#从郑婶那里路过时，听到她再次夸耀她孩子年幼时的事迹，其中涉及到了飞炼瀑。据她所说，<color=&&00ff00ff>这个地方对修行和刀法练习很有益处。</color>#0##2400#####0##0#去飞炼瀑下修炼##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
@@ -7104,7 +7104,7 @@
   splits:
   - split: 5
     text: "最近发生的事情确实很多，散心对我来说是个不错的选择。当偶遇永觉并听到他的建议后，<color=&&00ff00ff>我决定前往瞻拜菩提像以获得内心的宁静。</color>"
-    translated: "Lately, there have indeed been many things happening, and taking a break seems like a good choice for me. After unexpectedly meeting Yongjue and hearing his advice, <color=&&00ff00ff>I decided to visit the statue of Bodhi to find inner peace.</color>"
+    translated: "Recently, there have been many events, and taking a break seems like a good choice for me. After a chance encounter with Yong Jue and hearing his advice,<color=&&00ff00ff>I decided to visit the Bodhi statue in search of inner peace.</color>"
   - split: 16
     text: "瞻拜菩提像"
     translated: "Pay respects to the Bodhi image"
@@ -7113,7 +7113,7 @@
   splits:
   - split: 5
     text: "最近发生的事情确实很多，散心对我来说是个不错的选择。当偶遇永觉并听到他的建议后，我决定前往瞻拜菩提像以获得内心的宁静。"
-    translated: "Recently, many events have taken place, and going for a walk is indeed a good choice for me. After encountering Yongjue by chance and hearing his advice, I decided to visit the Buddha statue of Zhanbai to seek inner peace"
+    translated: "Recently, there have been many events happening. Going for a walk was a good choice for me. After I happened to meet Brother Yong Jue and heard his advice, I decided to go pay homage to the Bodhi Image to find inner peace."
 - lineNum: 371303
   raw: "371303#20#1#0&24|990393|1#3713#为了瞻拜菩提像，需要准备香。<color=&&00ff00ff>所以我打算去云鹤村找一下杂货商，看看他们是否有香可供购买。</color>#0##0#####0##0#去杂货商处瞧瞧##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
@@ -7395,7 +7395,7 @@
   splits:
   - split: 5
     text: "路过云鹤村市集时听到李承誉嘀咕，说是他兄弟李三问因为江湖醉喝光了心情不好，<color=&&00ff00ff>向李承誉打听或许能知道些有关于江湖醉</color>的事情。"
-    translated: "While passing through the Cloud Crane Village market, I overheard Li Chengyu muttering that his brother, Li Sanque, was in a bad mood because he'd drunk too much on Jianghu. <color=&&00ff00ff>Talking to Li Chengyu might reveal some information about Jianghu Drunk</color>."
+    translated: "While passing through the Cloud Crane Village market, I overheard Li Chengyu muttering that his brother, Li Sanwen, had drank too much at a Jianghu gathering and was in a bad mood. <color=&&00ff00ff>Talking to Li Chengyu might help you find out some information about the Jianghu gatherings</color>."
   - split: 16
     text: "向李承誉打听"
     translated: "Seek information from Li Chengyu"
@@ -7404,7 +7404,7 @@
   splits:
   - split: 5
     text: "路过云鹤村市集时听到李承誉嘀咕，说是他兄弟李三问因为江湖醉喝光了心情不好，向李承誉口打听后得知，原来龙蛇寨的山贼将抢走的江湖醉藏在龙蛇寨宝库之中。"
-    translated: "As he passed by the Cloud Crane Village market, Li Chengyu overheard someone muttering that his brother, Li Sanwei, was in a foul mood because he had drunk all of Jianghu Zhi. After asking around, he learned from Li Chengyu that the bandits at Longshe Camp had hidden the stolen Jianghu Zhi in their treasure vault."
+    translated: "While passing through the market in Cloud Crane Village, Li Chengyu overheard a mutter saying that his brother, Li Sanwen, was feeling down because he had drunk all of Jianghu Zhi. After asking Li Chengyu about it, he found out that the bandits from Longshe Fort had hidden the stolen Jianghu Zhi in their treasure vault."
 - lineNum: 372203
   raw: "372203#20#1#0&24|970572|1#3722##0##0#####0##0#得到江湖醉##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
@@ -7419,16 +7419,16 @@
   splits:
   - split: 5
     text: "从龙蛇寨宝窟中得到了江湖醉，将江湖醉交给李三问应当就能让心情重新振作起来。"
-    translated: "Obtaining the Jianghu Wine from the Longshe Fortress Treasure Trove and giving it to Li San should be able to lift one's spirits again."
+    translated: "Recovering the Jianghu Spirit from the Dragon and Snake Den's treasure trove should invigorate your spirit when you give it to Li Sanwen."
   - split: 16
     text: "交给李三问江湖醉"
-    translated: "Leave it to Li San to ask about 'Jianghu Drunkenness.'"
+    translated: "Leave it to Li Sanwen, a drunkard of the Jianghu."
 - lineNum: 372206
   raw: "372206#20#1#0&24|971704|1#3722#从龙蛇寨宝窟中得到了江湖醉，带着江湖醉回到村中，将其交给了李三问。李三问得到江湖醉后，心情重新振作起来。#0#372205#0#####0##0###1#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5
     text: "从龙蛇寨宝窟中得到了江湖醉，带着江湖醉回到村中，将其交给了李三问。李三问得到江湖醉后，心情重新振作起来。"
-    translated: "From the Dragon and Snake Stronghold's treasure trove, they obtained a Jianghu Elixir. Carrying the elixir back to their village, they presented it to Li Sansheng. Upon receiving the Jianghu Elixir, Li Sansheng's spirits were lifted."
+    translated: "They obtained the Jianghu Wine from the Dragon and Snake Fortress treasure trove and brought it back to their village, where they gave it to Li Sanwen. Upon receiving the Jianghu Wine, Li Sanwen's spirits were uplifted once again."
 - lineNum: 372301
   raw: "372301#20#1#0&30|971281|1#3723#在清然林的竹林上上听到了名叫秦一的江湖人士谈论在云鹤村中寻找霞璃的事情，似乎是在<color=&&00ff00ff>云鹤村中寻找霞璃。</color>#971253##0#####0##0#找郑婶和村长问问##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
@@ -7509,16 +7509,16 @@
   splits:
   - split: 5
     text: "昝歌云有块透明会发光的琉璃石在云鹤村弄丢了，他说若是<color=&&00ff00ff>找到此物交还给他，他愿意给出报酬。</color>"
-    translated: "Chang'e Yun lost a transparent, glowing piece of lapis lazuli in Cloud Crane Village and stated that if anyone <color=&&00ff00ff>founds it and returns it to him, he is willing to offer a reward.</color>"
+    translated: "Zan Geyun has lost a transparent and luminous Luminous Jade Stone in Cloud Crane Village. He says that if the item is found and returned to him, he would be willing to provide a reward."
   - split: 16
     text: "归还昝歌云琉璃石"
-    translated: "Return Zhao Geyun's jade"
+    translated: "Return the Luminous Jade Stone to Zan Geyun."
 - lineNum: 372702
   raw: "372702#20#1#0&24|977763|1#3727#昝歌云有块透明会发光的琉璃石在云鹤村弄丢了，他说若是找到此物交还给他，他愿意给出报酬，而我交还琉璃石给他后，此人果然言而有信。#0#372701#0#####0#68|500#0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5
     text: "昝歌云有块透明会发光的琉璃石在云鹤村弄丢了，他说若是找到此物交还给他，他愿意给出报酬，而我交还琉璃石给他后，此人果然言而有信。"
-    translated: "Zhan Geyun from Cloud Crane Village lost a piece of transparent, luminescent jade and promised a reward to anyone who found and returned it. After I returned the jade to him, he indeed kept his promise."
+    translated: "Zan Geyun had lost a luminous jade stone that was transparent and emitted light in Cloud Crane Village. He mentioned that if anyone found it and returned it to him, he would reward them. Indeed, after I returned the jade stone to him, he kept his promise."
 - lineNum: 372801
   raw: "372801#20#1#0&24|954363|1#3728#从山贼头目身上的亲笔信中发现，<color=&&00ff00ff>伯子越似乎和龙蛇寨</color>有关系。#0##0#####0##0#去见伯子越##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
@@ -7542,7 +7542,7 @@
     translated: "After making preparations in the village, go to see Uncle Xiyou"
   - split: 16
     text: "找冯尔真王铁任天游等人寻求帮助"
-    translated: "Seeking help from Feng Erzhen, Wang Tie Ren, Tian You, and others"
+    translated: "Seek help from Feng Erzhen, Wang Tie, and Ren Tianyou."
 - lineNum: 372804
   raw: "372804#20#1#0&3|45058|1;3|21018|1;3|21028|1#3728#一切准备就绪，去清然林找伯子越。#953540#372803#0#####0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
@@ -11037,22 +11037,22 @@
   splits:
   - split: 5
     text: "在雁洲城闲逛时突然遇到一位小孩，那小孩名叫小虾仁，他可能有事寻我，<color=&&00ff00ff>先去找小虾仁了解一下事情好了。</color>"
-    translated: "While strolling around Yanzhou City, I suddenly encountered a child named Xia Xairen. He might have something to discuss with me; <color=&&00ff00ff>I should go find Xia Xairen and understand the matter first.</color>"
+    translated: "While strolling through Yanzhou City, I suddenly encountered a child named Xiao Xiaren. He might be looking for me, <color=&&00ff00ff>so I'll go and ask him about the matter first.</color>"
   - split: 16
     text: "问问小虾仁有什么事情"
-    translated: "Ask Little Shrimp what's up"
+    translated: "Ask Xiao Xiaren if there's anything"
 - lineNum: 396302
   raw: "396302#20#1#0&24|956930|1#3963#在雁洲城闲逛时突然遇到一位小孩，那小孩名叫小虾仁，他可能有事寻我，先去找小虾仁了解一下事情好了。#0#396301#0#####0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5
     text: "在雁洲城闲逛时突然遇到一位小孩，那小孩名叫小虾仁，他可能有事寻我，先去找小虾仁了解一下事情好了。"
-    translated: "While strolling around Yanzhou City, I unexpectedly encountered a child named Xiaoxianren. He might be looking for me, so it's best to go find Xiaoxianren and get an explanation first"
+    translated: "While strolling around Yanzhou City, I suddenly encountered a child named Xiao Xiaren. He might have something to find me about; it would be best to go and talk with Xiao Xiaren first to understand the situation."
 - lineNum: 396303
   raw: "396303#20#1#0&24|956930|1#3963#找到小虾仁之后， 他告诉了我们告诉了我们行脚商那里有藏宝图的传闻，<color=&&00ff00ff>不管怎样先购买下来再说好了。</color>#0##0#####0##0#找行脚商购买地图##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5
     text: "找到小虾仁之后， 他告诉了我们告诉了我们行脚商那里有藏宝图的传闻，<color=&&00ff00ff>不管怎样先购买下来再说好了。</color>"
-    translated: "After finding Xiaxian'er, he told us that there are rumors among the itinerant merchants about a treasure map. <color=&&00ff00ff>Let's buy it first and decide later, no matter what.</color>"
+    translated: "After finding Xiao Xiaren, he told us about the rumor that there's a treasure map at Xingjiao Shop, <color=&&00ff00ff>so let's buy it first and decide later.</color>"
   - split: 16
     text: "找行脚商购买地图"
     translated: "Seek out a wandering merchant to buy a map"
@@ -11061,13 +11061,13 @@
   splits:
   - split: 5
     text: "找到小虾仁之后， 他告诉了我们告诉了我们行脚商那里有藏宝图的传闻，不管怎样先购买下来再说好了。"
-    translated: "After finding Xia Xairen, he told us that there were rumors of a treasure map at the travel merchant's place. Regardless, let's buy it first and decide later"
+    translated: "After finding Xiao Xiaren, he told us that there were rumors of a treasure map at the Youxi shang's place. Regardless, let's buy it first and then decide what to do next."
 - lineNum: 396305
   raw: "396305#20#1#0&24|956930|1;3|37231|1#3963#将藏宝图交给小虾仁之后，<color=&&00ff00ff>他为我们指明了宝藏的位置，并将其标注在了地图上。</color>#0##0#####0##0#去找小虾仁##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5
     text: "将藏宝图交给小虾仁之后，<color=&&00ff00ff>他为我们指明了宝藏的位置，并将其标注在了地图上。</color>"
-    translated: "After giving the treasure map to Xiaoxiaren, <color=&&00ff00ff>he pointed out the location of the treasure for us and marked it on the map.</color>"
+    translated: "After giving the treasure map to Xiao Xiaren, <color=&&00ff00ff>he pointed out the location of the treasure for us and marked it on the map.</color>"
   - split: 16
     text: "去找小虾仁"
     translated: "Go find Xiao Xiaren"
@@ -11076,7 +11076,7 @@
   splits:
   - split: 5
     text: "将藏宝图交给小虾仁之后，他为我们指明了宝藏的位置，并将其标注在了地图上。"
-    translated: "After giving the treasure map to Xia Xairen, he indicated the location of the treasure for us and marked it on the map"
+    translated: "After handing the treasure map to Xiao Xiaren, he pointed out the location of the treasure for us and marked it on the map."
 - lineNum: 396307
   raw: "396307#20#1#0&24|956924|1#3963#既然标记地点已经标明，现在应该去拿取宝藏了。#0##0#####0##0#拿取宝藏##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
@@ -11112,7 +11112,7 @@
   splits:
   - split: 5
     text: "顺利将二人击败，<color=&&00ff00ff>现在是时候回去找小虾仁了。</color>"
-    translated: "Having successfully defeated the two, <color=&&00ff00ff>it's now time to go find Xiao Xiaoren.</color>"
+    translated: "Having successfully defeated the two, <color=&&00ff00ff>it's time to go back and find Xiao Xiaren now.</color>"
   - split: 16
     text: "去找小虾仁"
     translated: "Go find Xiao Xiaren"
@@ -11121,7 +11121,7 @@
   splits:
   - split: 5
     text: "顺利将二人击败，现在是时候回去找小虾仁了。在会面之后小虾仁告知了我们事情的原委，虽说骗了我，但报仇心切倒是可以谅解。"
-    translated: "Having successfully defeated the two, it's time to go find Xiao Xiaoren now. After our meeting, Xiao Xiaoren explained everything to us. Although he deceived me, his eagerness for revenge can be understood"
+    translated: "Having successfully defeated the two of them, it's time to go find Xiao Xiaren now. After meeting with him, Xiao Xiaren explained the whole situation to us. Although he deceived me, his intense desire for revenge is understandable."
 - lineNum: 396401
   raw: "396401#20#1#0&30|956891|1#3964#在雁洲城遇到了个嚣张的纨绔，如此不知天高地厚，<color=&&00ff00ff>我定要好好教训他一顿！</color>#0##0#####0##0#劝诫归春##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
@@ -12447,13 +12447,13 @@
   splits:
   - split: 5
     text: "带任天游找到程玉欣"
-    translated: "Lead Ren Tianyu to Chen Yuxin"
+    translated: "Bring Ren Tianyou to see Cheng Yuxin"
 - lineNum: 504301
   raw: "504301#19#1#1241.526,362.4607,1486.379,2#5044#与任天游上山#0##3317#####0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5
     text: "与任天游上山"
-    translated: "Follow Ren Tianyao to the mountains"
+    translated: "Climbing the mountain with Brother Ren Tianyou"
 - lineNum: 504401
   raw: "504401#16#1#5416#5045#击败灰熊#0##1164#####0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
@@ -14079,7 +14079,7 @@
   splits:
   - split: 5
     text: "点通带脉的五枢"
-    translated: "Using point transection to manipulate the five pivotal joints"
+    translated: "Activating the Five Hubs of the Dai Mai."
 - lineNum: 515201
   raw: "515201#19#1#1438.62,249.991,705.391,1#5152#拜访嵩室山#0#0#5787#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0##"
   splits:
@@ -14850,7 +14850,7 @@
   splits:
   - split: 5
     text: "询问神捕"
-    translated: "Ask the Divine Catcher of Criminals"
+    translated: "Seeking the Divine Detective"
 - lineNum: 4002407
   raw: "4002407#19#1#1110.334,365.6311,1487.211,2#40024#找到尤哈哈#0#4002406#40158#0#0###0##0##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
@@ -15314,7 +15314,7 @@
     text: "偶遇顾青岩"
     translated: "Chance encounter with Gu Qingyan"
 - lineNum: 4003904
-  raw: "4003904#19#1#899.5071,229.8363,412.8086,1#40039#前往树林深处#920012#4003903#0#0#0###0##0##0#0#0#0#0#0#100208#919997#0#0#0#3000|91999|8#0#0#0#0#0#0#"
+  raw: "4003904#19#1#899.5071,229.8363,412.8086,1#40039#前往树林深处#0#4003903#50606#0#0###0##0##0#0#0#0#0#0#0##0#0#0##0#0#0#0#0#0#"
   splits:
   - split: 5
     text: "前往树林深处"
@@ -16051,6 +16051,72 @@
   - split: 5
     text: "与干穆荟对话"
     translated: "Dialogue with Gan Mu Hui"
+- lineNum: 4006901
+  raw: "4006901#19#1#189.4067,224.8967,639.4285,1#40069#进入茶馆#0#0#0#0#0###0##0##0#0#0#0#0#0#101000#899159#0#0#0#0#0#0#0#0#899156#0#"
+  splits:
+  - split: 5
+    text: "进入茶馆"
+    translated: "Enter the tea house"
+- lineNum: 4006902
+  raw: "4006902#19#1#-134.1073,255.5977,36.90396,1#40069#前往仙洲#0#4006901#0#0#0###0##0##0#0#0#0#0#0#101000#899128#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "前往仙洲"
+    translated: "Head to the Immortal Isle"
+- lineNum: 4006903
+  raw: "4006903#19#1#-128.4165,255.89,32.92831,1#40069#靠近陆轻尘#0#4006902#0#0#0###0##0##0#0#0#0#0#0#101000#899126#0#0#0#0#0#0#0#0#899112#40276#"
+  splits:
+  - split: 5
+    text: "靠近陆轻尘"
+    translated: "Approach Lu Qingchun"
+- lineNum: 4006904
+  raw: "4006904#19#1#370.6704,239.2419,813.364,1#40069#前往万松书院#0#4006903#0#0#0###0##0##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "前往万松书院"
+    translated: "Proceed to Wansong Academy"
+- lineNum: 4006905
+  raw: "4006905#19#1#432.2772,236.0832,849.9543,1#40069#前往藏书阁#0#4006904#0#0#0###0##0##0#0#0#0#0#0#101000#899087#0#0#0#165357&0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "前往藏书阁"
+    translated: "Head to the library"
+- lineNum: 4006906
+  raw: "4006906#16#1#165357#40069#击败司徒鹤#0#4006905#0#0#0###0##0##0#0#0#0#0#0#101000#899084#0#0#0#0#440.5298&236.0832&838.9897&359.0004&165357#439.2104&236.0832&840.1193&137.0003&1#0#0#899081#0#"
+  splits:
+  - split: 5
+    text: "击败司徒鹤"
+    translated: "Defeat Shi Tu He"
+- lineNum: 4006907
+  raw: "4006907#19#1#307.0389,409.8511,1773.827,1#40069#前往西域#0#4006906#0#0#0###0##0##0#0#0#0#0#0#101000#899072#0#0#0#165358&0|165359&0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "前往西域"
+    translated: "Journey to the Western Regions"
+- lineNum: 4006908
+  raw: "4006908#16#1#165358|165359#40069#击败神秘刀客#0#4006907#0#0#0###0##0##0#0#0#0#0#0#101000#899065#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "击败神秘刀客"
+    translated: "Defeat the mysterious blade master"
+- lineNum: 4006909
+  raw: "4006909#19#1#350.5773,461.8246,1858.773,1#40069#前往山巅#0#4006908#0#0#0###0##0##0#0#0#0#0#0#101000#899062#0#0#0#165360&0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "前往山巅"
+    translated: "Head to the mountain peak"
+- lineNum: 4006910
+  raw: "4006910#16#1#165360#40069#击败沈牧之#0#4006909#0#0#0###0##0##0#0#0#0#0#0#101000#899057#3000|89901|9#165360&0|165356&0|165361&1#0#0#0#0#0#0#0#40278#"
+  splits:
+  - split: 5
+    text: "击败沈牧之"
+    translated: "Defeat Shen Muzhi"
+- lineNum: 4006911
+  raw: "4006911#19#1#-128.4165,255.89,32.92831,1#40069#返回仙洲#0#4006910#0#0#0###0##0##0#0#0#0#0#0#101000#899018#3000|89901|0#165361&0#0#0#0#0#0#0#0#40255#"
+  splits:
+  - split: 5
+    text: "返回仙洲"
+    translated: "Return to the Immortal Isle"
 - lineNum: 5146001
   raw: "5146001#13#1#95001#5146#与侍女对话#927692#0#0#0#0###0##0##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
@@ -19999,6 +20065,138 @@
   - split: 5
     text: "前往官府"
     translated: "Proceed to the government office"
+- lineNum: 50026001
+  raw: "50026001#13#1#180158#50026#与其他人交流#0#0#50491#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "与其他人交流"
+    translated: "Interacting with others"
+- lineNum: 50026002
+  raw: "50026002#13#1#180158#50026#与崔三娘对话#0#50026001#50492#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "与崔三娘对话"
+    translated: "Speaking with Cui San Niang"
+- lineNum: 50026003
+  raw: "50026003#13#1#180157#50026#与钟临对话#0#50026002#50493#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "与钟临对话"
+    translated: "Talking to Zong Lin"
+- lineNum: 50026004
+  raw: "50026004#19#1#709.2722,234.2321,573.9169,3#50026#护送钟临#0#50026003#50494#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "护送钟临"
+    translated: "Escort Master Zhong Lin"
+- lineNum: 50026005
+  raw: "50026005#5#1#180161|180162|180163#50026#保护钟临#0#50026004#50495#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "保护钟临"
+    translated: "Protect Master Zhong Lin"
+- lineNum: 50026006
+  raw: "50026006#19#1#616.001,242.7442,548.8635,3#50026#继续护送钟临#0#50026005#50496#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "继续护送钟临"
+    translated: "Continue escorting Zhong Lin"
+- lineNum: 50026007
+  raw: "50026007#5#1#180164|180165|180166#50026#保护钟临#0#50026006#50497#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "保护钟临"
+    translated: "Protect Master Zhong Lin"
+- lineNum: 50026008
+  raw: "50026008#19#1#574.3954,233.6098,574.1791,3#50026#前往目的地#0#50026007#50498#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "前往目的地"
+    translated: "Proceed to the destination"
+- lineNum: 50026009
+  raw: "50026009#19#1#562.5552,229.8714,596.9554,3#50026#进入村落#0#50026008#50499#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "进入村落"
+    translated: "Entering the village"
+- lineNum: 50026010
+  raw: "50026010#13#1#180157#50026#前往坟墓#0#50026009#50601#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "前往坟墓"
+    translated: "Visit the grave"
+- lineNum: 50026011
+  raw: "50026011#19#1#547.5606,244.2339,566.5831,3#50026#带上工具前往坟墓#0#50026010#50602#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "带上工具前往坟墓"
+    translated: "Take the tools to the tomb"
+- lineNum: 50026012
+  raw: "50026012#13#1#180157#50026#前往故人居所#0#50026011#50603#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "前往故人居所"
+    translated: "Visit a former friend's residence"
+- lineNum: 50026013
+  raw: "50026013#13#1#180160#50026#寻找痕迹#0#50026012#50604#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "寻找痕迹"
+    translated: "Searching for clues"
+- lineNum: 50026014
+  raw: "50026014#13#1#180157#50026#和钟临对话#0#50026013#50605#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "和钟临对话"
+    translated: "Speaking with Zhang Lin"
+- lineNum: 50027001
+  raw: "50027001#13#1#180158#50027#与崔三娘对话#0#0#50632#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "与崔三娘对话"
+    translated: "Speaking with Cui San Niang"
+- lineNum: 50027002
+  raw: "50027002#5#1#180170|180171|180172#50027#打退追兵#0#50027001#50633#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "打退追兵"
+    translated: "Repel the pursuing troops"
+- lineNum: 50027003
+  raw: "50027003#13#1#180158#50027#前往躲避#0#50027002#50634#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "前往躲避"
+    translated: "Go into hiding"
+- lineNum: 50027004
+  raw: "50027004#13#1#180173#50027#联系旧部#0#50027003#50635#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "联系旧部"
+    translated: "Contact former associates"
+- lineNum: 50027005
+  raw: "50027005#13#1#180173#50027#观察情况#0#50027004#50636#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "观察情况"
+    translated: "Assess the situation"
+- lineNum: 50027006
+  raw: "50027006#13#1#180174#50027#与将军交谈#0#50027005#50637#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "与将军交谈"
+    translated: "Speaking with the General"
+- lineNum: 50027007
+  raw: "50027007#13#1#180159#50027#寻找钟临#0#50027006#50638#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "寻找钟临"
+    translated: "Seeking Zhou Lin"
+- lineNum: 50027008
+  raw: "50027008#19#1#422.0614,269.6685,517.7722,5#50027#找到钟临#0#50027007#50639#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits:
+  - split: 5
+    text: "找到钟临"
+    translated: "Find Zong Lin"
 - lineNum: 100500011
   raw: "100500011#13#1#205005#100501#和镇府将军对话#0##50501#####0##0###0#0#0#1#0#0############"
   splits:
@@ -20438,11 +20636,11 @@
     text: "返回紫檀榭"
     translated: "Return to Zitan Terrace"
 - lineNum: 101010514
-  raw: "101010514#4#1#107015|107025|107035#1010105#前往丐门、十二连环坞和不夜京调查#0#101010513#0#0#0###0##0##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  raw: "101010514#1#1#903035|903265|905763#1010105#前往丐门、十二连环坞和不夜京调查#0#101010513#0#0#0###0##0##0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
   splits:
   - split: 5
     text: "前往丐门、十二连环坞和不夜京调查"
-    translated: "Proceed to investigate the Beggar Sect, the Twelve-linked Fortress, and Evernight Capital."
+    translated: "Proceed to investigate the Beggar Sect, Twelve-linked Fortress, and Evernight Capital."
 - lineNum: 101010601
   raw: "101010601#19#1#901.5236,249.1839,915.3446,2#1010106#前往丐门郊外#0#0#0#0#0###0##0##0#0#0#0#0#0#101000#903256#0#88225&1#0#0#0#0#0#0#0#0#"
   splits:
@@ -25235,7 +25433,7 @@
     text: "在天牢醒来"
     translated: "Upon waking in the sky prison"
 - lineNum: 200380011
-  raw: "200380011#19#1#1327.752,252.626,344.068#20038#逃离监狱#0##0#####0#0#0#0#0#0#0#0#0#0#101000####1&1543.296&257.3997&346.6075&-37.738########"
+  raw: "200380011#19#1#1327.752,252.626,344.068#20038#逃离监狱#0##0#####0#0#0#0#0#0#0#0#0#0#101000####1&1543.296&258.3997&346.6075&-37.738########"
   splits:
   - split: 5
     text: "逃离监狱"
@@ -28012,3 +28210,150 @@
   - split: 5
     text: "击杀魏无涯"
     translated: "Defeat Wei Wuyi"
+- lineNum: 250270042
+  raw: "250270042#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270043
+  raw: "250270043#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270044
+  raw: "250270044#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270045
+  raw: "250270045#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270046
+  raw: "250270046#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270047
+  raw: "250270047#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270048
+  raw: "250270048#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270049
+  raw: "250270049#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270050
+  raw: "250270050#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270051
+  raw: "250270051#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270052
+  raw: "250270052#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270053
+  raw: "250270053#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270054
+  raw: "250270054#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270055
+  raw: "250270055#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270056
+  raw: "250270056#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270057
+  raw: "250270057#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270058
+  raw: "250270058#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270059
+  raw: "250270059#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270060
+  raw: "250270060#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270061
+  raw: "250270061#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270062
+  raw: "250270062#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270063
+  raw: "250270063#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270064
+  raw: "250270064#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270065
+  raw: "250270065#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270066
+  raw: "250270066#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270067
+  raw: "250270067#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270068
+  raw: "250270068#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270069
+  raw: "250270069#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270070
+  raw: "250270070#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270071
+  raw: "250270071#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270072
+  raw: "250270072#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270073
+  raw: "250270073#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270074
+  raw: "250270074#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270075
+  raw: "250270075#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270076
+  raw: "250270076#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270077
+  raw: "250270077#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270078
+  raw: "250270078#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270079
+  raw: "250270079#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270080
+  raw: "250270080#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270081
+  raw: "250270081#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270082
+  raw: "250270082#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270083
+  raw: "250270083#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270084
+  raw: "250270084#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270085
+  raw: "250270085#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270086
+  raw: "250270086#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270087
+  raw: "250270087#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270088
+  raw: "250270088#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270089
+  raw: "250270089#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []
+- lineNum: 250270090
+  raw: "250270090#0#0#0#0##0#0#0#0#0###0##0###0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#0#"
+  splits: []

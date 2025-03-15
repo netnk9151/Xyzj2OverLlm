@@ -1,0 +1,69 @@
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MapView/bgmask/Left Scroll View/Viewport/Content/Item(Clone)/title"
+  sampleText: "Merchant"
+  idealFontSize: 20
+  alignment: "Midline"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MapView/bgmask/Btn_SwitchMap/BtnShiLi/Text (TMP)"
+  sampleText: "  Switch factions"
+  idealFontSize: 22
+  alignment: "Midline"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MapView/bgmask/Btn_SwitchMap/BtnDiTu/Text (TMP)"
+  sampleText: "  Switch map"
+  idealFontSize: 22
+  alignment: "Midline"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MapView/bgmask/mask/*/ShiLiName(Clone)/ShiLiMemberCount/root/Title"
+  sampleText: "Main Headquarters"
+  idealFontSize: 20
+  alignment: "Midline"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MapView/bgmask/mask/*/mapAreaNameText"
+  idealFontSize: 20
+  alignment: "Midline"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MapView/bgmask/mask/*/ShiLiName(Clone)/ShiLiMemberCount/root/MemberCountText"
+  sampleText: "228"
+  idealFontSize: 20
+  alignment: "Midline"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MapView/bgmask/ShiLiInfo/ShiLiInfoPanel/ShiLiName"
+  sampleText: "Primordial Sword Sect"
+  idealFontSize: 24
+  alignment: "Capline"
+  allowWordWrap: true
+  adjustY: 10
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MapView/bgmask/ShiLiInfo/ShiLiInfoPanel/*"
+  sampleText: "  Scale"
+  idealFontSize: 20
+  allowWordWrap: true
+  allowLeftTrimText: true
+  adjustWidth: 20
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MapView/bgmask/ShiLiInfo/ShiLiInfoPanel/ContentRight/BangZhong/Text (TMP)"
+  sampleText: "Fellow band members"
+  idealFontSize: 20
+  alignment: "Bottom"
+  allowWordWrap: true
+  allowLeftTrimText: true
+  adjustX: 20
+  adjustWidth: 40
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MapView/bgmask/ShiLiInfo/ShiLiInfoPanel/ContentRight/RenKou/Text (TMP)"
+  sampleText: "Population"
+  idealFontSize: 20
+  alignment: "Bottom"
+  allowWordWrap: true
+  adjustX: 20
+  adjustWidth: 40
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MapView/bgmask/ShiLiInfo/ArmyInfoPanel/ZhuJiang/ContentRight/*/Text (TMP)"
+  sampleText: "  Troops"
+  idealFontSize: 20
+  alignment: "Bottom"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MapView/bgmask/ShiLiInfo/ArmyInfoPanel/Title/ShiLiName"
+  sampleText: "Imperial Void Gate"
+  idealFontSize: 30
+  alignment: "Capline"
+  allowWordWrap: true

@@ -1,0 +1,59 @@
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MenPaiShopStoreView/Mask/moneyRoot/moneyTitle"
+  sampleText: "Holding Grand Moon Sect token"
+  idealFontSize: 28
+  alignment: "TopRight"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MainViewOld/Root/UI_PlayerQinggong/QingGong (1)/Image (1)/Text (TMP)"
+  sampleText: "  Lightness Skill"
+  idealFontSize: 20
+  alignment: "Center"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MenPaiShopStoreView/Mask/*/itemRoot/item*/moneydiban/title"
+  sampleText: "  Reserve price"
+  idealFontSize: 14
+  alignment: "Left"
+  allowWordWrap: true
+  allowLeftTrimText: true
+  adjustX: -50
+  adjustWidth: -120
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MenPaiShopStoreView/Mask/firstRoot/title/Text (TMP)"
+  sampleText: "  Disciple of the bloodline"
+  idealFontSize: 20
+  alignment: "Center"
+  allowWordWrap: true
+  allowLeftTrimText: true
+  adjustWidth: 30
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MenPaiShopStoreView/Mask/text_MenPaiTitle"
+  sampleText: "Grand Moon Sect"
+  idealFontSize: 30
+  alignment: "Center"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MainViewOld/Root/GuanQiaTip/Text (TMP)"
+  sampleText: "  Remaining enemies:"
+  idealFontSize: 24
+  alignment: "TopLeft"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MainViewOld/Root/FuBenTip/Text (TMP)"
+  sampleText: "  Remaining enemies:"
+  idealFontSize: 24
+  alignment: "TopLeft"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MenPaiShopStoreView/Mask/refreshRoot/time"
+  sampleText: "Jing Yan40Year8Month29DayChildTime"
+  idealFontSize: 24
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/ShopViewNew/Root/mask/panels/node/left/OSA/Viewport/Content/OSA_CellGroupPrefab(Clone)/Item(Clone)/Views/nameBg/name"
+  sampleText: "Medic\nine for treating wounds"
+  idealFontSize: 18
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/ShopViewNew/Root/mask/panels/node/left/OSA/Viewport/Content/OSA_CellGroupPrefab(Clone)/Item(Clone)/Views/level"
+  sampleText: "Tier 1"
+  idealFontSize: 20
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/ShopViewNew/Root/mask/panels/node/right (1)/ItemDetail/Background/TextName"
+  sampleText: "Eight Extraordinary Meridians Chart � Volume Seven � Lifeforce"
+  idealFontSize: 30
+  allowWordWrap: true

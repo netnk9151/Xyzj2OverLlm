@@ -43,7 +43,7 @@ public class MainGameAwakePatchTests : IDisposable
     [HarmonyPatch]
     public static class AwakePatch
     {
-        private static bool _awakeWasCalled = false;
+        private static bool _awakeWasCalled;
 
         // Define which method to patch
         [HarmonyPatch(MethodType.Normal)]

@@ -1,0 +1,103 @@
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/Role/RoleBagParent/ItemDetail*/Background/TextName"
+  sampleText: "Eight Extraordinary Meridians Chart · Volume Seven · Lifeforce"
+  idealFontSize: 28
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/Role/RoleBagParent/ItemDetail*/Background/BlackBG/TextQuality"
+  sampleText: "Quality:   <color=#FFDA5A>Perfect</color>"
+  idealFontSize: 26
+  adjustX: 50
+  adjustWidth: 100
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/Role/RoleBagParent/ItemDetail*/Background/BlackBG/Text*"
+  sampleText: "Rank:Tier 7"
+  idealFontSize: 26
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/Role/RoleBagParent/ItemDetail*/Background/ObjSell/TextPrice"
+  sampleText: "27418"
+  idealFontSize: 24
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/Role/RoleBagParent/ItemDetail*/Background/ObjSell/Text"
+  sampleText: "Selling price:"
+  idealFontSize: 24
+  adjustX: -20
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/Role/RoleBagParent/ItemDetail*/Background/Button*/Text"
+  sampleText: "  Discard"
+  idealFontSize: 30
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/Role/RoleBagParent/ItemDetail*/Background/Equip/Attribute/UsableAttri"
+  sampleText: "<nobr>Used for meridians and internal organs, and additional terms.</nobr>"
+  idealFontSize: 20
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/Role/RoleBagParent/ItemDetail*/Background/Description/Viewport/TextDescription"
+  sampleText: "   This book was authored by a renowned master of the previous generation from an unnamed sect. It uniquely illustrates the flow of qi in the meridians through distinctive diagrams. By pairing it with accurate meridian knowledge, one can enhance and stabilize certain lifeforce attributes."
+  idealFontSize: 18
+  alignment: "TopLeft"
+  allowWordWrap: true
+  allowLeftTrimText: true
+  adjustX: 4
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/Role/RoleBagParent/ItemDetail0/Background/Equip/Image/Text"
+  sampleText: "Material Properties"
+  idealFontSize: 20
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/Role/RoleBagParent/ItemDetail*/Background/Text"
+  sampleText: "  Entry Attributes"
+  idealFontSize: 20
+  allowWordWrap: true
+  allowAutoSizing: false
+  allowLeftTrimText: true
+  adjustWidth: -40
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/Role/RoleBagParent/ItemDetail*/DetailFabrication/title"
+  sampleText: "  Intended purpose"
+  idealFontSize: 20
+  allowWordWrap: true
+  allowLeftTrimText: true
+  adjustWidth: -20
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/Role/RoleBagParent/ItemDetail*/DetailFabrication/Scroll View/Viewport/TextDescription"
+  sampleText: "Production<u><link=\"ITEMID|45058\">【<color=#FFDA5A>Disrupting the Hex</color>】</link></u>Main material"
+  idealFontSize: 20
+  alignment: "Top"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/Role/RoleBagParent/ItemDetail0/Background/title (1)"
+  sampleText: "  Acquisition method"
+  idealFontSize: 18
+  allowWordWrap: true
+  allowAutoSizing: false
+  allowLeftTrimText: true
+  adjustY: 10
+  adjustWidth: -360
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/Role/RoleBagParent/ItemDetail*/Background/sourceprefab/Scroll View/Viewport/Content/bg/TextDescription"
+  sampleText: "Can be collected at the Twelve-linked Fortress"
+  idealFontSize: 18
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/Role/RoleBagParent/ItemDetail*/Background/npcpos/UseDes*/TextDescription"
+  sampleText: "Lingxinshu(1045,1772)"
+  idealFontSize: 18
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/Role/RoleBagParent/ItemDetail0/Background/Layout/Viewport/Content/*/WordText/name"
+  sampleText: "<color=#E4F5E8>Lifeforce</color>"
+  idealFontSize: 18
+  allowWordWrap: true
+  adjustWidth: -20
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/Role/RoleBagParent/ItemDetail0/Background/Layout/Viewport/Content/*/WordText"
+  sampleText: "<nobr>Lifeforce 281<color=#BA7EFE>(345)</color></nobr>"
+  idealFontSize: 18
+  allowWordWrap: true
+  adjustX: 20
+  adjustWidth: -20
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/Role/RoleBagParent/ItemDetail1/Background/Layout/Viewport/Content/*/WordText/name"
+  sampleText: "<color=#E4F5E8>Internal attack</color>"
+  idealFontSize: 18
+  allowWordWrap: true
+  adjustX: -20
+  adjustWidth: -20
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/Role/RoleBagParent/ItemDetail1/Background/Layout/Viewport/Content/*/WordText"
+  sampleText: "<nobr>Internal Attack + 11<color=#5DBCF3>(17)</color></nobr>"
+  idealFontSize: 18
+  allowWordWrap: true
+  adjustWidth: -20
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/Role/RoleBagParent/ItemDetail*/Background/Equip/Attribute/AttriBG/TextAttri*"
+  sampleText: "External Attack"
+  idealFontSize: 18
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/Role/RoleBagParent/ItemDetail*/Background/Equip/EquipData/*/Text"
+  sampleText: "  Toughness"
+  idealFontSize: 18
+  allowWordWrap: true
+  allowLeftTrimText: true
+  adjustWidth: 20

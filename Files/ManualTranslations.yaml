@@ -248,3 +248,279 @@
   badtrans: true  
   direct: The Entrustment of  
   literal: De Weituo  
+- raw: 冲灵所窍
+  result: Gateway to Spiritual Enlightenment
+  badtrans: true
+  direct: Chong Ling Suo Qiao
+  literal: Chong Ling Suo Qiao
+- raw: 领悟
+  result: Comprehension
+  badtrans: true
+  direct: Ling Wu
+  literal: Ling Wu
+- raw: 已覆盖快速存档栏
+  result: Quick Save Slot Overwritten
+  badtrans: true
+  direct: Yi Fu Gai Kuai Su Cun Dang Lan
+  literal: Yi Fu Gai Kuai Su Cun Dang Lan
+- raw: 神农氏
+  result: Shennong Clan
+  badtrans: true
+  direct: Shen Nong Shi
+  literal: Shen Nong Shi
+- raw: 汉高祖
+  result: Emperor Gao of Han
+  badtrans: true
+  direct: Han Gao Zu
+  literal: Han Gao Zu
+- raw: "原贴内容："
+  result: "Original Post Content:"
+  badtrans: true
+  direct: Yuan Tie Nei Rong
+  literal: Yuan Tie Nei Rong
+- raw: 一般对话组
+  result: General Conversation Group
+  badtrans: true
+  direct: Yi Ban Dui Hua Zu
+  literal: Yi Ban Dui Hua Zu
+- raw: 垂钓
+  result: Fishing
+- raw: 品阶  
+  result: Rank  
+  badtrans: true  
+  direct: Grade  
+  literal: Pin jie  
+- raw: 五行详情  
+  result: Five Elements Details  
+  badtrans: true  
+  direct: Five Elements Details  
+  literal: Wu xing xiang qing  
+- raw: 武林新秀  
+  result: Wulin Rising Star  
+  badtrans: true  
+  direct: Martial Arts New Talent  
+  literal: Wu lin xin xiu  
+- raw: "在《论语》中，“己所不欲，勿施于人”的含义是？"
+  result: What is the meaning of 'Do not impose on others what you do not desire' in the Analects?  
+  badtrans: true  
+  direct: In the Analects, what is the meaning of "What you do not want, do not impose on others"?  
+  literal: Zai "Lun Yu" zhong, "Ji suo bu yu, wu shi yu ren" de han yi shi?  
+- raw: 前辈未必太看得起在下了。  
+  result: Senior, you may think too highly of me.  
+  badtrans: true  
+  direct: Elder may not think too highly of me.  
+  literal: Qian bei wei bi tai kan de qi zai xia le.  
+- raw: 宝贝？村子里？  
+  result: Treasure? In the village?  
+  badtrans: true  
+  direct: Baby? In the village?  
+  literal: Bao bei? Cun zi li? 
+- raw: "<size=26>已持有:</size>"
+  result: "<size=16>Holding:</size>"
+- raw: 墨  
+  result: Mo
+  badtrans: true  
+  direct: Ink  
+  literal: Mo  
+
+
+
+# Questions
+- raw: 戒定慧
+  result: Morality Concentration Wisdom
+  badtrans: true
+  direct: Jie Ding Hui
+  literal: Jie Ding Hui
+- raw: 贪嗔痴
+  result: Desire Anger Delusion
+  badtrans: true
+  direct: Tan Chen Chi
+  literal: Tan Chen Chi
+- raw: 眼耳鼻
+  result: Eyes Ears Nose
+  badtrans: true
+  direct: Yan Er Bi
+  literal: Yan Er Bi
+
+# Names 
+- raw: 明照
+  result: Ming Zhao
+  badtrans: true
+  direct: Ming Zhao
+  literal: Ming Zhao
+- raw: 龙咎鹫
+  result: Long Jiu Jiu
+  badtrans: true
+  direct: Long Jiu Jiu
+  literal: Long Jiu Jiu
+- raw: 封于
+  result: Feng Yu
+  badtrans: true
+  direct: Feng Yu
+  literal: Feng Yu
+- raw: 公输梦
+  result: Gong Shu Meng
+  badtrans: true
+  direct: Gong Shu Meng
+  literal: Gong Shu Meng
+- raw: 年清
+  result: Nian Qing
+  badtrans: true
+  direct: Nian Qing
+  literal: Nian Qing
+- raw: 常盼春
+  result: Chang Pan Chun
+  badtrans: true
+  direct: Chang Pan Chun
+  literal: Chang Pan Chun
+- raw: 全忆之
+  result: Quan Yi Zhi
+  badtrans: true
+  direct: Quan Yi Zhi
+  literal: Quan Yi Zhi
+- raw: 魔君姜世离
+  result: Demon Lord Jiang Shili
+  badtrans: true
+  direct: Mo Jun Jiang Shi Li
+  literal: Mo Jun Jiang Shi Li
+- raw: 行尘
+  result: Xingchen
+  badtrans: true
+  direct: Xing Chen
+  literal: Xing Chen
+- raw: 伯子越
+  result: Bo Ziyue
+  badtrans: true
+  direct: Bo Zi Yue
+  literal: Bo Zi Yue
+- raw: 杭飞双
+  result: Hang Feishuang
+  badtrans: true
+  direct: Hang Fei Shuang
+  literal: Hang Fei Shuang
+- raw: 杨老丐
+  result: Old Beggar Yang
+  badtrans: true
+  direct: Yang Lao Gai
+  literal: Yang Lao Gai
+- raw: 郑管家
+  result: Steward Zheng
+  badtrans: true
+  direct: Zheng Guan Jia
+  literal: Zheng Guan Jia
+- raw: 明寒烟
+  result: Ming Hanyan
+  badtrans: true
+  direct: Ming Han Yan
+  literal: Ming Han Yan
+- raw: 蒙鱼
+  result: Meng Yu
+  badtrans: true
+  direct: Meng Yu
+  literal: Meng Yu
+- raw: 绝夙
+  result: Jue Su
+  badtrans: true
+  direct: Jue Su
+  literal: Jue Su
+- raw: 陈管家
+  result: Steward Chen
+  badtrans: true
+  direct: Chen Guan Jia
+  literal: Chen Guan Jia
+- raw: 张音师
+  result: Master Zhang
+  badtrans: true
+  direct: Zhang Yin Shi
+  literal: Zhang Yin Shi
+- raw: 古云
+  result: Gu Yun
+  badtrans: true
+  direct: Gu Yun
+  literal: Gu Yun
+- raw: 张术
+  result: Zhang Shu
+  badtrans: true
+  direct: Zhang Shu
+  literal: Zhang Shu
+- raw: 闻者彰
+  result: Wen Zhezhang
+  badtrans: true
+  direct: Wen Zhe Zhang
+  literal: Wen Zhe Zhang
+- raw: 叹书生
+  result: Sighing Scholar
+  badtrans: true
+  direct: Tan Shu Sheng
+  literal: Tan Shu Sheng
+- raw: 关塞暮
+  result: Guan Saimu
+  badtrans: true
+  direct: Guan Sai Mu
+  literal: Guan Sai Mu
+- raw: 黄及
+  result: Huang Ji
+  badtrans: true
+  direct: Huang Ji
+  literal: Huang Ji
+- raw: 贱妾
+  result: Lowly Concubine
+  badtrans: true
+  direct: Jian Qie
+  literal: Jian Qie
+- raw: 祝青柳
+  result: Zhu Qingliu
+  badtrans: true
+  direct: Zhu Qing Liu
+  literal: Zhu Qing Liu
+- raw: 燕北飞
+  result: Yan Beifei
+  badtrans: true
+  direct: Yan Bei Fei
+  literal: Yan Bei Fei
+- raw: 战凝
+  result: Zhan Ning
+  badtrans: true
+  direct: Zhan Ning
+  literal: Zhan Ning
+- raw: 业向
+  result: Ye Xiang
+  badtrans: true
+  direct: Ye Xiang
+  literal: Ye Xiang
+- raw: 没药
+  result: Mo Yao
+  badtrans: true
+  direct: Mo Yao
+  literal: Mo Yao
+- raw: 候盛  
+  result: Hou Sheng  
+  badtrans: true  
+  direct: Hou Sheng  
+  literal: Hou Sheng  
+
+
+# Relationships
+- raw: 拜师
+  result: Apprentice to a Master
+  badtrans: true
+  direct: Bai Shi
+  literal: Bai Shi
+
+# Skill Levels
+- raw: 初学
+  result: Beginner
+  badtrans: true
+  direct: Chu Xue
+  literal: Chu Xue
+- raw: 精通
+  result: Proficient
+  badtrans: true
+  direct: Jing Tong
+  literal: Jing Tong
+- raw: 化境
+  result: Transcendent
+  badtrans: true
+  direct: Hua Jing
+  literal: Hua Jing
+

@@ -2,7 +2,7 @@
 using YamlDotNet.Core;
 using YamlDotNet.Serialization;
 
-namespace EnglishPatch.Contracts;
+namespace SharedAssembly.DynamicStrings;
 
 //Keep in sync with patch and translate
 public class DynamicStringContract
@@ -12,7 +12,7 @@ public class DynamicStringContract
 
     [YamlMember(ScalarStyle = ScalarStyle.DoubleQuoted)]
     public string Method { get; set; } = string.Empty;
-    
+
     public long ILOffset { get; set; } = 0;
 
     [YamlMember(ScalarStyle = ScalarStyle.DoubleQuoted)]

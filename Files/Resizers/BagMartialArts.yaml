@@ -1,0 +1,235 @@
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/SpellEditPartNew/MiJiSpellPart/DiLan/XiuWeiText"
+  sampleText: "Cultivation level:269"
+  idealFontSize: 24
+  alignment: "TopLeft"
+  allowWordWrap: true
+  adjustWidth: 100
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/SpellEditPartNew/MiJiSpellPart/DiLan/GanwuText"
+  sampleText: "Insight:17054"
+  idealFontSize: 24
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/SpellEditPartNew/MiJiSpellPart/tip/TipBg/Text (TMP)"
+  sampleText: "Wuxia�Analysis:�\n1.�Click�the�weapon�icon�to�select�the�corresponding�technique.�The�left-hand�manual�panel�displays�<color=#3ad67c>this�technique's�manual�and�general�manuals</color>.\n2.�The�skills�in�the�manual�can�be�assembled�into�the�corresponding�martial�arts�frame�under�the�technique�through�a�<color=#3ad67c>drag-and-drop</color>�method."
+  idealFontSize: 22
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/SpellEditPartNew/MiJiSpellPart/BeiDong/Slots/BeiDongGrids/SpellItem*/Key/Txt_Key"
+  sampleText: "  Passive"
+  idealFontSize: 20
+  alignment: "Midline"
+  allowWordWrap: true
+  allowLeftTrimText: true
+  adjustWidth: 20
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/SpellEditPartNew/MiJiPart/MiJiToggles/*/*/Text"
+  sampleText: "  Tome of Secrets"
+  idealFontSize: 24
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/SpellEditPartNew/SwitchTaoLuPenal/btn*/Text"
+  sampleText: "  Preserve"
+  idealFontSize: 24
+  alignment: "Center"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/SpellEditPartNew/MiJiPart/ScrollView*/Viewport/Content/*/SubGrid/*/Txt_Name"
+  sampleText: "Hidden Blade Technique"
+  idealFontSize: 20
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+  adjustX: 50
+  adjustWidth: 100
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/SpellEditPartNew/MiJiPart/ScrollView*/Viewport/Content/*/SubGrid/*/Img_Type/Txt_Type"
+  sampleText: "Technique"
+  idealFontSize: 18
+  alignment: "Midline"
+  allowWordWrap: true
+  adjustWidth: 200
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/SpellEditPartNew/MiJiPart/ScrollView*/Viewport/Content/*/Txt_Name"
+  sampleText: "Eight�Horizons�Conceal�the�Blade�Technique"
+  idealFontSize: 20
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+  allowLeftTrimText: true
+  adjustWidth: -50
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/SpellEditPartNew/MiJiPart/ScrollView*/Viewport/Content/*/SubGrid/*/Txt_Level"
+  sampleText: "Getting Started"
+  idealFontSize: 20
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/SpellEditPartNew/LianZhaoPanel/Text (TMP)"
+  sampleText: "  Self-created continuous combination technique"
+  idealFontSize: 30
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+  adjustWidth: 100
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/SpellEditPartNew/LianZhaoPanel/NormalMiJi/Viewport/Content/*/SubGrid/*/Txt_Name"
+  sampleText: "Hidden Blade Technique"
+  idealFontSize: 20
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+  adjustX: 50
+  adjustWidth: 100
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/SpellEditPartNew/LianZhaoPanel/NormalMiJi/Viewport/Content/*/SubGrid/*/Img_Type/Txt_Type"
+  sampleText: "Technique"
+  idealFontSize: 18
+  alignment: "Midline"
+  allowWordWrap: true
+  adjustWidth: 200
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/SpellEditPartNew/LianZhaoPanel/NormalMiJi/Viewport/Content/*/Txt_Name"
+  sampleText: "Eight�Horizons�Conceal�the�Blade�Technique"
+  idealFontSize: 20
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+  adjustWidth: -50
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/SpellEditPartNew/SwitchTaoLuPenal/Panel/curTaoluGrid/*/titlebg/title"
+  sampleText: "  Technique Four"
+  idealFontSize: 18
+  alignment: "Center"
+  allowWordWrap: true
+  allowLeftTrimText: true
+  adjustY: -12
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/SpellEditPartNew/list (1)/ScrollViewNomal/Viewport/Content/*/bg/btnhighlight/name"
+  sampleText: "Wu-Xia of the social rank"
+  idealFontSize: 24
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/SpellEditPartNew/list (1)/ScrollViewNomal/Viewport/Content/*/bg/nameunselected"
+  sampleText: "Wu-Xia of the social rank"
+  idealFontSize: 24
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/SpellEditPartNew/list (1)/ScrollViewNomal/Viewport/Content/*/subgrid/*/iconbg/name"
+  sampleText: "Ten�Thousand�Laws"
+  idealFontSize: 20
+  allowWordWrap: true
+  allowAutoSizing: false
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/SpellEditPartNew/rightPartCanwu/zhudong/mixMartial/martial/name"
+  sampleText: "The�Eight�Swordsmanship�Styles�of�Tian�Dao"
+  idealFontSize: 30
+  alignment: "Left"
+  allowWordWrap: true
+  adjustX: 50
+  adjustY: 10
+  adjustWidth: 100
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/SpellEditPartNew/rightPartCanwu/zhudong/mixMartial/martial/title"
+  sampleText: "  To study martial arts deeply"
+  idealFontSize: 20
+  alignment: "Right"
+  allowWordWrap: true
+  adjustY: -20
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/SpellEditPartNew/rightPartCanwu/zhudong/mixMartial/grid/*/name"
+  sampleText: "<color=#FF0000>Ten Thousand Paths, No Trace of People</color>"
+  idealFontSize: 22
+  alignment: "Center"
+  allowWordWrap: true
+  allowAutoSizing: false
+  adjustY: 5
+  adjustWidth: 100
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/SpellEditPartNew/rightPartCanwu/zhudong/mixMartial/grid/*/type"
+  sampleText: "Technique"
+  idealFontSize: 20
+  alignment: "Center"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/SpellEditPartNew/rightPartCanwu/qiyong_btn/costganwu"
+  sampleText: "<color=#969696>Expenditure: <color=#f0f0f0>Insight 3000</color>"
+  idealFontSize: 26
+  alignment: "Left"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/SpellEditPartNew/rightPartCanwu/qiyong_btn/Text"
+  sampleText: "  Confirmed"
+  idealFontSize: 30
+  alignment: "Midline"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/SpellEditPartNew/rightPartCanwu/zhudong/equip/grid/*/need (1)"
+  sampleText: "<color=#d05959>Transcendent</color>"
+  idealFontSize: 18
+  alignment: "Center"
+  allowWordWrap: true
+  allowAutoSizing: false
+  adjustX: 30
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/SpellEditPartNew/rightPartCanwu/zhudong/equip/grid/*/need"
+  sampleText: "  Demand:"
+  idealFontSize: 18
+  alignment: "Center"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/SpellEditPartNew/rightPartCanwu/zhudong/equip/grid/*/name"
+  sampleText: "<color=#3AD67C>Zhoutian Breathing Technique</color>"
+  idealFontSize: 18
+  alignment: "Top"
+  allowWordWrap: true
+  allowAutoSizing: false
+  adjustY: 10
+  adjustWidth: 60
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/SpellEditPartNew/rightPartCanwu/zhudong/equip/grid/*/mijiName"
+  sampleText: "<color=#919191>[Zhoutian�Breathing�Technique]</color>"
+  idealFontSize: 18
+  alignment: "Center"
+  allowWordWrap: true
+  allowAutoSizing: false
+  adjustWidth: 60
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/HintUILayer/CommonTipView/SpellHoverTipMainView/*"
+  sampleText: "All things in the world belong to me. I forge my soul through strong body cultivation: potential increases by 30, strength increases by 30, inner power increases by 30, and resilience increases by 30. Damage received decreases by 8%."
+  idealFontSize: 20
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/HintUILayer/CommonTipView/SpellHoverTipMainView/SpellName"
+  sampleText: "<color=#5DBCF3>Ten Thousand Laws Complete</color>"
+  idealFontSize: 26
+  alignment: "Left"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/HintUILayer/CommonTipView/SpellHoverTipMainView/cost/costvalue"
+  sampleText: "0"
+  idealFontSize: 18
+  alignment: "Left"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/HintUILayer/CommonTipView/SpellHoverTipMainView/cost"
+  sampleText: "  Consumption:"
+  idealFontSize: 18
+  alignment: "Left"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/HintUILayer/CommonTipView/SpellHoverTipMainView/CD/cdvalue"
+  sampleText: "0Second"
+  idealFontSize: 18
+  alignment: "Left"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/HintUILayer/CommonTipView/SpellHoverTipMainView/CD"
+  sampleText: "  Cool down:"
+  idealFontSize: 18
+  alignment: "Left"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/HintUILayer/CommonTipView/SpellHoverTipMainView/range/rangevalue"
+  sampleText: "0"
+  idealFontSize: 18
+  alignment: "Left"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/HintUILayer/CommonTipView/SpellHoverTipMainView/range"
+  sampleText: "  Skill range:"
+  idealFontSize: 18
+  alignment: "Left"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/HintUILayer/CommonTipView/SpellHoverTipMainView/neigong/neigongvalue"
+  sampleText: "0"
+  idealFontSize: 18
+  alignment: "Left"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/HintUILayer/CommonTipView/SpellHoverTipMainView/neigong"
+  sampleText: "  Internal attack power:"
+  idealFontSize: 18
+  alignment: "Left"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/HintUILayer/CommonTipView/SpellHoverTipMainView/waigong/waigongvalue"
+  sampleText: "0"
+  idealFontSize: 18
+  alignment: "Left"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/HintUILayer/CommonTipView/SpellHoverTipMainView/waigong"
+  sampleText: "  External attack power:"
+  idealFontSize: 18
+  alignment: "Left"
+  allowWordWrap: true
+  allowLeftTrimText: true

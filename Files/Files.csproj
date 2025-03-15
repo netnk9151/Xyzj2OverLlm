@@ -9,7 +9,7 @@
   <ItemGroup>
     <Folder Include="Raw\Remaining\" />
     <Folder Include="Raw\SplitDb\" />
-    <Folder Include="TestResults\" />
+    <Folder Include="TestResults\OldFiles\" />
   </ItemGroup>
 
 </Project>

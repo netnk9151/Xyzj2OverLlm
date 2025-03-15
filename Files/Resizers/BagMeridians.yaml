@@ -1,0 +1,384 @@
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/jingmai/Scroll View/Viewport/Content/partGraph/*/Text (TMP)"
+  sampleText: "  Yang Wei"
+  idealFontSize: 22
+  alignment: "Center"
+  allowWordWrap: true
+  allowLeftTrimText: true
+  adjustX: -2
+  adjustWidth: 30
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/jingmai/zhenli/Text (TMP)"
+  sampleText: "  True Power Value"
+  idealFontSize: 26
+  alignment: "TopLeft"
+  allowWordWrap: true
+  allowLeftTrimText: true
+  adjustX: 25
+  adjustWidth: 100
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/DiLan/XiuWeiText"
+  sampleText: "Cultivation level:269"
+  idealFontSize: 24
+  alignment: "TopLeft"
+  allowWordWrap: true
+  adjustWidth: 100
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/DiLan/GanwuText"
+  sampleText: "Insight:17054"
+  idealFontSize: 24
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/detailPart/shenmen/title/imageactive/titleactive"
+  sampleText: "Wandering swordsman"
+  idealFontSize: 24
+  alignment: "Midline"
+  allowWordWrap: true
+  adjustWidth: 100
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/detailPart/shenmen/title"
+  sampleText: "Wandering swordsman"
+  idealFontSize: 24
+  alignment: "Midline"
+  allowWordWrap: true
+  adjustWidth: 100
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/detailPart/shenmen/desc"
+  sampleText: "Dai Mai meridian points begin at the Jiexi point, running obliquely downwards to reach the Dai Mai acupoint. It encircles the body like a waistband and is capable of restraining the vertical flow of various other meridians."
+  idealFontSize: 20
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/detailPart/shenmen/guling/Text1"
+  sampleText: "  Basic Attributes"
+  idealFontSize: 24
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/detailPart/shenmen/guling/Content/*/*"
+  sampleText: "<color=#3AD67C>Strength:</color>"
+  idealFontSize: 20
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+  adjustWidth: 200
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/detailPart/shenmen/condition/title"
+  sampleText: "  Activation Conditions:"
+  idealFontSize: 20
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+  allowAutoSizing: false
+  adjustX: -200
+  adjustWidth: -380
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/detailPart/shenmen/condition/title/title (1)"
+  sampleText: "  The following conditions must be met in order to open a defiled channel."
+  idealFontSize: 22
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+  allowAutoSizing: false
+  allowLeftTrimText: true
+  adjustX: 200
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/detailPart/shenmen/condition/conditionJingMai/Content/*/name"
+  sampleText: "Meridians:Broken rib"
+  idealFontSize: 20
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+  adjustY: -10
+  adjustWidth: 20
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/detailPart/shenmen/condition/conditionJingMai/Content/*/text"
+  sampleText: "(Inactive)"
+  idealFontSize: 20
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+  adjustY: -5
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/detailPart/shenmen/*/Text1/*/highlight/Text (1)"
+  sampleText: "  Select Heart Method"
+  idealFontSize: 20
+  alignment: "Midline"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/detailPart/shenmen/*/Text1/*/Text"
+  sampleText: "  Select Heart Method"
+  idealFontSize: 20
+  alignment: "Midline"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/detailPart/shenmen/xinfaanling/Text1"
+  sampleText: "  Special Attributes"
+  idealFontSize: 20
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/detailPart/shenmen/mijuanfuling/Text1"
+  sampleText: "  Hidden attribute"
+  idealFontSize: 20
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/detailPart/shenmen/*/Text1/*/tip"
+  sampleText: "  Mind-cultivation technique"
+  idealFontSize: 20
+  alignment: "TopLeft"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/detailPart/shenmen/*/Text1/*/tip/desc"
+  sampleText: "  When activating or refining, adding a cultivation method may randomly grant an attribute associated with that cultivation method."
+  idealFontSize: 18
+  alignment: "TopLeft"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/detailPart/shenmen/xinfaanling/Text1/has/xinfahastip/tip"
+  sampleText: "  (Same choice equals cancel.)"
+  idealFontSize: 16
+  alignment: "TopLeft"
+  allowWordWrap: true
+  adjustX: 100
+  adjustY: -8
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/detailPart/shenmen/mijuanfuling/Text1/has/mijuanhastip/tip1"
+  sampleText: "(Same choice equals cancel.)"
+  idealFontSize: 16
+  alignment: "TopLeft"
+  allowWordWrap: true
+  adjustX: 100
+  adjustY: -8
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/detailPart/shenmen/costXiuWei"
+  sampleText: "The need to cultivate one's qi:14324"
+  idealFontSize: 20
+  alignment: "Midline"
+  allowWordWrap: true
+  adjustWidth: 100
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/detailPart/shenmen/xinfaanling/Text1/has/xinfahastip"
+  sampleText: "Mind Cultivation Method:"
+  idealFontSize: 18
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/detailPart/shenmen/xinfaanling/Text1/has/xinfahastip/desc"
+  sampleText: "When activating or refining, adding a cultivation method may randomly grant an attribute associated with that cultivation method."
+  idealFontSize: 18
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/detailPart/shenmen/xinfaanling/Text1/has/xinfahastip/4bg/name"
+  sampleText: "<color=#3AD67C>Zhoutian Breathing Technique</color>"
+  idealFontSize: 18
+  alignment: "TopLeft"
+  allowWordWrap: true
+  adjustX: 120
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/detailPart/shenmen/mijuanfuling/Text1/has/mijuanhastip/4bg/tip"
+  sampleText: "Secret Scroll:"
+  idealFontSize: 16
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/detailPart/shenmen/mijuanfuling/Text1/has/mijuanhastip/4bg/name"
+  sampleText: "High-grade Divine Illumination Scripture Fragment"
+  idealFontSize: 18
+  alignment: "TopLeft"
+  allowWordWrap: true
+  adjustWidth: -100
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/detailPart/shenmen/mijuanfuling/Text*/has/mijuanhastip"
+  sampleText: "  Consumption:"
+  idealFontSize: 16
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/detailPart/shenmen/mijuanfuling/Text1/has/mijuanhastip/subgrid/1001/name"
+  sampleText: "<color=#FFDA5A>Meridians�Explained���Volume�Seven</color>"
+  idealFontSize: 16
+  allowWordWrap: true
+  adjustX: -150
+  adjustWidth: -300
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/detailPart/shenmen/btnXiLian/Text"
+  sampleText: "  Refined through adversity"
+  idealFontSize: 16
+  alignment: "Midline"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/detailPart/shenmen/mijuanfuling/Text1/has/fulingAttriPart/Content/*/Image/value1"
+  sampleText: "<color=#E4F5E8>External Attack</color>    External Attack + <color=#FFDA5A>18</color>(19)"
+  idealFontSize: 20
+  alignment: "Center"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/BagTipView/Content/Bag/Select_New2/SelectItem(Clone)/Text"
+  sampleText: "Huailin Zhu"
+  idealFontSize: 20
+  alignment: "Midline"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/BagTipView/Content/Bag/Sort_New/Label"
+  sampleText: "Default sorting"
+  idealFontSize: 20
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/BagTipView/Content/Bag/Level_New/Label"
+  sampleText: "All ranks"
+  idealFontSize: 20
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/BagTipView/Content/ItemDetail0/Background/Layout/Viewport/Content/*/WordText/name"
+  sampleText: "<color=#5DBCF3>Willpower</color>"
+  idealFontSize: 20
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/BagTipView/Content/ItemDetail0/Background/Layout/Viewport/Content/*/WordText"
+  sampleText: "<nobr>Willpower + 7<color=#FFDA5A>(7)</color></nobr>"
+  idealFontSize: 20
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/BagTipView/Content/ItemDetail0/Background/BlackBG/TextQuality"
+  sampleText: "Quality:   <color=#FFDA5A>Perfect</color>"
+  idealFontSize: 24
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/BagTipView/Content/ItemDetail0/Background/BlackBG/TextLevel"
+  sampleText: "Rank:Tier 7"
+  idealFontSize: 24
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/BagTipView/Content/ItemDetail0/Background/TextName"
+  sampleText: "Eight Extraordinary Meridians Chart � Volume Seven � Lifeforce"
+  idealFontSize: 28
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/BagTipView/Content/ItemDetail0/Background/ObjSell/TextPrice"
+  sampleText: "27418"
+  idealFontSize: 20
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/BagTipView/Content/ItemDetail0/Background/ObjSell/Text"
+  sampleText: "Selling price:"
+  idealFontSize: 20
+  alignment: "Bottom"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/BagTipView/Content/ItemDetail0/Background/ButtonDisCard/Text"
+  sampleText: "  Discard"
+  idealFontSize: 24
+  alignment: "Center"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/BagTipView/Content/ItemDetail0/Background/Text"
+  sampleText: "  Entry Attributes"
+  idealFontSize: 24
+  alignment: "Center"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/BagTipView/Content/ItemDetail0/Background/Equip/Attribute/UsableAttri"
+  sampleText: "<nobr>Used for meridians and internal organs, and additional terms.</nobr>"
+  idealFontSize: 20
+  alignment: "Top"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/BagTipView/Content/ItemDetail0/Background/Equip/Image/Text"
+  sampleText: "Material Properties"
+  idealFontSize: 20
+  alignment: "Center"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/BagTipView/Content/ItemDetail0/Background/Description/Viewport/TextDescription"
+  sampleText: "   This book was authored by a renowned master of the previous generation from an unnamed sect. It uniquely illustrates the flow of qi in the meridians through distinctive diagrams. By pairing it with accurate meridian knowledge, one can enhance and stabilize certain lifeforce attributes."
+  idealFontSize: 20
+  alignment: "TopLeft"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/HintUILayer/CommonTipView/xinfaSelect/itemDetail/Scroll View/Viewport/Content/*/tween/highlighthover/namehight"
+  sampleText: "<color=#E4F5E8>Dao of Concealing the Sword</color>"
+  idealFontSize: 20
+  alignment: "TopLeft"
+  allowWordWrap: true
+  adjustY: 20
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/HintUILayer/CommonTipView/xinfaSelect/itemDetail/Scroll View/Viewport/Content/*/tween/unactive/name"
+  sampleText: "<color=#E4F5E8>Dao of Concealing the Sword</color>"
+  idealFontSize: 20
+  alignment: "TopLeft"
+  allowWordWrap: true
+  adjustY: 20
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/HintUILayer/CommonTipView/xinfaSelect/citiaoDetail/bg/title/title (1)"
+  sampleText: "  Based on the chosen secret technique, randomly add attributes from the associated secret techniques."
+  idealFontSize: 20
+  alignment: "TopLeft"
+  allowWordWrap: true
+  allowLeftTrimText: true
+  adjustX: 20
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/HintUILayer/CommonTipView/xinfaSelect/citiaoDetail/bg/title"
+  sampleText: "  Special Attributes:"
+  idealFontSize: 20
+  alignment: "TopLeft"
+  allowWordWrap: true
+  allowLeftTrimText: true
+  adjustWidth: -450
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MainViewOld/Root/questpart/Scroll View/Viewport/Content/TagPrefab (1)/Content/MainQuestProfeb(Clone)/Image/QuestNameText"
+  sampleText: "Retreat to the mountains for quiet meditation"
+  idealFontSize: 20
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/jingmai/TipBg/Text (TMP)"
+  sampleText: "  Help information: \n1, you can perform the activation once your cultivation level and pre-required meridian point conditions are met.\n2, upon activation, can add special attributes through cultivation techniques and hidden attributes through secret scrolls.\n3, when adding a secret scroll, additional conditions for its use will be introduced. It can only be activated if these extra conditions are met.\n4, once activated, allows for refining specific and additional attributes to better suit your needs. When refining, you must add the corresponding art of intention or secret scroll.\n5, you can activate the Ren and Du meridians after activating the six meridians on the Meridian Activation interface. You must have all eight meridians activated to proceed with activating the Five Viscera.\n6, clicking the double fish icon at the center allows you to enter the Ren and Du Meridian configuration interface. The outer circle represents the points on the Ren and Du Meridians, while the center is for configuring the Heart Methods.\n7, configuring a qi cultivation technique will grant the corresponding true power value. The primary qi cultivation technique yields 100% of its true power effect, while the secondary qi cultivation technique provides 30%. A maximum of three qi cultivation configurations can be saved.\n8, after configuring the Heart Method, one can perform the Circulation of the Twelve Vessels and the Refining of the Five Organs. The Circulation of the Twelve Vessels yields additional effects, while only refined Five Organ attributes become effective.\n9, for the circulation of meridians around the heavens to take effect, it must satisfy at least three interconnected points. Circulations without any attribute effects cannot be activated."
+  idealFontSize: 18
+  alignment: "TopLeft"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/jingmaiEdit/jingmaiBtn/hover/Image/Text (TMP) (1)"
+  sampleText: "  Restore the meridian channels"
+  idealFontSize: 20
+  alignment: "Midline"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/jingmaiEdit/jingmaiBtn/Image/Text (TMP)"
+  sampleText: "  Restore the meridian channels"
+  idealFontSize: 20
+  alignment: "Midline"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/jingmaiEdit/zhoutianshuxingPanel/Text (TMP)"
+  sampleText: "  True Power Value"
+  idealFontSize: 24
+  alignment: "TopLeft"
+  allowWordWrap: true
+  allowLeftTrimText: true
+  adjustWidth: 50
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/jingmaiEdit/zhoutianshuxingPanel/attri/Text1"
+  sampleText: "  Perform Zou Tian's internal alchemy"
+  idealFontSize: 20
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/jingmaiEdit/zhoutiancircle/bg/Scroll View/Viewport/Content/*/attriContent/*/value1"
+  sampleText: "<color=#BA7EFE>Hard</color>    Hard <color=#FFDA5A>5</color>(5)"
+  idealFontSize: 24
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/jingmaiEdit/zhoutianTip/Text (TMP) (1)"
+  sampleText: "Zhou Tian's power networking connection is perfect; you can obtain the corresponding effects. Do you want to enable it?"
+  idealFontSize: 24
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/jingmaiEdit/zhoutianTip/btn_*/Text (TMP)"
+  sampleText: "  Begin"
+  idealFontSize: 24
+  alignment: "Midline"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/jingmaiEdit/zhoutianshuxingPanel/attri/Content/*/value1"
+  sampleText: "<color=#E4F5E8>External Defense</color>    External Defense + <color=#FFDA5A>18</color>(18)"
+  idealFontSize: 20
+  alignment: "TopLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/wuzang/yijihuo"
+  sampleText: "  Activated"
+  idealFontSize: 28
+  alignment: "TopLeft"
+  allowWordWrap: true
+  allowLeftTrimText: true
+  adjustX: 40
+  adjustWidth: 100
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/wuzang/wuzhangshuxingPanel/Text (TMP)"
+  sampleText: "  True Power Value"
+  idealFontSize: 20
+  alignment: "TopLeft"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/wuzang/jingmaiBtn/hover/Image/Text (TMP) (1)"
+  sampleText: "  Restore the meridian channels"
+  idealFontSize: 24
+  alignment: "Midline"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/wuzang/jingmaiBtn/Image/Text (TMP)"
+  sampleText: "  Restore the meridian channels"
+  idealFontSize: 24
+  alignment: "Midline"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/detailPart/shenmen/condition/conditionJingMai/Content/1001/tip"
+  sampleText: "Activate 8 meridians"
+  idealFontSize: 20
+  alignment: "Top"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/jingmaiPartNew/detailPart/shenmen/condition/conditionJingMai/Content/*/tip/tipcur"
+  sampleText: "(Inactive)"
+  idealFontSize: 18
+  alignment: "Top"
+  allowWordWrap: true
+  adjustY: -10

@@ -1,0 +1,18 @@
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/PlayerExperiencePart/ExperienceMapNew/Scroll View/Viewport/Content/TimeNode(Clone)/root/ExpObj(Clone)/root/des/Text"
+  sampleText: "As the conversation was very pleasant, I became friends with Head of the Village and invited them to meet again at a later date."
+  idealFontSize: 18
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/PlayerExperiencePart/ExperienceMapNew/ScrollType/Viewport/Content/Button*/Text (TMP)"
+  sampleText: "  Relationship:"
+  idealFontSize: 24
+  alignment: "Center"
+  allowWordWrap: true
+  allowLeftTrimText: true
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/LearnViewNew/PartRoot/PlayerExperiencePart/ExperienceMapNew/*/Viewport/Content/btn*/title"
+  sampleText: "  All of them"
+  idealFontSize: 18
+  alignment: "Center"
+  allowWordWrap: true
+  allowLeftTrimText: true
+  adjustWidth: 100

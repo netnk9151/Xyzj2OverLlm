@@ -1,0 +1,56 @@
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MainViewOld/Root/UI_Settings/mask/name/Text_Name"
+  sampleText: "Shen Yan Gong."
+  idealFontSize: 30
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "Midline"
+  allowWordWrap: false
+  allowAutoSizing: false
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MainViewOld/Root/UI_Settings/mask/Image_ChengHao/Text_ChengHao"
+  sampleText: "Wanderer in the Wind and Snow of the World"
+  idealFontSize: 20
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+  allowAutoSizing: false
+  adjustX: -50
+  adjustWidth: -50
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MainViewOld/Root/UI_Settings/mask/info/bg*/*/value"
+  sampleText: "45431"
+  idealFontSize: 20
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+  allowAutoSizing: false
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MainViewOld/Root/UI_Settings/mask/info/bg*/*/name"
+  sampleText: "  Money"
+  idealFontSize: 20
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+  allowAutoSizing: false
+  allowLeftTrimText: true
+  adjustX: -4
+  adjustWidth: 50
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MainViewOld/Root/UI_Settings/mask/info/bg/shengwang/name"
+  sampleText: "Cultivation"
+  idealFontSize: 20
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+  allowAutoSizing: false
+  adjustX: -4
+  adjustWidth: 50
+- path: "GameStart/GameUIRoot/UICamera/FormRoot/MainUILayer/MainViewOld/Root/UI_Settings/mask/info/bg (1)/daode/name"
+  sampleText: "Insight"
+  idealFontSize: 20
+  minFontSize: 0
+  maxFontSize: 0
+  alignment: "MidlineLeft"
+  allowWordWrap: true
+  allowAutoSizing: false
+  adjustWidth: 50

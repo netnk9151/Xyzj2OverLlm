@@ -45,13 +45,13 @@
   splits:
   - split: 2
     text: "魔君姜世离"
-    translated: "Mogu Jun Jiang Shili"
+    translated: "Demon Lord Jiang Shili"
 - lineNum: 24
   raw: "24#0#余思培#"
   splits:
   - split: 2
     text: "余思培"
-    translated: "You're thinking too much, Yusu Pei"
+    translated: "Yu Sipei"
 - lineNum: 25
   raw: "25#0#沐子轩#"
   splits:
